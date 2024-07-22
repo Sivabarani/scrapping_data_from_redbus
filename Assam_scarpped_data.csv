@@ -1,0 +1,450 @@
+date,state,route,route_link,bus_name,bus_type,departing_time,duration,reaching_time,star_rating,available_seats,price
+23 Jul,Assam,Tezpur to Guwahati,https://www.redbus.in/bus-tickets/tezpur-to-guwahati,Assam State Transport Corporation (ASTC) - 147480,Bharat Benz A/C Seater (2+2),05:00,04h 00m,09:00,3.5,2,INR 270
+23 Jul,Assam,Tezpur to Guwahati,https://www.redbus.in/bus-tickets/tezpur-to-guwahati,Assam State Transport Corporation (ASTC) - 174840,Bharat Benz A/C Seater (2+2),06:15,04h 15m,10:30,4.0,23,INR 298
+23 Jul,Assam,Tezpur to Guwahati,https://www.redbus.in/bus-tickets/tezpur-to-guwahati,Assam State Transport Corporation (ASTC) - 174830,Bharat Benz A/C Seater (2+2),09:30,04h 30m,14:00,3.0,23,INR 298
+23 Jul,Assam,Tezpur to Guwahati,https://www.redbus.in/bus-tickets/tezpur-to-guwahati,Assam State Transport Corporation (ASTC) - 170878,Bharat Benz A/C Seater (2+2),10:35,04h 40m,15:15,4.4,14,INR 298
+23 Jul,Assam,Tezpur to Guwahati,https://www.redbus.in/bus-tickets/tezpur-to-guwahati,Assam State Transport Corporation (ASTC) - 157959,Bharat Benz A/C Seater (2+2),14:00,04h 30m,18:30,4.5,18,INR 298
+23 Jul,Assam,Tezpur to Guwahati,https://www.redbus.in/bus-tickets/tezpur-to-guwahati,Assam State Transport Corporation (ASTC) - 168821,Bharat Benz A/C Seater (2+2),15:45,04h 45m,20:30,3.6,35,INR 298
+23 Jul,Assam,Tezpur to Guwahati,https://www.redbus.in/bus-tickets/tezpur-to-guwahati,Assam State Transport Corporation (ASTC) - 161055,Volvo AC Seater 2+2,16:15,04h 15m,20:30,4.9,24,INR 298
+23 Jul,Assam,Tezpur to Guwahati,https://www.redbus.in/bus-tickets/tezpur-to-guwahati,NEELKANTH TRAVELS,A/C Seater Push Back (2+2),05:15,03h 15m,08:30,4.5,26,INR 300
+23 Jul,Assam,Tezpur to Guwahati,https://www.redbus.in/bus-tickets/tezpur-to-guwahati,Sparrow Travels (Under ASTC),A/C Seater Push Back (2+2),05:20,04h 10m,09:30,3.7,40,INR 300
+23 Jul,Assam,Tezpur to Guwahati,https://www.redbus.in/bus-tickets/tezpur-to-guwahati,MAA Anada (UNDER ASTC),AC Seater (2+2),05:20,03h 10m,08:30,4.1,28,INR 304.2
+23 Jul,Assam,Tezpur to Guwahati,https://www.redbus.in/bus-tickets/tezpur-to-guwahati,Kanchan Travels,AC Seater (2+2),05:30,03h 15m,08:45,4.3,20,INR 332
+23 Jul,Assam,Tezpur to Guwahati,https://www.redbus.in/bus-tickets/tezpur-to-guwahati,Mahi Travels(Under ASTC),A/C Seater (2+2),05:40,03h 15m,08:55,4.7,12,INR 340
+23 Jul,Assam,Tezpur to Guwahati,https://www.redbus.in/bus-tickets/tezpur-to-guwahati,WARISPIYA TRAVELS,AC Seater (2+2),05:45,03h 15m,09:00,3.9,32,INR 360
+23 Jul,Assam,Tezpur to Guwahati,https://www.redbus.in/bus-tickets/tezpur-to-guwahati,Orient Transline,NON A/C Seater (2+1),05:55,03h 25m,09:20,3.9,19,INR 285.71
+23 Jul,Assam,Tezpur to Guwahati,https://www.redbus.in/bus-tickets/tezpur-to-guwahati,Mahi Travels(Under ASTC),Bharat Benz A/C Seater (2+2),06:15,03h 20m,09:35,3.9,17,INR 329
+23 Jul,Assam,Tezpur to Guwahati,https://www.redbus.in/bus-tickets/tezpur-to-guwahati,WARISPIYA TRAVELS,Bharat Benz A/C Seater (2+2),06:30,03h 55m,10:25,4.0,22,INR 360
+23 Jul,Assam,Tezpur to Guwahati,https://www.redbus.in/bus-tickets/tezpur-to-guwahati,Orient Transline,A/C Seater (2+1),07:25,03h 30m,10:55,4.6,10,INR 342.86
+23 Jul,Assam,Tezpur to Guwahati,https://www.redbus.in/bus-tickets/tezpur-to-guwahati,WARISPIYA TRAVELS,AC Seater (2+2),07:45,04h 15m,12:00,4.1,31,INR 360
+23 Jul,Assam,Tezpur to Guwahati,https://www.redbus.in/bus-tickets/tezpur-to-guwahati,Mahi Travels(Under ASTC),A/C Seater (2+2),08:00,03h 30m,11:30,4.5,28,INR 357
+23 Jul,Assam,Tezpur to Guwahati,https://www.redbus.in/bus-tickets/tezpur-to-guwahati,Mahalaxmi Travels,Tata A/C Seater (2+2),09:55,03h 50m,13:45,3.5,36,INR 300
+23 Jul,Assam,Tezpur to Guwahati,https://www.redbus.in/bus-tickets/tezpur-to-guwahati,Pranjit Travels (Under ASTC),Non AC Seater (2+1),10:10,04h 50m,15:00,3.1,19,INR 450
+23 Jul,Assam,Tezpur to Guwahati,https://www.redbus.in/bus-tickets/tezpur-to-guwahati,Chartered Bus - ASTC,A/C Seater Push Back (2+2),11:30,04h 45m,16:15,4.4,7,INR 356.23
+23 Jul,Assam,Tezpur to Guwahati,https://www.redbus.in/bus-tickets/tezpur-to-guwahati,Pranjit Travels (Under ASTC),NON A/C Seater (2+1),11:30,05h 15m,16:45,4.2,21,INR 450
+23 Jul,Assam,Tezpur to Guwahati,https://www.redbus.in/bus-tickets/tezpur-to-guwahati,KIRAN TRAVELS,Non AC Seater (2+1),12:00,05h 30m,17:30,3.6,26,INR 315
+23 Jul,Assam,Tezpur to Guwahati,https://www.redbus.in/bus-tickets/tezpur-to-guwahati,Chartered Bus - ASTC,Volvo AC Seater Pushback 2+2,13:00,04h 00m,17:00,4.7,22,INR 389.13
+23 Jul,Assam,Tezpur to Guwahati,https://www.redbus.in/bus-tickets/tezpur-to-guwahati,Chartered Bus - ASTC,Volvo AC Seater Pushback 2+2,14:30,04h 00m,18:30,4.8,29,INR 432.06
+23 Jul,Assam,Tezpur to Guwahati,https://www.redbus.in/bus-tickets/tezpur-to-guwahati,Chartered Bus - ASTC,Volvo AC Seater Pushback 2+2,15:30,03h 45m,19:15,4.6,36,INR 389.13
+23 Jul,Assam,Tezpur to Guwahati,https://www.redbus.in/bus-tickets/tezpur-to-guwahati,BLUE HILL TRAVELS INDIA LIMITED,NON A/C Seater Semi Sleeper (2+1),21:30,06h 00m,03:30,3.2,25,INR 400
+23 Jul,Assam,Tezpur to Guwahati,https://www.redbus.in/bus-tickets/tezpur-to-guwahati,Upasana Travels (Under ASTC),AC Seater (2+2),06:10,04h 10m,10:20,1.6,40,INR 330
+23 Jul,Assam,Tezpur to Guwahati,https://www.redbus.in/bus-tickets/tezpur-to-guwahati,Upasana Travels (Under ASTC),Non AC Seater (2+2),06:55,04h 05m,11:00,2.6,40,INR 325
+23 Jul,Assam,Tezpur to Guwahati,https://www.redbus.in/bus-tickets/tezpur-to-guwahati,Kalpana Travels,Non AC Seater (2+2),08:50,03h 40m,12:30,1.9,35,INR 318
+23 Jul,Assam,Tezpur to Guwahati,https://www.redbus.in/bus-tickets/tezpur-to-guwahati,Brindaban Travels,Non AC Seater (2+2),09:15,04h 00m,13:15,2.7,35,INR 300
+23 Jul,Assam,Tezpur to Guwahati,https://www.redbus.in/bus-tickets/tezpur-to-guwahati,PANKAJ TRAVELS,A/C Seater (2+1),13:00,04h 00m,17:00,0,8,INR 463
+23 Jul,Assam,Tezpur to Guwahati,https://www.redbus.in/bus-tickets/tezpur-to-guwahati,BARBIE TRAVELS,A/C Seater Push Back (2+2),13:10,04h 40m,17:50,0,30,INR 350
+23 Jul,Assam,Tezpur to Guwahati,https://www.redbus.in/bus-tickets/tezpur-to-guwahati,Karisma (Aziba),NON A/C Seater (2+1),13:40,00h 30m,14:10,2.6,20,INR 300
+23 Jul,Assam,Tezpur to Guwahati,https://www.redbus.in/bus-tickets/tezpur-to-guwahati,Himalayan Travels,NON A/C Seater (2+2),23:40,04h 20m,04:00,1.9,22,INR 450
+23 Jul,Assam,Tezpur to Guwahati,https://www.redbus.in/bus-tickets/tezpur-to-guwahati,DESTINY TRAVELS,NON A/C Seater (2+1),23:45,04h 00m,03:45,0,32,INR 399
+23 Jul,Assam,Tezpur to Guwahati,https://www.redbus.in/bus-tickets/tezpur-to-guwahati,BLUE HILL TRAVELS INDIA LIMITED,NON A/C Seater Semi Sleeper (2+1),22:15,05h 30m,03:45,3.8,28,INR 550
+23 Jul,Assam,Guwahati to Tezpur,https://www.redbus.in/bus-tickets/guwahati-to-tezpur,Assam State Transport Corporation (ASTC) - 139846,Volvo AC Seater 2+2,06:10,03h 50m,10:00,4.5,8,INR 298
+23 Jul,Assam,Guwahati to Tezpur,https://www.redbus.in/bus-tickets/guwahati-to-tezpur,Assam State Transport Corporation (ASTC) - 170668,Bharat Benz A/C Seater (2+2),06:30,04h 15m,10:45,4.6,20,INR 298
+23 Jul,Assam,Guwahati to Tezpur,https://www.redbus.in/bus-tickets/guwahati-to-tezpur,Assam State Transport Corporation (ASTC) - 143955,Bharat Benz A/C Seater (2+2),07:00,04h 00m,11:00,4.4,26,INR 298
+23 Jul,Assam,Guwahati to Tezpur,https://www.redbus.in/bus-tickets/guwahati-to-tezpur,Assam State Transport Corporation (ASTC) - 173419,Bharat Benz A/C Seater (2+2),07:15,03h 35m,10:50,4.4,8,INR 298
+23 Jul,Assam,Guwahati to Tezpur,https://www.redbus.in/bus-tickets/guwahati-to-tezpur,Assam State Transport Corporation (ASTC) - 154910,Bharat Benz A/C Seater (2+2),10:30,04h 30m,15:00,3.7,21,INR 298
+23 Jul,Assam,Guwahati to Tezpur,https://www.redbus.in/bus-tickets/guwahati-to-tezpur,Assam State Transport Corporation (ASTC) - 174839,Bharat Benz A/C Seater (2+2),15:15,04h 00m,19:15,4.1,34,INR 298
+23 Jul,Assam,Guwahati to Tezpur,https://www.redbus.in/bus-tickets/guwahati-to-tezpur,Karisma (Aziba),NON A/C Seater (2+1),05:45,04h 55m,10:40,3.7,19,INR 300
+23 Jul,Assam,Guwahati to Tezpur,https://www.redbus.in/bus-tickets/guwahati-to-tezpur,Chartered Bus - ASTC,Volvo AC Seater Pushback 2+2,06:15,04h 15m,10:30,4.5,22,INR 389.13
+23 Jul,Assam,Guwahati to Tezpur,https://www.redbus.in/bus-tickets/guwahati-to-tezpur,Yatra Travels,NON A/C Seater (2+1),07:00,05h 00m,12:00,3.3,10,INR 450
+23 Jul,Assam,Guwahati to Tezpur,https://www.redbus.in/bus-tickets/guwahati-to-tezpur,Chartered Bus - ASTC,A/C Seater Push Back (2+2),07:00,04h 00m,11:00,4.4,10,INR 485.57
+23 Jul,Assam,Guwahati to Tezpur,https://www.redbus.in/bus-tickets/guwahati-to-tezpur,KIRAN TRAVELS,A/C Seater (2+1),07:05,04h 25m,11:30,3.1,17,INR 324
+23 Jul,Assam,Guwahati to Tezpur,https://www.redbus.in/bus-tickets/guwahati-to-tezpur,Chartered Bus - ASTC,Volvo AC Seater Pushback 2+2,07:30,04h 00m,11:30,4.7,23,INR 389.13
+23 Jul,Assam,Guwahati to Tezpur,https://www.redbus.in/bus-tickets/guwahati-to-tezpur,Chartered Bus - ASTC,Volvo AC Seater Pushback 2+2,08:30,04h 00m,12:30,4.4,26,INR 432.06
+23 Jul,Assam,Guwahati to Tezpur,https://www.redbus.in/bus-tickets/guwahati-to-tezpur,NEELKANTH TRAVELS,A/C Seater Push Back (2+2),09:05,05h 25m,14:30,4.8,34,INR 300
+23 Jul,Assam,Guwahati to Tezpur,https://www.redbus.in/bus-tickets/guwahati-to-tezpur,MAA Anada (UNDER ASTC),AC Seater (2+2),09:30,05h 15m,14:45,3.3,31,INR 328.5
+23 Jul,Assam,Guwahati to Tezpur,https://www.redbus.in/bus-tickets/guwahati-to-tezpur,Mahi Travels(Under ASTC),A/C Seater (2+2),10:00,05h 00m,15:00,4.1,25,INR 341
+23 Jul,Assam,Guwahati to Tezpur,https://www.redbus.in/bus-tickets/guwahati-to-tezpur,Mahi Travels(Under ASTC),Bharat Benz A/C Seater (2+2),10:30,04h 55m,15:25,3.4,30,INR 342
+23 Jul,Assam,Guwahati to Tezpur,https://www.redbus.in/bus-tickets/guwahati-to-tezpur,Sparrow Travels (Under ASTC),A/C Seater Push Back (2+2),10:45,05h 15m,16:00,3.7,40,INR 330
+23 Jul,Assam,Guwahati to Tezpur,https://www.redbus.in/bus-tickets/guwahati-to-tezpur,Kanchan Travels,AC Seater (2+2),10:45,05h 15m,16:00,3.6,32,INR 343
+23 Jul,Assam,Guwahati to Tezpur,https://www.redbus.in/bus-tickets/guwahati-to-tezpur,Orient Transline,A/C Seater (2+1),11:30,04h 00m,15:30,4.2,22,INR 380.95
+23 Jul,Assam,Guwahati to Tezpur,https://www.redbus.in/bus-tickets/guwahati-to-tezpur,Orient Transline,NON A/C Seater (2+1),12:15,05h 20m,17:35,4.3,28,INR 300
+23 Jul,Assam,Guwahati to Tezpur,https://www.redbus.in/bus-tickets/guwahati-to-tezpur,Orient Transline,A/C Seater (2+1),13:00,04h 30m,17:30,4.2,24,INR 380.95
+23 Jul,Assam,Guwahati to Tezpur,https://www.redbus.in/bus-tickets/guwahati-to-tezpur,Mahi Travels(Under ASTC),A/C Seater (2+2),14:15,03h 35m,17:50,4.5,29,INR 369
+23 Jul,Assam,Guwahati to Tezpur,https://www.redbus.in/bus-tickets/guwahati-to-tezpur,WARISPIYA TRAVELS,AC Seater (2+2),15:00,03h 40m,18:40,4.5,34,INR 360
+23 Jul,Assam,Guwahati to Tezpur,https://www.redbus.in/bus-tickets/guwahati-to-tezpur,WARISPIYA TRAVELS,AC Seater (2+2),15:35,03h 40m,19:15,4.1,37,INR 360
+23 Jul,Assam,Guwahati to Tezpur,https://www.redbus.in/bus-tickets/guwahati-to-tezpur,WARISPIYA TRAVELS,Bharat Benz A/C Seater (2+2),16:15,03h 25m,19:40,4.2,32,INR 360
+23 Jul,Assam,Guwahati to Tezpur,https://www.redbus.in/bus-tickets/guwahati-to-tezpur,Yatra Travels,NON AC Seater/ Sleeper (2+1),18:00,05h 30m,23:30,3.3,28,INR 400
+23 Jul,Assam,Guwahati to Tezpur,https://www.redbus.in/bus-tickets/guwahati-to-tezpur,Yatra Travels,NON AC Seater/ Sleeper (2+1),20:00,04h 00m,00:00,3.6,22,INR 400
+23 Jul,Assam,Guwahati to Tezpur,https://www.redbus.in/bus-tickets/guwahati-to-tezpur,Pranjit Travels (Under ASTC),Non AC Seater (2+1),20:15,05h 00m,01:15,3.4,29,INR 450
+23 Jul,Assam,Guwahati to Tezpur,https://www.redbus.in/bus-tickets/guwahati-to-tezpur,Pranjit Travels (Under ASTC),NON A/C Seater (2+1),21:15,04h 00m,01:15,3.5,24,INR 450
+23 Jul,Assam,Guwahati to Tezpur,https://www.redbus.in/bus-tickets/guwahati-to-tezpur,Pranjit Travels (Under ASTC),Non AC Seater (2+1),21:45,04h 15m,02:00,3.9,35,INR 450
+23 Jul,Assam,Guwahati to Tezpur,https://www.redbus.in/bus-tickets/guwahati-to-tezpur,PANKAJ TRAVELS,AC Seater (2+2),05:30,04h 30m,10:00,0,34,INR 324
+23 Jul,Assam,Guwahati to Tezpur,https://www.redbus.in/bus-tickets/guwahati-to-tezpur,Pranjit Travels (Under ASTC),Non AC Seater (2+1),07:45,05h 25m,13:10,2.8,20,INR 450
+23 Jul,Assam,Guwahati to Tezpur,https://www.redbus.in/bus-tickets/guwahati-to-tezpur,Pranjit Travels (Under ASTC),A/C Seater (2+1),08:45,05h 15m,14:00,2.9,19,INR 500
+23 Jul,Assam,Guwahati to Tezpur,https://www.redbus.in/bus-tickets/guwahati-to-tezpur,NETWORK TRAVELS,NON A/C Seater Push Back (2+2),09:30,06h 45m,16:15,1.8,30,INR 250
+23 Jul,Assam,Guwahati to Tezpur,https://www.redbus.in/bus-tickets/guwahati-to-tezpur,BLUE HILL TRAVELS INDIA LIMITED,NON A/C Seater Semi Sleeper (2+1),09:30,03h 30m,13:00,2.4,29,INR 350
+23 Jul,Assam,Guwahati to Tezpur,https://www.redbus.in/bus-tickets/guwahati-to-tezpur,Upasana Travels (Under ASTC),Non AC Seater (2+2),11:00,04h 00m,15:00,1.3,40,INR 325
+23 Jul,Assam,Guwahati to Tezpur,https://www.redbus.in/bus-tickets/guwahati-to-tezpur,Volenath,Non AC Seater (2+2),11:30,05h 00m,16:30,1.4,40,INR 280
+23 Jul,Assam,Guwahati to Tezpur,https://www.redbus.in/bus-tickets/guwahati-to-tezpur,Upasana Travels (Under ASTC),AC Seater (2+2),13:45,04h 15m,18:00,1.6,40,INR 330
+23 Jul,Assam,Guwahati to Tezpur,https://www.redbus.in/bus-tickets/guwahati-to-tezpur,Mahalaxmi Travels,Tata A/C Seater (2+2),14:35,03h 55m,18:30,2.7,40,INR 300
+23 Jul,Assam,Guwahati to Tezpur,https://www.redbus.in/bus-tickets/guwahati-to-tezpur,Kalpana Travels,Non AC Seater (2+2),16:45,03h 45m,20:30,2.1,35,INR 318
+23 Jul,Assam,Guwahati to Tezpur,https://www.redbus.in/bus-tickets/guwahati-to-tezpur,Brindaban Travels,Non AC Seater (2+2),17:15,04h 00m,21:15,2.0,35,INR 300
+23 Jul,Assam,Guwahati to Tezpur,https://www.redbus.in/bus-tickets/guwahati-to-tezpur,DESTINY TRAVELS,NON A/C Seater (2+1),18:45,28h 45m,23:30,0,35,INR 408
+23 Jul,Assam,Guwahati to Tezpur,https://www.redbus.in/bus-tickets/guwahati-to-tezpur,BLUE HILL TRAVELS INDIA LIMITED,NON A/C Seater Semi Sleeper (2+1),19:15,05h 15m,00:30,2.4,31,INR 500
+23 Jul,Assam,Guwahati to Tezpur,https://www.redbus.in/bus-tickets/guwahati-to-tezpur,BLUE HILL TRAVELS INDIA LIMITED,NON A/C Seater Semi Sleeper (2+1),20:00,05h 15m,01:15,2.6,31,INR 500
+23 Jul,Assam,Guwahati to Tezpur,https://www.redbus.in/bus-tickets/guwahati-to-tezpur,Himalayan Travels,NON A/C Seater (2+2),20:30,06h 00m,02:30,0,28,INR 450
+23 Jul,Assam,Guwahati to Tezpur,https://www.redbus.in/bus-tickets/guwahati-to-tezpur,KIRAN TRAVELS,A/C Seater (2+1),20:40,03h 50m,00:30,3.1,14,INR 600
+23 Jul,Assam,Guwahati to Tezpur,https://www.redbus.in/bus-tickets/guwahati-to-tezpur,Pranjit Travels (Under ASTC),Bharat Benz A/C Seater (2+1),21:30,05h 00m,02:30,4.1,15,INR 550
+23 Jul,Assam,Nagaon (Assam) to Guwahati,https://www.redbus.in/bus-tickets/nagaon-to-guwahati,Assam State Transport Corporation (ASTC) - 145920,Bharat Benz A/C Seater (2+2),07:20,02h 40m,10:00,3.7,20,INR 191
+23 Jul,Assam,Nagaon (Assam) to Guwahati,https://www.redbus.in/bus-tickets/nagaon-to-guwahati,Assam State Transport Corporation (ASTC) - 154175,NON A/C Seater Push Back (2+1),12:30,03h 30m,16:00,3.5,18,INR 164
+23 Jul,Assam,Nagaon (Assam) to Guwahati,https://www.redbus.in/bus-tickets/nagaon-to-guwahati,NEELKANTH TRAVELS,A/C Seater Push Back (2+2),06:25,02h 05m,08:30,0,24,INR 250
+23 Jul,Assam,Nagaon (Assam) to Guwahati,https://www.redbus.in/bus-tickets/nagaon-to-guwahati,MAA Anada (UNDER ASTC),AC Seater (2+2),06:25,02h 05m,08:30,4.1,32,INR 247.5
+23 Jul,Assam,Nagaon (Assam) to Guwahati,https://www.redbus.in/bus-tickets/nagaon-to-guwahati,Kanchan Travels,AC Seater (2+2),06:30,02h 15m,08:45,3.9,27,INR 262
+23 Jul,Assam,Nagaon (Assam) to Guwahati,https://www.redbus.in/bus-tickets/nagaon-to-guwahati,Mahi Travels(Under ASTC),Bharat Benz A/C Seater (2+2),07:15,02h 20m,09:35,4.3,13,INR 329
+23 Jul,Assam,Nagaon (Assam) to Guwahati,https://www.redbus.in/bus-tickets/nagaon-to-guwahati,Kareng Travels,Non AC Seater (2+2),07:15,02h 15m,09:30,4.1,3,INR 285
+23 Jul,Assam,Nagaon (Assam) to Guwahati,https://www.redbus.in/bus-tickets/nagaon-to-guwahati,Orient Transline,NON A/C Seater (2+1),07:25,01h 55m,09:20,3.1,24,INR 285.71
+23 Jul,Assam,Nagaon (Assam) to Guwahati,https://www.redbus.in/bus-tickets/nagaon-to-guwahati,Orient Transline,A/C Seater (2+1),08:50,02h 05m,10:55,4.4,13,INR 333.33
+23 Jul,Assam,Nagaon (Assam) to Guwahati,https://www.redbus.in/bus-tickets/nagaon-to-guwahati,Mahi Travels(Under ASTC),A/C Seater (2+2),09:10,02h 20m,11:30,4.9,27,INR 293
+23 Jul,Assam,Nagaon (Assam) to Guwahati,https://www.redbus.in/bus-tickets/nagaon-to-guwahati,Anindita Travels,NON A/C Seater (2+1),09:15,02h 15m,11:30,4.7,17,INR 450
+23 Jul,Assam,Nagaon (Assam) to Guwahati,https://www.redbus.in/bus-tickets/nagaon-to-guwahati,Mahalaxmi Travels,Tata A/C Seater (2+2),11:10,02h 35m,13:45,3.7,36,INR 250
+23 Jul,Assam,Nagaon (Assam) to Guwahati,https://www.redbus.in/bus-tickets/nagaon-to-guwahati,Pranjit Travels (Under ASTC),Non AC Seater (2+1),11:55,03h 05m,15:00,3.4,19,INR 400
+23 Jul,Assam,Nagaon (Assam) to Guwahati,https://www.redbus.in/bus-tickets/nagaon-to-guwahati,Deep Travels,Non AC Seater (2+1),13:00,03h 00m,16:00,3.7,32,INR 250
+23 Jul,Assam,Nagaon (Assam) to Guwahati,https://www.redbus.in/bus-tickets/nagaon-to-guwahati,Kareng Travels,Bharat Benz A/C Seater (2+1),13:15,02h 45m,16:00,4.1,9,INR 285
+23 Jul,Assam,Nagaon (Assam) to Guwahati,https://www.redbus.in/bus-tickets/nagaon-to-guwahati,Kareng Travels,Non AC Seater (2+1),14:15,02h 15m,16:30,4.1,24,INR 285
+23 Jul,Assam,Nagaon (Assam) to Guwahati,https://www.redbus.in/bus-tickets/nagaon-to-guwahati,Chartered Bus - ASTC,Volvo AC Seater Pushback 2+2,14:30,02h 30m,17:00,4.6,25,INR 313.12
+23 Jul,Assam,Nagaon (Assam) to Guwahati,https://www.redbus.in/bus-tickets/nagaon-to-guwahati,Chartered Bus - ASTC,Volvo AC Seater Pushback 2+2,16:00,02h 30m,18:30,4.8,29,INR 324.04
+23 Jul,Assam,Nagaon (Assam) to Guwahati,https://www.redbus.in/bus-tickets/nagaon-to-guwahati,Chartered Bus - ASTC,Volvo AC Seater Pushback 2+2,17:00,02h 15m,19:15,4.4,36,INR 302.91
+23 Jul,Assam,Nagaon (Assam) to Guwahati,https://www.redbus.in/bus-tickets/nagaon-to-guwahati,TRINAYAN TRANSPORT (Under ASTC),A/C Seater (2+1),11:45,02h 45m,14:30,2.8,22,INR 398
+23 Jul,Assam,Nagaon (Assam) to Guwahati,https://www.redbus.in/bus-tickets/nagaon-to-guwahati,BARBIE TRAVELS,A/C Seater Push Back (2+2),14:50,03h 00m,17:50,0,30,INR 300
+23 Jul,Assam,Nagaon (Assam) to Guwahati,https://www.redbus.in/bus-tickets/nagaon-to-guwahati,Christina Travels,NON A/C Seater (2+2),16:00,02h 20m,18:20,2.8,36,INR 650
+23 Jul,Assam,Guwahati to Nagaon (Assam),https://www.redbus.in/bus-tickets/guwahati-to-nagaon,Assam State Transport Corporation (ASTC) - 170668,Bharat Benz A/C Seater (2+2),06:30,02h 30m,09:00,3.9,24,INR 191
+23 Jul,Assam,Guwahati to Nagaon (Assam),https://www.redbus.in/bus-tickets/guwahati-to-nagaon,Assam State Transport Corporation (ASTC) - 154910,Bharat Benz A/C Seater (2+2),10:30,02h 30m,13:00,3.7,21,INR 191
+23 Jul,Assam,Guwahati to Nagaon (Assam),https://www.redbus.in/bus-tickets/guwahati-to-nagaon,Assam State Transport Corporation (ASTC) - 146146,Bharat Benz A/C Seater (2+2),13:00,03h 00m,16:00,4.0,30,INR 191
+23 Jul,Assam,Guwahati to Nagaon (Assam),https://www.redbus.in/bus-tickets/guwahati-to-nagaon,Assam State Transport Corporation (ASTC) - 146079,Bharat Benz A/C Seater (2+2),15:00,03h 00m,18:00,3.8,27,INR 191
+23 Jul,Assam,Guwahati to Nagaon (Assam),https://www.redbus.in/bus-tickets/guwahati-to-nagaon,Assam State Transport Corporation (ASTC) - 174839,Bharat Benz A/C Seater (2+2),15:15,02h 25m,17:40,3.9,34,INR 191
+23 Jul,Assam,Guwahati to Nagaon (Assam),https://www.redbus.in/bus-tickets/guwahati-to-nagaon,Kareng Travels,Non AC Seater (2+1),05:00,02h 30m,07:30,4.4,17,INR 278
+23 Jul,Assam,Guwahati to Nagaon (Assam),https://www.redbus.in/bus-tickets/guwahati-to-nagaon,Chartered Bus - ASTC,Volvo AC Seater Pushback 2+2,06:15,03h 00m,09:15,4.7,24,INR 270.01
+23 Jul,Assam,Guwahati to Nagaon (Assam),https://www.redbus.in/bus-tickets/guwahati-to-nagaon,Deep Travels,Non AC Seater (2+1),07:30,02h 30m,10:00,3.7,34,INR 250
+23 Jul,Assam,Guwahati to Nagaon (Assam),https://www.redbus.in/bus-tickets/guwahati-to-nagaon,Chartered Bus - ASTC,Volvo AC Seater Pushback 2+2,07:30,02h 00m,09:30,4.7,22,INR 270.01
+23 Jul,Assam,Guwahati to Nagaon (Assam),https://www.redbus.in/bus-tickets/guwahati-to-nagaon,JOY HANUMAN,Non AC Seater (2+2),07:40,02h 50m,10:30,4.2,20,INR 200
+23 Jul,Assam,Guwahati to Nagaon (Assam),https://www.redbus.in/bus-tickets/guwahati-to-nagaon,Chartered Bus - ASTC,Volvo AC Seater Pushback 2+2,08:30,02h 15m,10:45,4.9,29,INR 324.04
+23 Jul,Assam,Guwahati to Nagaon (Assam),https://www.redbus.in/bus-tickets/guwahati-to-nagaon,NEELKANTH TRAVELS,A/C Seater Push Back (2+2),09:05,02h 55m,12:00,0,34,INR 250
+23 Jul,Assam,Guwahati to Nagaon (Assam),https://www.redbus.in/bus-tickets/guwahati-to-nagaon,MAA Anada (UNDER ASTC),AC Seater (2+2),09:30,03h 30m,13:00,3.3,31,INR 247.5
+23 Jul,Assam,Guwahati to Nagaon (Assam),https://www.redbus.in/bus-tickets/guwahati-to-nagaon,Mahi Travels(Under ASTC),A/C Seater (2+2),10:00,03h 30m,13:30,3.4,25,INR 341
+23 Jul,Assam,Guwahati to Nagaon (Assam),https://www.redbus.in/bus-tickets/guwahati-to-nagaon,Mahi Travels(Under ASTC),Bharat Benz A/C Seater (2+2),10:30,03h 20m,13:50,3.9,30,INR 303
+23 Jul,Assam,Guwahati to Nagaon (Assam),https://www.redbus.in/bus-tickets/guwahati-to-nagaon,Kanchan Travels,AC Seater (2+2),10:45,03h 25m,14:10,3.9,32,INR 285
+23 Jul,Assam,Guwahati to Nagaon (Assam),https://www.redbus.in/bus-tickets/guwahati-to-nagaon,Orient Transline,A/C Seater (2+1),11:30,02h 55m,14:25,3.6,32,INR 285.71
+23 Jul,Assam,Guwahati to Nagaon (Assam),https://www.redbus.in/bus-tickets/guwahati-to-nagaon,Kareng Travels,Non AC Seater (2+2),11:45,03h 00m,14:45,4.4,42,INR 266
+23 Jul,Assam,Guwahati to Nagaon (Assam),https://www.redbus.in/bus-tickets/guwahati-to-nagaon,Orient Transline,NON A/C Seater (2+1),12:15,03h 15m,15:30,4.4,35,INR 285.71
+23 Jul,Assam,Guwahati to Nagaon (Assam),https://www.redbus.in/bus-tickets/guwahati-to-nagaon,Orient Transline,A/C Seater (2+1),13:00,02h 45m,15:45,4.7,24,INR 333.33
+23 Jul,Assam,Guwahati to Nagaon (Assam),https://www.redbus.in/bus-tickets/guwahati-to-nagaon,Mahi Travels(Under ASTC),A/C Seater (2+2),14:15,02h 00m,16:15,3.9,37,INR 312
+23 Jul,Assam,Guwahati to Nagaon (Assam),https://www.redbus.in/bus-tickets/guwahati-to-nagaon,TRINAYAN TRANSPORT (Under ASTC),A/C Seater (2+1),08:00,03h 30m,11:30,2.9,10,INR 444
+23 Jul,Assam,Guwahati to Nagaon (Assam),https://www.redbus.in/bus-tickets/guwahati-to-nagaon,Anindita Travels,NON A/C Seater (2+1),12:30,03h 15m,15:45,2.9,35,INR 400
+23 Jul,Assam,Guwahati to Nagaon (Assam),https://www.redbus.in/bus-tickets/guwahati-to-nagaon,DESTINY TRAVELS,NON AC Seater / Sleeper 2+1,18:45,03h 05m,21:50,0,35,INR 428
+23 Jul,Assam,Guwahati to Nagaon (Assam),https://www.redbus.in/bus-tickets/guwahati-to-nagaon,Megha Transport,NON A/C Seater / Sleeper (3+1),19:30,02h 45m,22:15,3.7,50,INR 679
+23 Jul,Assam,Goalpara to Guwahati,https://www.redbus.in/bus-tickets/goalpara-to-guwahati,Assam State Transport Corporation (ASTC) - 141730,Bharat Benz A/C Seater (2+2),06:10,04h 00m,10:10,4.1,13,INR 233
+23 Jul,Assam,Goalpara to Guwahati,https://www.redbus.in/bus-tickets/goalpara-to-guwahati,Balaji Tours And Travels,NON A/C Seater (2+2),10:45,04h 00m,14:45,2.3,33,INR 162
+23 Jul,Assam,Goalpara to Guwahati,https://www.redbus.in/bus-tickets/goalpara-to-guwahati,Balaji Tours And Travels,NON A/C Seater Push Back (2+2),11:15,04h 20m,15:35,2.3,41,INR 162
+23 Jul,Assam,Goalpara to Guwahati,https://www.redbus.in/bus-tickets/goalpara-to-guwahati,Balaji Tours And Travels,NON A/C Seater (2+2),12:00,04h 20m,16:20,2.3,33,INR 162
+23 Jul,Assam,Goalpara to Guwahati,https://www.redbus.in/bus-tickets/goalpara-to-guwahati,Balaji Tours And Travels,NON A/C Seater (2+2),12:15,04h 15m,16:30,2.3,33,INR 162
+23 Jul,Assam,Goalpara to Guwahati,https://www.redbus.in/bus-tickets/goalpara-to-guwahati,Balaji Tours And Travels,NON A/C Seater Push Back (2+2),13:00,04h 00m,17:00,2.3,41,INR 162
+23 Jul,Assam,Goalpara to Guwahati,https://www.redbus.in/bus-tickets/goalpara-to-guwahati,Balaji Tours And Travels,NON A/C Seater (2+2),13:30,03h 30m,17:00,2.3,33,INR 162
+23 Jul,Assam,Goalpara to Guwahati,https://www.redbus.in/bus-tickets/goalpara-to-guwahati,Balaji Tours And Travels,NON A/C Seater (2+2),14:15,03h 00m,17:15,2.3,33,INR 162
+23 Jul,Assam,Jorhat to North Lakhimpur,https://www.redbus.in/bus-tickets/jorhat-to-north-lakhimpur,Priyanka,NON A/C Seater (2+1),19:00,10h 30m,05:30,3.0,22,INR 600
+23 Jul,Assam,Jorhat to North Lakhimpur,https://www.redbus.in/bus-tickets/jorhat-to-north-lakhimpur,Padmanav Travels,NON A/C Seater Push Back (2+2),06:00,07h 45m,13:45,2.8,34,INR 590
+23 Jul,Assam,Dhubri to Guwahati,https://www.redbus.in/bus-tickets/dhubri-to-guwahati,Assam State Transport Corporation (ASTC) - 150573,Bharat Benz A/C Seater (2+2),05:00,06h 00m,11:00,4.1,6,INR 410
+23 Jul,Assam,Dhubri to Guwahati,https://www.redbus.in/bus-tickets/dhubri-to-guwahati,Yatra,Non AC Seater (2+2),20:15,07h 15m,03:30,2.8,39,INR 350
+23 Jul,Assam,Dhubri to Guwahati,https://www.redbus.in/bus-tickets/dhubri-to-guwahati,Maa monosha travels,Non AC Seater (2+2),06:15,07h 00m,13:15,0,40,INR 350
+23 Jul,Assam,Dhubri to Guwahati,https://www.redbus.in/bus-tickets/dhubri-to-guwahati,Arifa Travels,A/C Seater (2+2),06:30,06h 30m,13:00,1.2,40,INR 350
+23 Jul,Assam,Dhubri to Guwahati,https://www.redbus.in/bus-tickets/dhubri-to-guwahati,Yatra,Non AC Seater (2+2),11:15,07h 30m,18:45,1.5,41,INR 300
+23 Jul,Assam,Dhubri to Guwahati,https://www.redbus.in/bus-tickets/dhubri-to-guwahati,Arifa Travels,Non AC Seater (2+2),05:30,05h 30m,11:00,1.7,44,INR 300
+23 Jul,Assam,Dhubri to Guwahati,https://www.redbus.in/bus-tickets/dhubri-to-guwahati,Yatra,Non AC Seater (2+2),13:15,07h 15m,20:30,2.5,41,INR 300
+23 Jul,Assam,Dhubri to Guwahati,https://www.redbus.in/bus-tickets/dhubri-to-guwahati,Arifa Travels,Non AC Seater (2+2),06:40,06h 50m,13:30,1.3,44,INR 300
+23 Jul,Assam,Guwahati to Dhubri,https://www.redbus.in/bus-tickets/guwahati-to-dhubri,Assam State Transport Corporation (ASTC) - 150574,Bharat Benz A/C Seater (2+2),12:00,07h 00m,19:00,3.8,11,INR 410
+23 Jul,Assam,Guwahati to Dhubri,https://www.redbus.in/bus-tickets/guwahati-to-dhubri,Yatra,Non AC Seater (2+2),08:15,07h 15m,15:30,2.6,40,INR 350
+23 Jul,Assam,Guwahati to Dhubri,https://www.redbus.in/bus-tickets/guwahati-to-dhubri,Maa monosha travels,Non AC Seater (2+2),14:00,07h 30m,21:30,0,38,INR 350
+23 Jul,Assam,Guwahati to Dhubri,https://www.redbus.in/bus-tickets/guwahati-to-dhubri,Maa monosha travels,Non AC Seater (2+2),14:30,07h 30m,22:00,0,40,INR 350
+23 Jul,Assam,Guwahati to Dhubri,https://www.redbus.in/bus-tickets/guwahati-to-dhubri,Yatra,Non AC Seater (2+2),06:30,06h 15m,12:45,1.1,40,INR 300
+23 Jul,Assam,North Lakhimpur to Sibsagar,https://www.redbus.in/bus-tickets/north-lakhimpur-to-sibsagar,Assam State Transport Corporation (ASTC) - 173044,Non AC Seater (2+2),13:00,03h 30m,16:30,3.0,13,INR 220
+23 Jul,Assam,North Lakhimpur to Sibsagar,https://www.redbus.in/bus-tickets/north-lakhimpur-to-sibsagar,Sylvan DEE Transport,Non AC Seater (2+1),17:30,12h 00m,05:30,3.3,12,INR 640
+23 Jul,Assam,North Lakhimpur to Jorhat,https://www.redbus.in/bus-tickets/north-lakhimpur-to-jorhat,Padmanav Travels,NON A/C Seater Push Back (2+2),05:30,08h 05m,13:35,2.7,41,INR 590
+23 Jul,Assam,North Lakhimpur to Jorhat,https://www.redbus.in/bus-tickets/north-lakhimpur-to-jorhat,Sylvan DEE Transport,Non AC Seater (2+1),17:30,11h 00m,04:30,2.7,12,INR 530
+23 Jul,Assam,Dhekiajuli to Guwahati,https://www.redbus.in/bus-tickets/dhekiajuli-to-guwahati,Assam State Transport Corporation (ASTC) - 147480,Bharat Benz A/C Seater (2+2),05:55,03h 05m,09:00,3.6,2,INR 213
+23 Jul,Assam,Dhekiajuli to Guwahati,https://www.redbus.in/bus-tickets/dhekiajuli-to-guwahati,Sparrow Travels (Under ASTC),A/C Seater Push Back (2+2),06:00,03h 30m,09:30,3.7,40,INR 275
+23 Jul,Assam,Dhekiajuli to Guwahati,https://www.redbus.in/bus-tickets/dhekiajuli-to-guwahati,Volenath,Non AC Seater (2+2),06:50,04h 10m,11:00,1.5,26,INR 190
+23 Jul,Assam,Jorhat to Dibrugarh,https://www.redbus.in/bus-tickets/jorhat-to-dibrugarh,Assam State Transport Corporation (ASTC) - 166131,Bharat Benz A/C Seater (2+2),07:20,04h 20m,11:40,4.3,22,INR 207
+23 Jul,Assam,Jorhat to Dibrugarh,https://www.redbus.in/bus-tickets/jorhat-to-dibrugarh,NETWORK TRAVELS,NON A/C Seater Push Back (2+1),04:01,04h 29m,08:30,3.7,11,INR 300
+23 Jul,Assam,Jorhat to Dibrugarh,https://www.redbus.in/bus-tickets/jorhat-to-dibrugarh,Basudev Transline,A/C Seater (2+2),10:00,04h 10m,14:10,4.3,27,INR 299
+23 Jul,Assam,Jorhat to Dibrugarh,https://www.redbus.in/bus-tickets/jorhat-to-dibrugarh,Aniruddha Travels,AC Seater (2+2),11:45,04h 30m,16:15,3.6,26,INR 450
+23 Jul,Assam,Jorhat to Dibrugarh,https://www.redbus.in/bus-tickets/jorhat-to-dibrugarh,NETWORK TRAVELS,A/C Seater Push Back (2+2),12:15,03h 45m,16:00,3.7,24,INR 450
+23 Jul,Assam,Jorhat to Dibrugarh,https://www.redbus.in/bus-tickets/jorhat-to-dibrugarh,Aroti Travels (Under ASTC),Non AC Seater (2+2),12:30,03h 50m,16:20,3.8,35,INR 250
+23 Jul,Assam,Jorhat to Dibrugarh,https://www.redbus.in/bus-tickets/jorhat-to-dibrugarh,NEELAKANTHA (RIYA),Tempo Traveler NON A/C,10:00,--,10:00,0,20,INR 250
+23 Jul,Assam,Jorhat to Dibrugarh,https://www.redbus.in/bus-tickets/jorhat-to-dibrugarh,Christina Travels,NON A/C Seater (2+2),12:30,04h 00m,16:30,2.8,34,INR 420
+23 Jul,Assam,Jorhat to Dibrugarh,https://www.redbus.in/bus-tickets/jorhat-to-dibrugarh,Purple Wings Coaches,A/C Seater / Sleeper (2+1),01:10,03h 20m,04:30,3.2,10,INR 540
+23 Jul,Assam,Jorhat to Dibrugarh,https://www.redbus.in/bus-tickets/jorhat-to-dibrugarh,RAYAN TRAVELS,Bharat Benz A/C Seater (2+1),12:30,03h 45m,16:15,3.6,21,INR 600
+23 Jul,Assam,Jorhat to Dibrugarh,https://www.redbus.in/bus-tickets/jorhat-to-dibrugarh,MADHURIKA TRAVELS,A/C Seater (2+1),12:45,04h 15m,17:00,3.9,25,INR 509
+23 Jul,Assam,Jorhat to Dibrugarh,https://www.redbus.in/bus-tickets/jorhat-to-dibrugarh,SHIVAM TRAVELS,Bharat Benz A/C Seater (2+1),13:30,03h 30m,17:00,4.4,7,INR 550
+23 Jul,Assam,Jorhat to Dibrugarh,https://www.redbus.in/bus-tickets/jorhat-to-dibrugarh,Chartered Bus - ASTC,Volvo AC Seater Pushback 2+2,13:30,03h 45m,17:15,4.3,18,INR 626.24
+23 Jul,Assam,Jorhat to Dibrugarh,https://www.redbus.in/bus-tickets/jorhat-to-dibrugarh,Bashudev Transline (Under ASTC),A/C Seater (2+1),14:10,03h 50m,18:00,4.3,12,INR 550
+24 Jul,Assam,Jorhat to Dhemaji,https://www.redbus.in/bus-tickets/jorhat-to-dhemaji,Assam State Transport Corporation (ASTC) - 152649,Bharat Benz A/C Seater (2+2),06:45,04h 35m,11:20,3.8,2,INR 296
+24 Jul,Assam,Sibsagar to North Lakhimpur,https://www.redbus.in/bus-tickets/sibsagar-to-north-lakhimpur,Assam State Transport Corporation (ASTC) - 173043,Non AC Seater (2+2),07:30,04h 00m,11:30,3.3,27,INR 220
+24 Jul,Assam,Sibsagar to North Lakhimpur,https://www.redbus.in/bus-tickets/sibsagar-to-north-lakhimpur,Assam State Transport Corporation (ASTC) - 152649,Bharat Benz A/C Seater (2+2),08:10,04h 50m,13:00,4.0,1,INR 314
+24 Jul,Assam,Dhemaji to Jorhat,https://www.redbus.in/bus-tickets/dhemaji-to-jorhat,Assam State Transport Corporation (ASTC) - 142181,Bharat Benz A/C Seater (2+2),08:00,04h 30m,12:30,4.2,1,INR 302
+23 Jul,Assam,Tezpur to Dibrugarh,https://www.redbus.in/bus-tickets/tezpur-to-dibrugarh,Assam State Transport Corporation (ASTC) - 96880,A/C Seater (2+1),08:00,08h 00m,16:00,3.5,14,INR 463
+23 Jul,Assam,Tezpur to Dibrugarh,https://www.redbus.in/bus-tickets/tezpur-to-dibrugarh,Aniruddha Travels,AC Seater (2+2),07:50,08h 25m,16:15,3.9,24,INR 500
+23 Jul,Assam,Tezpur to Dibrugarh,https://www.redbus.in/bus-tickets/tezpur-to-dibrugarh,Puja Transport,NON AC Seater / Sleeper 2+1,20:00,08h 30m,04:30,3.5,14,INR 550
+23 Jul,Assam,Tezpur to Dibrugarh,https://www.redbus.in/bus-tickets/tezpur-to-dibrugarh,SANJEEBANI TRAVELS,Non A/C Seater / Sleeper (2+1),21:30,06h 30m,04:00,0,36,INR 600
+23 Jul,Assam,Tezpur to Dibrugarh,https://www.redbus.in/bus-tickets/tezpur-to-dibrugarh,Puja Transport,Non AC Seater (2+2),20:00,09h 00m,05:00,2.4,27,INR 550
+23 Jul,Assam,Tezpur to Dibrugarh,https://www.redbus.in/bus-tickets/tezpur-to-dibrugarh,PIHU TRANSPORT,Bharat Benz NON A/C Seater / Sleeper (2+1),19:45,08h 15m,04:00,2.0,43,INR 470
+23 Jul,Assam,Tezpur to Dibrugarh,https://www.redbus.in/bus-tickets/tezpur-to-dibrugarh,J.S. Travels,Non AC Seater (2+1),21:00,07h 00m,04:00,2.3,32,INR 550
+23 Jul,Assam,Tezpur to Dibrugarh,https://www.redbus.in/bus-tickets/tezpur-to-dibrugarh,Maa Laxmi,NON A/C Seater Push Back (2+1),23:00,06h 30m,05:30,2.5,34,INR 550
+23 Jul,Assam,Tezpur to Dibrugarh,https://www.redbus.in/bus-tickets/tezpur-to-dibrugarh,Neha Travels,NON A/C Seater (2+2),22:40,08h 20m,07:00,2.0,21,INR 650
+23 Jul,Assam,Tezpur to Dibrugarh,https://www.redbus.in/bus-tickets/tezpur-to-dibrugarh,Neha Travels,NON A/C Seater (2+2),22:40,05h 50m,04:30,2.6,35,INR 650
+23 Jul,Assam,Tezpur to Dibrugarh,https://www.redbus.in/bus-tickets/tezpur-to-dibrugarh,MOON TRAVELS,AC Seater (2+2),07:15,08h 05m,15:20,2.2,28,INR 523
+23 Jul,Assam,Haflong to Guwahati,https://www.redbus.in/bus-tickets/haflong-to-guwahati,Assam State Transport Corporation (ASTC) - 154175,NON A/C Seater Push Back (2+1),07:00,09h 00m,16:00,3.8,18,INR 523
+23 Jul,Assam,Haflong to Guwahati,https://www.redbus.in/bus-tickets/haflong-to-guwahati,Deep Travels,Non AC Seater (2+1),07:00,09h 00m,16:00,4.0,32,INR 650
+23 Jul,Assam,Haflong to Guwahati,https://www.redbus.in/bus-tickets/haflong-to-guwahati,Deep Travels,Non AC Seater (2+1),17:45,10h 45m,04:30,4.0,29,INR 650
+23 Jul,Assam,Haflong to Guwahati,https://www.redbus.in/bus-tickets/haflong-to-guwahati,NETWORK TRAVELS,NON A/C Seater (2+1),18:00,10h 00m,04:00,4.5,16,INR 700
+23 Jul,Assam,North Lakhimpur to Dibrugarh,https://www.redbus.in/bus-tickets/north-lakhimpur-to-dibrugarh,Maa Jagadamba,NON A/C Seater (2+3),09:20,04h 10m,13:30,3.1,39,INR 250
+23 Jul,Assam,North Lakhimpur to Dibrugarh,https://www.redbus.in/bus-tickets/north-lakhimpur-to-dibrugarh,Maa Jagadamba,A/C Seater Push Back (2+2),09:40,03h 20m,13:00,3.1,41,INR 260
+23 Jul,Assam,North Lakhimpur to Dibrugarh,https://www.redbus.in/bus-tickets/north-lakhimpur-to-dibrugarh,BARBIE TRAVELS,NON A/C Hi-Tech Push Back (2+2),06:00,04h 20m,10:20,0,40,INR 240
+23 Jul,Assam,North Lakhimpur to Dibrugarh,https://www.redbus.in/bus-tickets/north-lakhimpur-to-dibrugarh,BARBIE TRAVELS,NON A/C Hi-Tech Push Back (2+2),07:55,04h 35m,12:30,0,40,INR 240
+23 Jul,Assam,North Lakhimpur to Dibrugarh,https://www.redbus.in/bus-tickets/north-lakhimpur-to-dibrugarh,BARBIE TRAVELS,A/C Seater Push Back (2+2),10:20,03h 20m,13:40,0,40,INR 300
+23 Jul,Assam,North Lakhimpur to Dibrugarh,https://www.redbus.in/bus-tickets/north-lakhimpur-to-dibrugarh,Air Bus Travels,NON AC Seater / Sleeper 2+1,21:00,06h 00m,03:00,3.8,45,INR 400
+23 Jul,Assam,Jorhat to Tinsukia,https://www.redbus.in/bus-tickets/jorhat-to-tinsukia,Assam State Transport Corporation (ASTC) - 166131,Bharat Benz A/C Seater (2+2),07:20,06h 10m,13:30,4.0,22,INR 281
+23 Jul,Assam,Jorhat to Tinsukia,https://www.redbus.in/bus-tickets/jorhat-to-tinsukia,Assam State Transport Corporation (ASTC) - 139495,NON A/C Seater Push Back (2+1),09:15,05h 45m,15:00,4.4,18,INR 247
+23 Jul,Assam,Jorhat to Tinsukia,https://www.redbus.in/bus-tickets/jorhat-to-tinsukia,Purple Wings Coaches,A/C Seater / Sleeper (2+1),01:10,04h 35m,05:45,3.9,10,INR 558
+23 Jul,Assam,Jorhat to Tinsukia,https://www.redbus.in/bus-tickets/jorhat-to-tinsukia,Aniruddha Travels,AC Seater (2+2),11:45,05h 45m,17:30,3.6,24,INR 450
+23 Jul,Assam,Jorhat to Tinsukia,https://www.redbus.in/bus-tickets/jorhat-to-tinsukia,Aroti Travels (Under ASTC),Non AC Seater (2+2),12:30,05h 20m,17:50,4.4,35,INR 350
+23 Jul,Assam,Jorhat to Tinsukia,https://www.redbus.in/bus-tickets/jorhat-to-tinsukia,Chartered Bus - ASTC,Volvo AC Seater Pushback 2+2,13:30,05h 00m,18:30,4.7,18,INR 669.36
+23 Jul,Assam,Jorhat to Tinsukia,https://www.redbus.in/bus-tickets/jorhat-to-tinsukia,NETWORK TRAVELS,NON A/C Seater Push Back (2+1),04:01,05h 29m,09:30,2.6,12,INR 300
+23 Jul,Assam,Jorhat to Tinsukia,https://www.redbus.in/bus-tickets/jorhat-to-tinsukia,Christina Travels,NON A/C Seater (2+2),12:30,05h 30m,18:00,2.0,34,INR 450
+23 Jul,Assam,Jorhat to Tinsukia,https://www.redbus.in/bus-tickets/jorhat-to-tinsukia,MADHURIKA TRAVELS,A/C Seater (2+1),12:45,05h 15m,18:00,2.2,24,INR 555
+23 Jul,Assam,Dibrugarh to Tezpur,https://www.redbus.in/bus-tickets/dibrugarh-to-tezpur,Assam State Transport Corporation (ASTC) - 163953,NON A/C Seater Push Back (2+1),08:30,07h 30m,16:00,3.2,25,INR 400
+23 Jul,Assam,Dibrugarh to Tezpur,https://www.redbus.in/bus-tickets/dibrugarh-to-tezpur,Puja Transport,NON AC Seater / Sleeper 2+1,20:00,09h 00m,05:00,4.1,7,INR 550
+23 Jul,Assam,Dibrugarh to Tezpur,https://www.redbus.in/bus-tickets/dibrugarh-to-tezpur,Aniruddha Travels,AC Seater (2+2),07:30,08h 05m,15:35,4.4,24,INR 500
+23 Jul,Assam,Dibrugarh to Tezpur,https://www.redbus.in/bus-tickets/dibrugarh-to-tezpur,SANJEEBANI TRAVELS,Non A/C Seater / Sleeper (2+1),18:45,08h 15m,03:00,0,24,INR 600
+23 Jul,Assam,Dibrugarh to Tezpur,https://www.redbus.in/bus-tickets/dibrugarh-to-tezpur,Aniruddha Travels,NON A/C Seater/ Sleeper (2+1),20:00,08h 00m,04:00,3.0,30,INR 550
+23 Jul,Assam,Dibrugarh to Tezpur,https://www.redbus.in/bus-tickets/dibrugarh-to-tezpur,PIHU TRANSPORT,Bharat Benz NON A/C Seater / Sleeper (2+1),19:50,08h 40m,04:30,3.0,38,INR 470
+23 Jul,Assam,Dibrugarh to Tezpur,https://www.redbus.in/bus-tickets/dibrugarh-to-tezpur,J.S. Travels,Non AC Seater (2+1),19:00,09h 00m,04:00,2.7,32,INR 500
+23 Jul,Assam,Dibrugarh to Tezpur,https://www.redbus.in/bus-tickets/dibrugarh-to-tezpur,Neha Travels,NON A/C Seater (2+2),17:00,10h 15m,03:15,2.8,32,INR 650
+23 Jul,Assam,Dibrugarh to Tezpur,https://www.redbus.in/bus-tickets/dibrugarh-to-tezpur,MOON TRAVELS,AC Seater (2+2),09:10,07h 50m,17:00,1.0,37,INR 570
+23 Jul,Assam,Dibrugarh to Tezpur,https://www.redbus.in/bus-tickets/dibrugarh-to-tezpur,Maa Laxmi,NON A/C Seater Push Back (2+1),18:15,07h 45m,02:00,2.8,35,INR 550
+23 Jul,Assam,Guwahati to Biswanath Charali,https://www.redbus.in/bus-tickets/guwahati-to-biswanath-charali,Assam State Transport Corporation (ASTC) - 173419,Bharat Benz A/C Seater (2+2),07:15,04h 35m,11:50,4.1,8,INR 412
+23 Jul,Assam,Guwahati to Biswanath Charali,https://www.redbus.in/bus-tickets/guwahati-to-biswanath-charali,Karisma (Aziba),NON A/C Seater (2+1),05:45,06h 05m,11:50,4.5,19,INR 400
+23 Jul,Assam,Guwahati to Biswanath Charali,https://www.redbus.in/bus-tickets/guwahati-to-biswanath-charali,Yatra Travels,NON A/C Seater (2+1),07:00,05h 40m,12:40,4.3,10,INR 450
+23 Jul,Assam,Guwahati to Biswanath Charali,https://www.redbus.in/bus-tickets/guwahati-to-biswanath-charali,Pranjit Travels (Under ASTC),NON A/C Seater (2+1),07:45,07h 15m,15:00,4.0,14,INR 500
+23 Jul,Assam,Guwahati to Biswanath Charali,https://www.redbus.in/bus-tickets/guwahati-to-biswanath-charali,Pranjit Travels (Under ASTC),A/C Seater (2+1),08:45,06h 00m,14:45,4.2,19,INR 550
+23 Jul,Assam,Guwahati to Biswanath Charali,https://www.redbus.in/bus-tickets/guwahati-to-biswanath-charali,BLUE HILL TRAVELS INDIA LIMITED,NON A/C Seater Semi Sleeper (2+1),09:30,05h 30m,15:00,3.7,29,INR 400
+23 Jul,Assam,Guwahati to Biswanath Charali,https://www.redbus.in/bus-tickets/guwahati-to-biswanath-charali,Mahi Travels(Under ASTC),A/C Seater (2+2),10:00,06h 30m,16:30,4.3,23,INR 432
+23 Jul,Assam,Guwahati to Biswanath Charali,https://www.redbus.in/bus-tickets/guwahati-to-biswanath-charali,Kanchan Travels,AC Seater (2+2),10:45,06h 40m,17:25,3.9,32,INR 437
+23 Jul,Assam,Guwahati to Biswanath Charali,https://www.redbus.in/bus-tickets/guwahati-to-biswanath-charali,Orient Transline,A/C Seater (2+1),11:30,05h 10m,16:40,4.2,25,INR 476.19
+23 Jul,Assam,Guwahati to Biswanath Charali,https://www.redbus.in/bus-tickets/guwahati-to-biswanath-charali,Orient Transline,NON A/C Seater (2+1),12:15,07h 15m,19:30,3.8,25,INR 380.95
+23 Jul,Assam,Guwahati to Biswanath Charali,https://www.redbus.in/bus-tickets/guwahati-to-biswanath-charali,Orient Transline,A/C Seater (2+1),13:00,06h 10m,19:10,3.7,24,INR 476.19
+23 Jul,Assam,Guwahati to Biswanath Charali,https://www.redbus.in/bus-tickets/guwahati-to-biswanath-charali,Mahi Travels(Under ASTC),A/C Seater (2+2),14:15,05h 15m,19:30,4.5,28,INR 454
+23 Jul,Assam,Guwahati to Biswanath Charali,https://www.redbus.in/bus-tickets/guwahati-to-biswanath-charali,Mahalaxmi Travels,Tata A/C Seater (2+2),14:35,05h 25m,20:00,4.6,35,INR 410
+23 Jul,Assam,Guwahati to Biswanath Charali,https://www.redbus.in/bus-tickets/guwahati-to-biswanath-charali,Yatra Travels,NON AC Seater/ Sleeper (2+1),18:00,07h 30m,01:30,4.0,26,INR 450
+23 Jul,Assam,Guwahati to Biswanath Charali,https://www.redbus.in/bus-tickets/guwahati-to-biswanath-charali,BLUE HILL TRAVELS INDIA LIMITED,NON A/C Seater Semi Sleeper (2+1),19:15,06h 15m,01:30,3.4,31,INR 500
+23 Jul,Assam,Guwahati to Biswanath Charali,https://www.redbus.in/bus-tickets/guwahati-to-biswanath-charali,PARIJAT TRAVELS(UNDER ASTC),NON A/C Seater (2+1),19:35,06h 25m,02:00,3.8,29,INR 500
+23 Jul,Assam,Guwahati to Biswanath Charali,https://www.redbus.in/bus-tickets/guwahati-to-biswanath-charali,Yatra Travels,NON AC Seater/ Sleeper (2+1),20:00,05h 00m,01:00,3.4,22,INR 450
+23 Jul,Assam,Guwahati to Biswanath Charali,https://www.redbus.in/bus-tickets/guwahati-to-biswanath-charali,Pranjit Travels (Under ASTC),NON A/C Seater (2+1),20:15,05h 45m,02:00,3.9,29,INR 500
+23 Jul,Assam,Guwahati to Biswanath Charali,https://www.redbus.in/bus-tickets/guwahati-to-biswanath-charali,Maharathi Travels(UNDER ASTC),NON A/C Seater (2+1),20:55,06h 35m,03:30,4.1,33,INR 400
+23 Jul,Assam,Guwahati to Biswanath Charali,https://www.redbus.in/bus-tickets/guwahati-to-biswanath-charali,Pranjit Travels (Under ASTC),Non AC Seater (2+1),21:15,05h 45m,03:00,4.2,29,INR 500
+23 Jul,Assam,Guwahati to Biswanath Charali,https://www.redbus.in/bus-tickets/guwahati-to-biswanath-charali,Pranjit Travels (Under ASTC),Bharat Benz A/C Seater (2+1),21:30,06h 15m,03:45,4.1,18,INR 550
+23 Jul,Assam,Guwahati to Biswanath Charali,https://www.redbus.in/bus-tickets/guwahati-to-biswanath-charali,Pranjit Travels (Under ASTC),NON A/C Seater (2+1),21:45,05h 15m,03:00,3.9,36,INR 500
+23 Jul,Assam,Guwahati to Biswanath Charali,https://www.redbus.in/bus-tickets/guwahati-to-biswanath-charali,PANKAJ TRAVELS,AC Seater (2+2),05:30,05h 20m,10:50,0,34,INR 416
+23 Jul,Assam,Guwahati to Biswanath Charali,https://www.redbus.in/bus-tickets/guwahati-to-biswanath-charali,KIRAN TRAVELS,A/C Seater (2+1),07:05,05h 25m,12:30,2.9,22,INR 432
+23 Jul,Assam,Guwahati to Biswanath Charali,https://www.redbus.in/bus-tickets/guwahati-to-biswanath-charali,MAA Anada (UNDER ASTC),AC Seater (2+2),09:30,06h 45m,16:15,1.9,6,INR 384.3
+23 Jul,Assam,Guwahati to Biswanath Charali,https://www.redbus.in/bus-tickets/guwahati-to-biswanath-charali,Mahi Travels(Under ASTC),Bharat Benz A/C Seater (2+2),10:30,06h 30m,17:00,2.9,30,INR 427
+23 Jul,Assam,Guwahati to Biswanath Charali,https://www.redbus.in/bus-tickets/guwahati-to-biswanath-charali,DESTINY TRAVELS,NON A/C Seater (2+1),18:45,29h 39m,00:24,0,35,INR 457
+23 Jul,Assam,Guwahati to Biswanath Charali,https://www.redbus.in/bus-tickets/guwahati-to-biswanath-charali,BLUE HILL TRAVELS INDIA LIMITED,NON A/C Seater Semi Sleeper (2+1),20:00,06h 00m,02:00,1.9,31,INR 550
+23 Jul,Assam,Guwahati to Biswanath Charali,https://www.redbus.in/bus-tickets/guwahati-to-biswanath-charali,NORTH EAST TRAVELS(UNDER ASTC),NON A/C Seater (2+1),20:15,06h 15m,02:30,2.2,26,INR 500
+23 Jul,Assam,Guwahati to Biswanath Charali,https://www.redbus.in/bus-tickets/guwahati-to-biswanath-charali,Chartered Bus - ASTC,A/C Seater Push Back (2+2),07:00,05h 00m,12:00,4.4,10,INR 712.47
+23 Jul,Assam,Guwahati to Haflong,https://www.redbus.in/bus-tickets/guwahati-to-haflong,NETWORK TRAVELS,NON A/C Seater (2+1),18:30,12h 30m,07:00,4.5,26,INR 700
+23 Jul,Assam,Guwahati to Haflong,https://www.redbus.in/bus-tickets/guwahati-to-haflong,JOY HANUMAN,Non AC Seater (2+2),07:40,09h 00m,16:40,4.5,17,INR 627
+23 Jul,Assam,Guwahati to Haflong,https://www.redbus.in/bus-tickets/guwahati-to-haflong,Deep Travels,Non AC Seater (2+1),19:30,11h 00m,06:30,3.6,30,INR 650
+23 Jul,Assam,Guwahati to Haflong,https://www.redbus.in/bus-tickets/guwahati-to-haflong,Deep Travels,Non AC Seater (2+1),07:30,09h 30m,17:00,3.6,34,INR 650
+23 Jul,Assam,Dibrugarh to North Lakhimpur,https://www.redbus.in/bus-tickets/dibrugarh-to-north-lakhimpur,Maa Jagadamba,NON A/C Seater (2+3),15:40,03h 50m,19:30,3.7,39,INR 250
+23 Jul,Assam,Dibrugarh to North Lakhimpur,https://www.redbus.in/bus-tickets/dibrugarh-to-north-lakhimpur,Maa Jagadamba,A/C Seater Push Back (2+2),16:15,03h 15m,19:30,3.7,41,INR 260
+23 Jul,Assam,Dibrugarh to North Lakhimpur,https://www.redbus.in/bus-tickets/dibrugarh-to-north-lakhimpur,BARBIE TRAVELS,NON A/C Hi-Tech Push Back (2+2),11:10,04h 20m,15:30,0,40,INR 240
+23 Jul,Assam,Dibrugarh to North Lakhimpur,https://www.redbus.in/bus-tickets/dibrugarh-to-north-lakhimpur,PANKAJ TRAVELS,NON A/C Hi-Tech Push Back (2+2),12:30,04h 40m,17:10,0,40,INR 240
+23 Jul,Assam,Dibrugarh to North Lakhimpur,https://www.redbus.in/bus-tickets/dibrugarh-to-north-lakhimpur,BARBIE TRAVELS,NON A/C Hi-Tech Push Back (2+2),13:30,05h 00m,18:30,0,40,INR 240
+23 Jul,Assam,Dibrugarh to North Lakhimpur,https://www.redbus.in/bus-tickets/dibrugarh-to-north-lakhimpur,BARBIE TRAVELS,NON A/C Hi-Tech Push Back (2+2),15:30,04h 00m,19:30,0,40,INR 240
+23 Jul,Assam,Dibrugarh to North Lakhimpur,https://www.redbus.in/bus-tickets/dibrugarh-to-north-lakhimpur,Air Bus Travels,NON AC Seater / Sleeper 2+1,19:40,05h 20m,01:00,2.4,46,INR 400
+23 Jul,Assam,Dibrugarh to North Lakhimpur,https://www.redbus.in/bus-tickets/dibrugarh-to-north-lakhimpur,Air Bus Travels,NON AC Seater / Sleeper 2+1,21:15,04h 45m,02:00,2.3,41,INR 400
+23 Jul,Assam,Nagaon (Assam) to Haflong,https://www.redbus.in/bus-tickets/nagaon-to-haflong,JOY HANUMAN,Non AC Seater (2+2),10:30,06h 10m,16:40,3.9,17,INR 380
+23 Jul,Assam,Nagaon (Assam) to Haflong,https://www.redbus.in/bus-tickets/nagaon-to-haflong,Deep Travels,Non AC Seater (2+1),10:00,07h 00m,17:00,2.0,34,INR 400
+23 Jul,Assam,Tezpur to Moran,https://www.redbus.in/bus-tickets/tezpur-to-moran,Assam State Transport Corporation (ASTC) - 96880,A/C Seater (2+1),08:00,06h 45m,14:45,3.9,14,INR 405
+23 Jul,Assam,Tezpur to Moran,https://www.redbus.in/bus-tickets/tezpur-to-moran,Aniruddha Travels,AC Seater (2+2),07:50,07h 10m,15:00,4.2,26,INR 500
+23 Jul,Assam,Tezpur to Moran,https://www.redbus.in/bus-tickets/tezpur-to-moran,SANJEEBANI TRAVELS,Non A/C Seater / Sleeper (2+1),21:30,05h 30m,03:00,0,36,INR 600
+23 Jul,Assam,Tezpur to Moran,https://www.redbus.in/bus-tickets/tezpur-to-moran,PIHU TRANSPORT,Bharat Benz NON A/C Seater / Sleeper (2+1),19:45,07h 15m,03:00,2.8,50,INR 520
+23 Jul,Assam,Tezpur to Moran,https://www.redbus.in/bus-tickets/tezpur-to-moran,Neha Travels,NON A/C Seater (2+2),22:40,05h 20m,04:00,1.9,35,INR 650
+23 Jul,Assam,Tezpur to Moran,https://www.redbus.in/bus-tickets/tezpur-to-moran,MOON TRAVELS,AC Seater (2+2),07:15,07h 00m,14:15,3.0,30,INR 475
+23 Jul,Assam,Tezpur to Moran,https://www.redbus.in/bus-tickets/tezpur-to-moran,Maa Laxmi,NON A/C Seater Push Back (2+1),23:00,06h 00m,05:00,2.8,35,INR 500
+23 Jul,Assam,Tezpur to Moran,https://www.redbus.in/bus-tickets/tezpur-to-moran,Neha Travels,NON A/C Seater (2+2),22:40,07h 20m,06:00,1.9,35,INR 650
+23 Jul,Assam,Dibrugarh to Jorhat,https://www.redbus.in/bus-tickets/dibrugarh-to-jorhat,Assam State Transport Corporation (ASTC) - 166134,Bharat Benz A/C Seater (2+2),10:30,05h 00m,15:30,3.5,27,INR 207
+23 Jul,Assam,Dibrugarh to Jorhat,https://www.redbus.in/bus-tickets/dibrugarh-to-jorhat,Bashudev Transline (Under ASTC),A/C Seater (2+1),06:45,03h 45m,10:30,4.1,15,INR 550
+23 Jul,Assam,Dibrugarh to Jorhat,https://www.redbus.in/bus-tickets/dibrugarh-to-jorhat,Aroti Travels (Under ASTC),Non AC Seater (2+2),06:51,03h 09m,10:00,3.5,37,INR 250
+23 Jul,Assam,Dibrugarh to Jorhat,https://www.redbus.in/bus-tickets/dibrugarh-to-jorhat,NETWORK TRAVELS,A/C Seater Push Back (2+2),07:15,03h 15m,10:30,3.7,36,INR 450
+23 Jul,Assam,Dibrugarh to Jorhat,https://www.redbus.in/bus-tickets/dibrugarh-to-jorhat,SHIVAM TRAVELS,Bharat Benz A/C Seater (2+1),07:30,03h 45m,11:15,4.9,11,INR 532
+23 Jul,Assam,Dibrugarh to Jorhat,https://www.redbus.in/bus-tickets/dibrugarh-to-jorhat,RAYAN TRAVELS,Bharat Benz A/C Seater (2+1),07:30,03h 15m,10:45,4.0,12,INR 600
+23 Jul,Assam,Dibrugarh to Jorhat,https://www.redbus.in/bus-tickets/dibrugarh-to-jorhat,Chartered Bus - ASTC,A/C Seater Push Back (2+2),08:00,03h 00m,11:00,4.5,29,INR 647.8
+23 Jul,Assam,Dibrugarh to Jorhat,https://www.redbus.in/bus-tickets/dibrugarh-to-jorhat,Basudev Transline,A/C Seater (2+2),15:15,04h 25m,19:40,3.3,28,INR 299
+23 Jul,Assam,Dibrugarh to Jorhat,https://www.redbus.in/bus-tickets/dibrugarh-to-jorhat,Trishul Transport Service,A/C Seater / Sleeper (2+1),19:15,03h 40m,22:55,3.6,39,INR 509
+23 Jul,Assam,Dibrugarh to Jorhat,https://www.redbus.in/bus-tickets/dibrugarh-to-jorhat,Megha Transport,NON A/C Seater / Sleeper (3+1),19:30,04h 09m,23:39,3.7,40,INR 500
+23 Jul,Assam,Dibrugarh to Jorhat,https://www.redbus.in/bus-tickets/dibrugarh-to-jorhat,Purple Wings Coaches,A/C Seater / Sleeper (2+1),19:55,04h 05m,00:00,3.4,32,INR 540
+23 Jul,Assam,Dibrugarh to Jorhat,https://www.redbus.in/bus-tickets/dibrugarh-to-jorhat,Aniruddha Travels,AC Seater (2+2),07:30,03h 40m,11:10,2.7,24,INR 450
+23 Jul,Assam,Dibrugarh to Jorhat,https://www.redbus.in/bus-tickets/dibrugarh-to-jorhat,Christina Travels,NON A/C Seater (2+2),08:20,02h 55m,11:15,2.8,31,INR 650
+23 Jul,Assam,Dibrugarh to Jorhat,https://www.redbus.in/bus-tickets/dibrugarh-to-jorhat,NEELAKANTHA (RIYA),Tempo Traveler NON A/C,15:45,04h 15m,20:00,0,20,INR 250
+23 Jul,Assam,Dibrugarh to Jorhat,https://www.redbus.in/bus-tickets/dibrugarh-to-jorhat,Maa Laxmi,NON A/C Seater Push Back (2+1),18:15,03h 15m,21:30,2.8,36,INR 500
+23 Jul,Assam,Dibrugarh to Jorhat,https://www.redbus.in/bus-tickets/dibrugarh-to-jorhat,Murugan RC Travels,NON A/C Seater (2+1),18:55,04h 05m,23:00,2.6,34,INR 326
+23 Jul,Assam,Guwahati to Silchar,https://www.redbus.in/bus-tickets/guwahati-to-silchar,RAYAN TRAVELS,NON A/C Seater (2+1),18:30,10h 45m,05:15,2.9,27,INR 650
+23 Jul,Assam,Guwahati to Silchar,https://www.redbus.in/bus-tickets/guwahati-to-silchar,JAYSIKA,NON A/C Seater (2+1),18:30,11h 30m,06:00,2.2,28,INR 650
+23 Jul,Assam,Guwahati to Silchar,https://www.redbus.in/bus-tickets/guwahati-to-silchar,NETWORK TRAVELS,NON A/C Seater Push Back (2+1),18:30,10h 30m,05:00,2.7,29,INR 650
+23 Jul,Assam,Guwahati to Silchar,https://www.redbus.in/bus-tickets/guwahati-to-silchar,Jagannath Travels and Tours Pvt. Ltd.,NON A/C Seater Push Back (2+1),07:00,10h 30m,17:30,2.3,31,INR 700
+23 Jul,Assam,Guwahati to Silchar,https://www.redbus.in/bus-tickets/guwahati-to-silchar,SEEMA TRAVELS,NON AC Seater / Sleeper 2+1,19:00,10h 00m,05:00,2.1,46,INR 650
+23 Jul,Assam,Guwahati to Silchar,https://www.redbus.in/bus-tickets/guwahati-to-silchar,Arhans Tour And Travels,NON AC Seater / Sleeper 2+1,19:00,10h 00m,05:00,2.1,49,INR 600
+24 Jul,Assam,Bihpuria to Dibrugarh,https://www.redbus.in/bus-tickets/bihpuria-to-dibrugarh,Assam State Transport Corporation (ASTC) - 156624,NON A/C Seater Push Back (2+1),06:30,04h 15m,10:45,4.4,31,INR 257
+23 Jul,Assam,Haflong to Nagaon (Assam),https://www.redbus.in/bus-tickets/haflong-to-nagaon,Assam State Transport Corporation (ASTC) - 154175,NON A/C Seater Push Back (2+1),07:00,05h 30m,12:30,4.4,18,INR 358
+23 Jul,Assam,Haflong to Nagaon (Assam),https://www.redbus.in/bus-tickets/haflong-to-nagaon,Deep Travels,Non AC Seater (2+1),07:00,06h 00m,13:00,2.9,32,INR 450
+23 Jul,Assam,North Lakhimpur to Tezpur,https://www.redbus.in/bus-tickets/north-lakhimpur-to-tezpur,Assam State Transport Corporation (ASTC) - 170878,Bharat Benz A/C Seater (2+2),07:00,03h 35m,10:35,4.4,8,INR 333
+23 Jul,Assam,North Lakhimpur to Tezpur,https://www.redbus.in/bus-tickets/north-lakhimpur-to-tezpur,Karisma (Aziba),NON A/C Seater (2+1),05:35,04h 25m,10:00,3.9,23,INR 400
+23 Jul,Assam,North Lakhimpur to Tezpur,https://www.redbus.in/bus-tickets/north-lakhimpur-to-tezpur,Pranjit Travels (Under ASTC),Non AC Seater (2+1),05:45,05h 10m,10:55,3.3,18,INR 500
+23 Jul,Assam,North Lakhimpur to Tezpur,https://www.redbus.in/bus-tickets/north-lakhimpur-to-tezpur,KIRAN TRAVELS,Non AC Seater (2+1),07:35,04h 25m,12:00,4.0,30,INR 450
+23 Jul,Assam,North Lakhimpur to Tezpur,https://www.redbus.in/bus-tickets/north-lakhimpur-to-tezpur,Chartered Bus - ASTC,A/C Seater Push Back (2+2),07:45,03h 45m,11:30,4.5,7,INR 551.37
+23 Jul,Assam,North Lakhimpur to Tezpur,https://www.redbus.in/bus-tickets/north-lakhimpur-to-tezpur,KRISHNA CHARAN TRAVELS,A/C Seater Push Back (2+2),12:00,04h 30m,16:30,3.8,40,INR 450
+23 Jul,Assam,North Lakhimpur to Tezpur,https://www.redbus.in/bus-tickets/north-lakhimpur-to-tezpur,Sparrow Travels (Under ASTC),Non AC Seater (2+2),12:30,06h 15m,18:45,3.0,40,INR 350
+23 Jul,Assam,North Lakhimpur to Tezpur,https://www.redbus.in/bus-tickets/north-lakhimpur-to-tezpur,Mahadev K.P.,Tata A/C Seater (2+2),05:00,05h 15m,10:15,2.0,41,INR 460
+23 Jul,Assam,North Lakhimpur to Tezpur,https://www.redbus.in/bus-tickets/north-lakhimpur-to-tezpur,Mahadev K.P.,Tata A/C Seater (2+2),05:20,05h 10m,10:30,2.0,41,INR 460
+23 Jul,Assam,North Lakhimpur to Tezpur,https://www.redbus.in/bus-tickets/north-lakhimpur-to-tezpur,Pranjit Travels (Under ASTC),Non AC Seater (2+1),07:15,04h 15m,11:30,2.9,21,INR 450
+23 Jul,Assam,North Lakhimpur to Tezpur,https://www.redbus.in/bus-tickets/north-lakhimpur-to-tezpur,BARBIE TRAVELS,A/C Seater Push Back (2+2),07:25,05h 45m,13:10,0,30,INR 400
+23 Jul,Assam,North Lakhimpur to Tezpur,https://www.redbus.in/bus-tickets/north-lakhimpur-to-tezpur,PANKAJ TRAVELS,A/C Seater (2+1),08:30,04h 30m,13:00,0,26,INR 463
+23 Jul,Assam,North Lakhimpur to Tezpur,https://www.redbus.in/bus-tickets/north-lakhimpur-to-tezpur,Ruma Travels (Under ASTC),Non AC Seater (2+2),08:30,07h 00m,15:30,1.0,41,INR 350
+23 Jul,Assam,North Lakhimpur to Tezpur,https://www.redbus.in/bus-tickets/north-lakhimpur-to-tezpur,Debarath,A/C Seater Hi-Tech Push Back (2+2),10:00,05h 45m,15:45,1.7,40,INR 460
+23 Jul,Assam,North Lakhimpur to Tezpur,https://www.redbus.in/bus-tickets/north-lakhimpur-to-tezpur,B.M. Travels (Swastidut) - Under ASTC,Non AC Seater (2+2),10:30,05h 50m,16:20,2.4,41,INR 350
+23 Jul,Assam,North Lakhimpur to Tezpur,https://www.redbus.in/bus-tickets/north-lakhimpur-to-tezpur,Mayur Travels (Under ASTC),Non AC Seater (2+2),12:15,05h 45m,18:00,0,43,INR 350
+23 Jul,Assam,North Lakhimpur to Tezpur,https://www.redbus.in/bus-tickets/north-lakhimpur-to-tezpur,DESTINY TRAVELS,NON A/C Seater (2+1),19:45,04h 00m,23:45,0,32,INR 428
+23 Jul,Assam,Biswanath Charali to Guwahati,https://www.redbus.in/bus-tickets/biswanath-charali-to-guwahati,Assam State Transport Corporation (ASTC) - 174830,Bharat Benz A/C Seater (2+2),08:15,05h 45m,14:00,4.2,27,INR 412
+23 Jul,Assam,Biswanath Charali to Guwahati,https://www.redbus.in/bus-tickets/biswanath-charali-to-guwahati,Assam State Transport Corporation (ASTC) - 170878,Bharat Benz A/C Seater (2+2),09:45,05h 30m,15:15,4.5,10,INR 412
+23 Jul,Assam,Biswanath Charali to Guwahati,https://www.redbus.in/bus-tickets/biswanath-charali-to-guwahati,PARIJAT TRAVELS(UNDER ASTC),NON A/C Seater (2+1),00:30,06h 00m,06:30,3.8,5,INR 500
+23 Jul,Assam,Biswanath Charali to Guwahati,https://www.redbus.in/bus-tickets/biswanath-charali-to-guwahati,Kanchan Travels,AC Seater (2+2),04:15,04h 30m,08:45,4.4,20,INR 422
+23 Jul,Assam,Biswanath Charali to Guwahati,https://www.redbus.in/bus-tickets/biswanath-charali-to-guwahati,Mahi Travels(Under ASTC),A/C Seater (2+2),04:30,04h 25m,08:55,4.5,12,INR 423
+23 Jul,Assam,Biswanath Charali to Guwahati,https://www.redbus.in/bus-tickets/biswanath-charali-to-guwahati,Orient Transline,NON A/C Seater (2+1),04:40,04h 40m,09:20,3.9,17,INR 380.95
+23 Jul,Assam,Biswanath Charali to Guwahati,https://www.redbus.in/bus-tickets/biswanath-charali-to-guwahati,Mahi Travels(Under ASTC),Bharat Benz A/C Seater (2+2),05:00,04h 35m,09:35,4.2,17,INR 403
+23 Jul,Assam,Biswanath Charali to Guwahati,https://www.redbus.in/bus-tickets/biswanath-charali-to-guwahati,Orient Transline,A/C Seater (2+1),06:10,04h 45m,10:55,4.4,10,INR 476.19
+23 Jul,Assam,Biswanath Charali to Guwahati,https://www.redbus.in/bus-tickets/biswanath-charali-to-guwahati,Mahi Travels(Under ASTC),A/C Seater (2+2),06:30,05h 00m,11:30,4.5,27,INR 454
+23 Jul,Assam,Biswanath Charali to Guwahati,https://www.redbus.in/bus-tickets/biswanath-charali-to-guwahati,Mahalaxmi Travels,Tata A/C Seater (2+2),08:10,05h 35m,13:45,3.0,35,INR 410
+23 Jul,Assam,Biswanath Charali to Guwahati,https://www.redbus.in/bus-tickets/biswanath-charali-to-guwahati,Karisma (Aziba),NON A/C Seater (2+1),08:45,05h 25m,14:10,3.4,35,INR 450
+23 Jul,Assam,Biswanath Charali to Guwahati,https://www.redbus.in/bus-tickets/biswanath-charali-to-guwahati,Pranjit Travels (Under ASTC),NON A/C Seater (2+1),09:00,06h 00m,15:00,3.8,17,INR 500
+23 Jul,Assam,Biswanath Charali to Guwahati,https://www.redbus.in/bus-tickets/biswanath-charali-to-guwahati,Pranjit Travels (Under ASTC),NON A/C Seater (2+1),10:45,06h 00m,16:45,3.5,21,INR 500
+23 Jul,Assam,Biswanath Charali to Guwahati,https://www.redbus.in/bus-tickets/biswanath-charali-to-guwahati,KIRAN TRAVELS,Non AC Seater (2+1),11:00,06h 30m,17:30,3.7,28,INR 360
+23 Jul,Assam,Biswanath Charali to Guwahati,https://www.redbus.in/bus-tickets/biswanath-charali-to-guwahati,Chartered Bus - ASTC,A/C Seater Push Back (2+2),11:00,05h 15m,16:15,4.6,10,INR 551.37
+23 Jul,Assam,Biswanath Charali to Guwahati,https://www.redbus.in/bus-tickets/biswanath-charali-to-guwahati,BLUE HILL TRAVELS INDIA LIMITED,NON A/C Seater Semi Sleeper (2+1),21:30,06h 15m,03:45,4.0,28,INR 550
+23 Jul,Assam,Biswanath Charali to Guwahati,https://www.redbus.in/bus-tickets/biswanath-charali-to-guwahati,Pranjit Travels (Under ASTC),NON A/C Seater (2+1),23:15,06h 15m,05:30,3.8,33,INR 500
+23 Jul,Assam,Biswanath Charali to Guwahati,https://www.redbus.in/bus-tickets/biswanath-charali-to-guwahati,Pranjit Travels (Under ASTC),NON A/C Seater (2+1),23:45,05h 45m,05:30,3.8,3,INR 500
+23 Jul,Assam,Biswanath Charali to Guwahati,https://www.redbus.in/bus-tickets/biswanath-charali-to-guwahati,MAA Anada (UNDER ASTC),AC Seater (2+2),04:00,04h 30m,08:30,2.8,32,INR 427
+23 Jul,Assam,Biswanath Charali to Guwahati,https://www.redbus.in/bus-tickets/biswanath-charali-to-guwahati,BARBIE TRAVELS,A/C Seater Push Back (2+2),11:30,06h 20m,17:50,0,30,INR 450
+23 Jul,Assam,Biswanath Charali to Guwahati,https://www.redbus.in/bus-tickets/biswanath-charali-to-guwahati,PANKAJ TRAVELS,A/C Seater (2+1),12:00,05h 00m,17:00,0,8,INR 509
+23 Jul,Assam,Biswanath Charali to Guwahati,https://www.redbus.in/bus-tickets/biswanath-charali-to-guwahati,BLUE HILL TRAVELS INDIA LIMITED,NON A/C Seater Semi Sleeper (2+1),20:00,07h 30m,03:30,2.0,25,INR 450
+23 Jul,Assam,Biswanath Charali to Guwahati,https://www.redbus.in/bus-tickets/biswanath-charali-to-guwahati,DESTINY TRAVELS,NON A/C Seater (2+1),23:01,04h 44m,03:45,0,32,INR 447
+23 Jul,Assam,Biswanath Charali to Dibrugarh,https://www.redbus.in/bus-tickets/biswanath-charali-to-dibrugarh,Air Bus Travels,NON AC Seater / Sleeper 2+1,18:30,07h 30m,02:00,3.2,38,INR 500
+23 Jul,Assam,Tinsukia to Jorhat,https://www.redbus.in/bus-tickets/tinsukia-to-jorhat,Assam State Transport Corporation (ASTC) - 139496,NON A/C Seater Push Back (2+1),08:25,05h 05m,13:30,3.4,7,INR 245
+23 Jul,Assam,Tinsukia to Jorhat,https://www.redbus.in/bus-tickets/tinsukia-to-jorhat,Assam State Transport Corporation (ASTC) - 166134,Bharat Benz A/C Seater (2+2),09:00,06h 30m,15:30,3.3,27,INR 281
+23 Jul,Assam,Tinsukia to Jorhat,https://www.redbus.in/bus-tickets/tinsukia-to-jorhat,Aroti Travels (Under ASTC),Non AC Seater (2+2),05:45,04h 15m,10:00,4.1,37,INR 350
+23 Jul,Assam,Tinsukia to Jorhat,https://www.redbus.in/bus-tickets/tinsukia-to-jorhat,Aniruddha Travels,AC Seater (2+2),06:00,05h 10m,11:10,3.6,24,INR 450
+23 Jul,Assam,Tinsukia to Jorhat,https://www.redbus.in/bus-tickets/tinsukia-to-jorhat,Chartered Bus - ASTC,A/C Seater Push Back (2+2),06:45,04h 15m,11:00,4.4,29,INR 735.16
+23 Jul,Assam,Tinsukia to Jorhat,https://www.redbus.in/bus-tickets/tinsukia-to-jorhat,MADHURIKA TRAVELS,A/C Seater (2+1),07:15,05h 15m,12:30,4.8,18,INR 601
+23 Jul,Assam,Tinsukia to Jorhat,https://www.redbus.in/bus-tickets/tinsukia-to-jorhat,NETWORK TRAVELS,Non A/C Seater / Sleeper (2+1),17:00,06h 00m,23:00,4.3,50,INR 350
+23 Jul,Assam,Tinsukia to Jorhat,https://www.redbus.in/bus-tickets/tinsukia-to-jorhat,Megha Transport,NON A/C Seater / Sleeper (3+1),17:45,05h 54m,23:39,4.7,40,INR 549
+23 Jul,Assam,Tinsukia to Jorhat,https://www.redbus.in/bus-tickets/tinsukia-to-jorhat,NETWORK TRAVELS,NON A/C Seater Push Back (2+1),19:00,05h 30m,00:30,4.6,27,INR 300
+23 Jul,Assam,Tinsukia to Jorhat,https://www.redbus.in/bus-tickets/tinsukia-to-jorhat,Christina Travels,NON A/C Seater (2+2),07:00,04h 15m,11:15,2.8,32,INR 650
+23 Jul,Assam,Tinsukia to Jorhat,https://www.redbus.in/bus-tickets/tinsukia-to-jorhat,Maa Laxmi,NON A/C Seater Push Back (2+1),17:00,04h 30m,21:30,2.1,36,INR 400
+23 Jul,Assam,Tinsukia to Jorhat,https://www.redbus.in/bus-tickets/tinsukia-to-jorhat,Purple Wings Coaches,A/C Seater / Sleeper (2+1),18:30,05h 30m,00:00,2.7,32,INR 567
+23 Jul,Assam,Moran to Tezpur,https://www.redbus.in/bus-tickets/moran-to-tezpur,Assam State Transport Corporation (ASTC) - 163953,NON A/C Seater Push Back (2+1),09:30,06h 30m,16:00,3.8,26,INR 349
+23 Jul,Assam,Moran to Tezpur,https://www.redbus.in/bus-tickets/moran-to-tezpur,Aniruddha Travels,NON A/C Seater/ Sleeper (2+1),21:00,07h 00m,04:00,3.5,30,INR 550
+23 Jul,Assam,Moran to Tezpur,https://www.redbus.in/bus-tickets/moran-to-tezpur,SANJEEBANI TRAVELS,Non A/C Seater / Sleeper (2+1),20:15,06h 45m,03:00,0,24,INR 600
+23 Jul,Assam,Moran to Tezpur,https://www.redbus.in/bus-tickets/moran-to-tezpur,Aniruddha Travels,AC Seater (2+2),08:25,07h 10m,15:35,4.3,24,INR 500
+23 Jul,Assam,Moran to Tezpur,https://www.redbus.in/bus-tickets/moran-to-tezpur,PIHU TRANSPORT,Bharat Benz NON A/C Seater / Sleeper (2+1),20:45,07h 45m,04:30,2.6,38,INR 520
+23 Jul,Assam,Moran to Tezpur,https://www.redbus.in/bus-tickets/moran-to-tezpur,Maa Laxmi,NON A/C Seater Push Back (2+1),19:00,07h 00m,02:00,2.8,35,INR 500
+23 Jul,Assam,Moran to Tezpur,https://www.redbus.in/bus-tickets/moran-to-tezpur,MOON TRAVELS,AC Seater (2+2),10:30,06h 30m,17:00,2.5,37,INR 523
+23 Jul,Assam,Moran to Tezpur,https://www.redbus.in/bus-tickets/moran-to-tezpur,Neha Travels,NON A/C Seater (2+2),18:00,09h 15m,03:15,2.3,32,INR 650
+24 Jul,Assam,Jorhat to Gogamukh,https://www.redbus.in/bus-tickets/jorhat-to-gogamukh,Assam State Transport Corporation (ASTC) - 152649,Bharat Benz A/C Seater (2+2),06:45,05h 15m,12:00,3.7,2,INR 339
+23 Jul,Assam,Dibrugarh to Biswanath Charali,https://www.redbus.in/bus-tickets/dibrugarh-to-biswanath-charali,Air Bus Travels,NON AC Seater / Sleeper 2+1,19:40,09h 20m,05:00,3.9,43,INR 500
+23 Jul,Assam,Gohpur to Guwahati,https://www.redbus.in/bus-tickets/gohpur-to-guwahati,Assam State Transport Corporation (ASTC) - 174830,Bharat Benz A/C Seater (2+2),07:00,07h 00m,14:00,4.0,23,INR 503
+23 Jul,Assam,Gohpur to Guwahati,https://www.redbus.in/bus-tickets/gohpur-to-guwahati,Assam State Transport Corporation (ASTC) - 170878,Bharat Benz A/C Seater (2+2),08:30,06h 45m,15:15,4.1,9,INR 503
+23 Jul,Assam,Gohpur to Guwahati,https://www.redbus.in/bus-tickets/gohpur-to-guwahati,Pranjit Travels (Under ASTC),NON A/C Seater (2+1),08:00,07h 00m,15:00,4.3,18,INR 570
+23 Jul,Assam,Gohpur to Guwahati,https://www.redbus.in/bus-tickets/gohpur-to-guwahati,Chartered Bus - ASTC,A/C Seater Push Back (2+2),09:30,06h 45m,16:15,4.6,7,INR 551.37
+23 Jul,Assam,Gohpur to Guwahati,https://www.redbus.in/bus-tickets/gohpur-to-guwahati,Pranjit Travels (Under ASTC),A/C Seater / Sleeper (2+1),23:05,06h 55m,06:00,4.5,31,INR 620
+23 Jul,Assam,Gohpur to Guwahati,https://www.redbus.in/bus-tickets/gohpur-to-guwahati,Pranjit Travels (Under ASTC),Bharat Benz A/C Seater (2+1),22:45,07h 30m,06:15,3.9,22,INR 650
+23 Jul,Assam,Gohpur to Guwahati,https://www.redbus.in/bus-tickets/gohpur-to-guwahati,Yatra Travels,NON AC Seater/ Sleeper (2+1),22:20,07h 40m,06:00,4.3,9,INR 450
+23 Jul,Assam,Gohpur to Guwahati,https://www.redbus.in/bus-tickets/gohpur-to-guwahati,Deep Travels,NON AC Seater / Sleeper 2+1,22:20,06h 40m,05:00,4.0,8,INR 499
+23 Jul,Assam,Gohpur to Guwahati,https://www.redbus.in/bus-tickets/gohpur-to-guwahati,DESTINY TRAVELS,NON A/C Seater (2+1),21:30,06h 15m,03:45,0,32,INR 494
+23 Jul,Assam,Gohpur to Guwahati,https://www.redbus.in/bus-tickets/gohpur-to-guwahati,PANKAJ TRAVELS,A/C Seater (2+1),10:40,06h 20m,17:00,0,11,INR 555
+23 Jul,Assam,Gohpur to Guwahati,https://www.redbus.in/bus-tickets/gohpur-to-guwahati,BARBIE TRAVELS,A/C Seater Push Back (2+2),10:20,07h 30m,17:50,0,30,INR 500
+23 Jul,Assam,Gohpur to Guwahati,https://www.redbus.in/bus-tickets/gohpur-to-guwahati,KIRAN TRAVELS,A/C Seater (2+1),22:50,08h 40m,07:30,4.6,10,INR 600
+23 Jul,Assam,Gohpur to Guwahati,https://www.redbus.in/bus-tickets/gohpur-to-guwahati,Pranjit Travels (Under ASTC),NON A/C Seater (2+1),09:20,07h 25m,16:45,4.1,21,INR 570
+23 Jul,Assam,Gohpur to Guwahati,https://www.redbus.in/bus-tickets/gohpur-to-guwahati,Yatra Travels,NON A/C Seater (2+1),22:35,07h 40m,06:15,4.0,5,INR 450
+23 Jul,Assam,Gohpur to Guwahati,https://www.redbus.in/bus-tickets/gohpur-to-guwahati,BLUE HILL TRAVELS INDIA LIMITED,NON A/C Seater Semi Sleeper (2+1),20:15,07h 30m,03:45,4.0,28,INR 550
+23 Jul,Assam,Gohpur to Guwahati,https://www.redbus.in/bus-tickets/gohpur-to-guwahati,PARIJAT TRAVELS(UNDER ASTC),NON A/C Seater (2+1),23:11,07h 19m,06:30,3.2,15,INR 500
+23 Jul,Assam,Gohpur to Guwahati,https://www.redbus.in/bus-tickets/gohpur-to-guwahati,Drishti Travels,NON A/C Seater (2+1),21:00,08h 30m,05:30,2.9,12,INR 432
+23 Jul,Assam,Gohpur to Guwahati,https://www.redbus.in/bus-tickets/gohpur-to-guwahati,MAHARATHI TRANSPORT,NON A/C Semi Sleeper (2+1),22:00,07h 00m,05:00,3.9,10,INR 400
+23 Jul,Assam,Gohpur to Guwahati,https://www.redbus.in/bus-tickets/gohpur-to-guwahati,GURUNANAK TRAVELS,NON A/C Seater (2+1),21:00,08h 00m,05:00,3.1,32,INR 500
+23 Jul,Assam,Gohpur to Guwahati,https://www.redbus.in/bus-tickets/gohpur-to-guwahati,Drishti Travels,NON A/C Seater (2+1),21:00,08h 30m,05:30,2.7,29,INR 432
+23 Jul,Assam,Gohpur to Guwahati,https://www.redbus.in/bus-tickets/gohpur-to-guwahati,Island Travels (Under ASTC),Non AC Seater (2+1),22:30,07h 30m,06:00,3.2,24,INR 450
+23 Jul,Assam,Gohpur to Guwahati,https://www.redbus.in/bus-tickets/gohpur-to-guwahati,KIRAN TRAVELS,Non AC Seater (2+1),09:30,08h 00m,17:30,2.9,28,INR 450
+23 Jul,Assam,Gohpur to Guwahati,https://www.redbus.in/bus-tickets/gohpur-to-guwahati,Pranjit Travels (Under ASTC),NON A/C Seater (2+1),22:15,07h 15m,05:30,4.1,31,INR 570
+23 Jul,Assam,Gohpur to Guwahati,https://www.redbus.in/bus-tickets/gohpur-to-guwahati,Pranjit Travels (Under ASTC),NON A/C Seater (2+1),21:45,07h 45m,05:30,4.1,37,INR 570
+23 Jul,Assam,Gohpur to Guwahati,https://www.redbus.in/bus-tickets/gohpur-to-guwahati,NORTH EAST TRAVELS(UNDER ASTC),NON A/C Seater (2+1),20:00,10h 00m,06:00,3.2,26,INR 500
+23 Jul,Assam,Gohpur to Guwahati,https://www.redbus.in/bus-tickets/gohpur-to-guwahati,Karisma (Aziba),NON A/C Seater (2+1),07:40,06h 30m,14:10,4.4,22,INR 480
+23 Jul,Assam,Tinsukia to Tezpur,https://www.redbus.in/bus-tickets/tinsukia-to-tezpur,Assam State Transport Corporation (ASTC) - 163953,NON A/C Seater Push Back (2+1),07:00,09h 00m,16:00,3.6,26,INR 466
+23 Jul,Assam,Tinsukia to Tezpur,https://www.redbus.in/bus-tickets/tinsukia-to-tezpur,Aniruddha Travels,NON A/C Seater/ Sleeper (2+1),18:30,09h 30m,04:00,3.3,30,INR 550
+23 Jul,Assam,Tinsukia to Tezpur,https://www.redbus.in/bus-tickets/tinsukia-to-tezpur,Puja Transport,NON AC Seater / Sleeper 2+1,18:30,10h 30m,05:00,3.6,7,INR 600
+23 Jul,Assam,Tinsukia to Tezpur,https://www.redbus.in/bus-tickets/tinsukia-to-tezpur,SANJEEBANI TRAVELS,Non A/C Seater / Sleeper (2+1),16:40,10h 20m,03:00,0,25,INR 600
+23 Jul,Assam,Tinsukia to Tezpur,https://www.redbus.in/bus-tickets/tinsukia-to-tezpur,Aniruddha Travels,AC Seater (2+2),06:00,09h 35m,15:35,3.9,24,INR 500
+23 Jul,Assam,Tinsukia to Tezpur,https://www.redbus.in/bus-tickets/tinsukia-to-tezpur,J.S. Travels,Non AC Seater (2+1),17:30,10h 30m,04:00,3.1,32,INR 550
+23 Jul,Assam,Tinsukia to Tezpur,https://www.redbus.in/bus-tickets/tinsukia-to-tezpur,PIHU TRANSPORT,Bharat Benz NON A/C Seater / Sleeper (2+1),18:00,10h 30m,04:30,2.0,43,INR 500
+23 Jul,Assam,Tinsukia to Tezpur,https://www.redbus.in/bus-tickets/tinsukia-to-tezpur,Neha Travels,NON A/C Seater (2+2),15:00,12h 15m,03:15,1.9,35,INR 650
+23 Jul,Assam,Tinsukia to Tezpur,https://www.redbus.in/bus-tickets/tinsukia-to-tezpur,Maa Laxmi,NON A/C Seater Push Back (2+1),17:00,09h 00m,02:00,2.8,35,INR 550
+23 Jul,Assam,Tinsukia to Tezpur,https://www.redbus.in/bus-tickets/tinsukia-to-tezpur,MOON TRAVELS,AC Seater (2+2),07:45,09h 15m,17:00,2.3,37,INR 618
+24 Jul,Assam,North Lakhimpur to Golaghat,https://www.redbus.in/bus-tickets/north-lakhimpur-to-golaghat,Assam State Transport Corporation (ASTC) - 142181,Bharat Benz A/C Seater (2+2),06:30,07h 30m,14:00,3.3,1,INR 503
+24 Jul,Assam,Golaghat to North Lakhimpur,https://www.redbus.in/bus-tickets/golaghat-to-north-lakhimpur,Assam State Transport Corporation (ASTC) - 152649,Bharat Benz A/C Seater (2+2),05:45,07h 15m,13:00,4.4,2,INR 503
+23 Jul,Assam,Silchar to Guwahati,https://www.redbus.in/bus-tickets/silchar-to-guwahati,Assam State Transport Corporation (ASTC) - 139638,NON A/C Seater Push Back (2+1),16:45,13h 00m,05:45,2.3,19,INR 547
+23 Jul,Assam,Silchar to Guwahati,https://www.redbus.in/bus-tickets/silchar-to-guwahati,Deep Travels,Non AC Seater (2+1),19:00,11h 30m,06:30,2.9,35,INR 650
+23 Jul,Assam,Silchar to Guwahati,https://www.redbus.in/bus-tickets/silchar-to-guwahati,JAYSIKA,NON A/C Seater (2+1),16:30,12h 00m,04:30,2.5,33,INR 650
+23 Jul,Assam,Silchar to Guwahati,https://www.redbus.in/bus-tickets/silchar-to-guwahati,RAYAN TRAVELS,NON A/C Seater (2+1),18:30,11h 30m,06:00,2.9,31,INR 550
+23 Jul,Assam,Silchar to Guwahati,https://www.redbus.in/bus-tickets/silchar-to-guwahati,Jagannath Travels and Tours Pvt. Ltd.,NON A/C Seater Push Back (2+1),18:30,10h 35m,05:05,2.3,32,INR 650
+23 Jul,Assam,Silchar to Guwahati,https://www.redbus.in/bus-tickets/silchar-to-guwahati,SEEMA TRAVELS,A/C Seater (2+2),17:30,11h 30m,05:00,2.7,33,INR 750
+23 Jul,Assam,Bokakhat to Dibrugarh,https://www.redbus.in/bus-tickets/bokakhat-to-dibrugarh,Assam State Transport Corporation (ASTC) - 139495,NON A/C Seater Push Back (2+1),07:30,06h 30m,14:00,3.6,18,INR 273
+23 Jul,Assam,Bokakhat to Dibrugarh,https://www.redbus.in/bus-tickets/bokakhat-to-dibrugarh,Slumber 37,Bharat Benz A/C Sleeper (2+1),01:00,05h 00m,06:00,4.1,1,INR 638
+23 Jul,Assam,Bokakhat to Dibrugarh,https://www.redbus.in/bus-tickets/bokakhat-to-dibrugarh,MOON TRAVELS,AC Seater (2+2),09:45,05h 35m,15:20,3.1,28,INR 523
+23 Jul,Assam,Bokakhat to Dibrugarh,https://www.redbus.in/bus-tickets/bokakhat-to-dibrugarh,Aniruddha Travels,AC Seater (2+2),10:15,06h 00m,16:15,3.7,20,INR 450
+23 Jul,Assam,Bokakhat to Dibrugarh,https://www.redbus.in/bus-tickets/bokakhat-to-dibrugarh,SHIVAM TRAVELS,Bharat Benz A/C Seater (2+1),12:15,04h 45m,17:00,4.1,6,INR 650
+23 Jul,Assam,Bokakhat to Dibrugarh,https://www.redbus.in/bus-tickets/bokakhat-to-dibrugarh,Chartered Bus - ASTC,Volvo AC Seater Pushback 2+2,12:30,04h 45m,17:15,4.7,5,INR 755.58
+23 Jul,Assam,Bokakhat to Dibrugarh,https://www.redbus.in/bus-tickets/bokakhat-to-dibrugarh,Bashudev Transline (Under ASTC),A/C Seater (2+1),12:35,05h 25m,18:00,4.9,8,INR 550
+23 Jul,Assam,Bokakhat to Dibrugarh,https://www.redbus.in/bus-tickets/bokakhat-to-dibrugarh,Christina Travels,NON A/C Seater (2+2),11:00,05h 30m,16:30,2.9,34,INR 650
+23 Jul,Assam,Bokakhat to Dibrugarh,https://www.redbus.in/bus-tickets/bokakhat-to-dibrugarh,PIHU TRANSPORT,Bharat Benz NON A/C Seater / Sleeper (2+1),23:30,04h 30m,04:00,2.8,50,INR 500
+23 Jul,Assam,North Lakhimpur to Moran,https://www.redbus.in/bus-tickets/north-lakhimpur-to-moran,Assam State Transport Corporation (ASTC) - 173044,Non AC Seater (2+2),13:00,02h 30m,15:30,3.3,13,INR 170
+23 Jul,Assam,Tezpur to North Lakhimpur,https://www.redbus.in/bus-tickets/tezpur-to-north-lakhimpur,Assam State Transport Corporation (ASTC) - 173419,Bharat Benz A/C Seater (2+2),10:50,04h 10m,15:00,1.8,12,INR 334
+23 Jul,Assam,Tezpur to North Lakhimpur,https://www.redbus.in/bus-tickets/tezpur-to-north-lakhimpur,KRISHNA CHARAN TRAVELS,A/C Seater Push Back (2+2),05:30,05h 30m,11:00,3.8,40,INR 450
+23 Jul,Assam,Tezpur to North Lakhimpur,https://www.redbus.in/bus-tickets/tezpur-to-north-lakhimpur,Sparrow Travels (Under ASTC),Non AC Seater (2+2),06:30,05h 30m,12:00,3.4,38,INR 350
+23 Jul,Assam,Tezpur to North Lakhimpur,https://www.redbus.in/bus-tickets/tezpur-to-north-lakhimpur,Karisma (Aziba),NON A/C Seater (2+1),10:40,04h 20m,15:00,3.9,25,INR 400
+23 Jul,Assam,Tezpur to North Lakhimpur,https://www.redbus.in/bus-tickets/tezpur-to-north-lakhimpur,KIRAN TRAVELS,A/C Seater (2+1),11:30,05h 35m,17:05,3.3,22,INR 432
+23 Jul,Assam,Tezpur to North Lakhimpur,https://www.redbus.in/bus-tickets/tezpur-to-north-lakhimpur,Pranjit Travels (Under ASTC),Non AC Seater (2+1),13:10,05h 20m,18:30,4.2,20,INR 500
+23 Jul,Assam,Tezpur to North Lakhimpur,https://www.redbus.in/bus-tickets/tezpur-to-north-lakhimpur,Pranjit Travels (Under ASTC),A/C Seater (2+1),14:00,04h 30m,18:30,3.7,23,INR 600
+23 Jul,Assam,Tezpur to North Lakhimpur,https://www.redbus.in/bus-tickets/tezpur-to-north-lakhimpur,Mayur Travels (Under ASTC),Non AC Seater (2+2),05:45,05h 45m,11:30,0,43,INR 350
+23 Jul,Assam,Tezpur to North Lakhimpur,https://www.redbus.in/bus-tickets/tezpur-to-north-lakhimpur,Ruma Travels (Under ASTC),Non AC Seater (2+2),09:00,05h 40m,14:40,1.0,41,INR 350
+23 Jul,Assam,Tezpur to North Lakhimpur,https://www.redbus.in/bus-tickets/tezpur-to-north-lakhimpur,PANKAJ TRAVELS,AC Seater (2+2),10:00,05h 35m,15:35,0,35,INR 370
+23 Jul,Assam,Tezpur to North Lakhimpur,https://www.redbus.in/bus-tickets/tezpur-to-north-lakhimpur,Mahadev K.P.,Tata A/C Seater (2+2),11:00,07h 15m,18:15,2.0,41,INR 460
+23 Jul,Assam,Tezpur to North Lakhimpur,https://www.redbus.in/bus-tickets/tezpur-to-north-lakhimpur,Mahadev K.P.,Tata A/C Seater (2+2),11:30,07h 00m,18:30,2.0,41,INR 460
+23 Jul,Assam,Tezpur to North Lakhimpur,https://www.redbus.in/bus-tickets/tezpur-to-north-lakhimpur,DESTINY TRAVELS,NON AC Seater / Sleeper 2+1,23:30,04h 15m,03:45,0,35,INR 437
+23 Jul,Assam,Tezpur to North Lakhimpur,https://www.redbus.in/bus-tickets/tezpur-to-north-lakhimpur,Chartered Bus - ASTC,A/C Seater Push Back (2+2),11:00,04h 00m,15:00,4.3,14,INR 712.47
+23 Jul,Assam,Tezpur to Tinsukia,https://www.redbus.in/bus-tickets/tezpur-to-tinsukia,Assam State Transport Corporation (ASTC) - 96880,A/C Seater (2+1),08:00,09h 45m,17:45,3.6,14,INR 540
+23 Jul,Assam,Tezpur to Tinsukia,https://www.redbus.in/bus-tickets/tezpur-to-tinsukia,Aniruddha Travels,AC Seater (2+2),07:50,09h 40m,17:30,3.2,20,INR 500
+23 Jul,Assam,Tezpur to Tinsukia,https://www.redbus.in/bus-tickets/tezpur-to-tinsukia,Puja Transport,Non AC Seater (2+2),20:00,10h 00m,06:00,3.6,27,INR 550
+23 Jul,Assam,Tezpur to Tinsukia,https://www.redbus.in/bus-tickets/tezpur-to-tinsukia,SANJEEBANI TRAVELS,Non A/C Seater / Sleeper (2+1),21:30,07h 40m,05:10,0,36,INR 600
+23 Jul,Assam,Tezpur to Tinsukia,https://www.redbus.in/bus-tickets/tezpur-to-tinsukia,PIHU TRANSPORT,Bharat Benz NON A/C Seater / Sleeper (2+1),19:45,09h 15m,05:00,3.4,43,INR 500
+23 Jul,Assam,Tezpur to Tinsukia,https://www.redbus.in/bus-tickets/tezpur-to-tinsukia,Puja Transport,NON AC Seater / Sleeper 2+1,20:00,09h 30m,05:30,2.3,14,INR 600
+23 Jul,Assam,Tezpur to Tinsukia,https://www.redbus.in/bus-tickets/tezpur-to-tinsukia,J.S. Travels,Non AC Seater (2+1),21:00,09h 30m,06:30,2.0,32,INR 550
+23 Jul,Assam,Tezpur to Tinsukia,https://www.redbus.in/bus-tickets/tezpur-to-tinsukia,Maa Laxmi,NON A/C Seater Push Back (2+1),23:00,09h 00m,08:00,2.4,32,INR 550
+23 Jul,Assam,Tezpur to Tinsukia,https://www.redbus.in/bus-tickets/tezpur-to-tinsukia,MOON TRAVELS,AC Seater (2+2),07:15,09h 35m,16:50,2.9,22,INR 618
+23 Jul,Assam,Tezpur to Tinsukia,https://www.redbus.in/bus-tickets/tezpur-to-tinsukia,Neha Travels,NON A/C Seater (2+2),22:40,09h 20m,08:00,1.4,35,INR 650
+23 Jul,Assam,Tezpur to Tinsukia,https://www.redbus.in/bus-tickets/tezpur-to-tinsukia,Neha Travels,NON A/C Seater (2+2),22:40,06h 50m,05:30,1.1,35,INR 650
+24 Jul,Assam,Dibrugarh to Bihpuria,https://www.redbus.in/bus-tickets/dibrugarh-to-bihpuria,Assam State Transport Corporation (ASTC) - 156626,NON A/C Seater Push Back (2+1),12:45,04h 00m,16:45,4.5,31,INR 257
+23 Jul,Assam,Dibrugarh to Bokakhat,https://www.redbus.in/bus-tickets/dibrugarh-to-bokakhat,Assam State Transport Corporation (ASTC) - 139496,NON A/C Seater Push Back (2+1),09:30,07h 00m,16:30,3.5,7,INR 273
+23 Jul,Assam,Dibrugarh to Bokakhat,https://www.redbus.in/bus-tickets/dibrugarh-to-bokakhat,Bashudev Transline (Under ASTC),A/C Seater (2+1),06:45,05h 05m,11:50,4.5,29,INR 550
+23 Jul,Assam,Dibrugarh to Bokakhat,https://www.redbus.in/bus-tickets/dibrugarh-to-bokakhat,SHIVAM TRAVELS,Bharat Benz A/C Seater (2+1),07:30,05h 00m,12:30,4.6,35,INR 555
+23 Jul,Assam,Dibrugarh to Bokakhat,https://www.redbus.in/bus-tickets/dibrugarh-to-bokakhat,Aniruddha Travels,AC Seater (2+2),07:30,06h 30m,14:00,3.6,28,INR 450
+23 Jul,Assam,Dibrugarh to Bokakhat,https://www.redbus.in/bus-tickets/dibrugarh-to-bokakhat,Purple Wings Coaches,A/C Seater / Sleeper (2+1),19:55,05h 05m,01:00,3.4,30,INR 585
+23 Jul,Assam,Dibrugarh to Bokakhat,https://www.redbus.in/bus-tickets/dibrugarh-to-bokakhat,Shree Ram Travels,Bharat Benz A/C Seater /Sleeper (2+1),20:45,04h 55m,01:40,4.8,24,INR 530
+23 Jul,Assam,Dibrugarh to Bokakhat,https://www.redbus.in/bus-tickets/dibrugarh-to-bokakhat,Christina Travels,NON A/C Seater (2+2),08:20,03h 55m,12:15,2.8,32,INR 650
+23 Jul,Assam,Dibrugarh to Bokakhat,https://www.redbus.in/bus-tickets/dibrugarh-to-bokakhat,Maa Laxmi,NON A/C Seater Push Back (2+1),18:15,04h 15m,22:30,2.8,35,INR 500

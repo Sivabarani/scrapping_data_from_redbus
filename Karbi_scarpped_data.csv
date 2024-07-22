@@ -1,0 +1,41 @@
+date,state,route,route_link,bus_name,bus_type,departing_time,duration,reaching_time,star_rating,available_seats,price
+23 Jul,Karbi,Diphu to Guwahati,https://www.redbus.in/bus-tickets/diphu-to-guwahati,KAAC TRANSPORT - 157249,Non AC Seater 2+2,04:00,05h 30m,09:30,4.4,5,INR 361
+23 Jul,Karbi,Diphu to Guwahati,https://www.redbus.in/bus-tickets/diphu-to-guwahati,Kareng Travels,Non AC Seater (2+2),04:30,05h 00m,09:30,4.0,4,INR 352
+23 Jul,Karbi,Diphu to Guwahati,https://www.redbus.in/bus-tickets/diphu-to-guwahati,Kareng Travels,Bharat Benz A/C Seater (2+1),10:00,06h 00m,16:00,4.4,9,INR 380
+23 Jul,Karbi,Diphu to Guwahati,https://www.redbus.in/bus-tickets/diphu-to-guwahati,Kareng Travels,Non AC Seater (2+1),11:15,05h 15m,16:30,4.0,24,INR 361
+23 Jul,Karbi,Guwahati to Diphu,https://www.redbus.in/bus-tickets/guwahati-to-diphu,KAAC TRANSPORT - 157250,Non AC Seater 2+2,11:30,06h 15m,17:45,4.8,42,INR 361
+23 Jul,Karbi,Guwahati to Diphu,https://www.redbus.in/bus-tickets/guwahati-to-diphu,Kareng Travels,Non AC Seater (2+1),05:00,05h 45m,10:45,4.1,17,INR 352
+23 Jul,Karbi,Guwahati to Diphu,https://www.redbus.in/bus-tickets/guwahati-to-diphu,Kareng Travels,Non AC Seater (2+2),11:45,06h 45m,18:30,4.3,43,INR 361
+23 Jul,Karbi,Bokolia (assam) to Guwahati,https://www.redbus.in/bus-tickets/bokolia-assam-to-guwahati,KAAC TRANSPORT - 157249,Non AC Seater 2+2,05:00,04h 30m,09:30,3.0,9,INR 299
+23 Jul,Karbi,Bokolia (assam) to Guwahati,https://www.redbus.in/bus-tickets/bokolia-assam-to-guwahati,Kareng Travels,Bharat Benz A/C Seater (2+1),11:15,04h 45m,16:00,4.4,9,INR 285
+23 Jul,Karbi,Bokolia (assam) to Guwahati,https://www.redbus.in/bus-tickets/bokolia-assam-to-guwahati,Kareng Travels,Non AC Seater (2+2),05:30,04h 00m,09:30,4.3,6,INR 278
+23 Jul,Karbi,Bokolia (assam) to Guwahati,https://www.redbus.in/bus-tickets/bokolia-assam-to-guwahati,Kareng Travels,Non AC Seater (2+1),12:15,04h 15m,16:30,3.8,24,INR 285
+23 Jul,Karbi,Dokmoka to Guwahati,https://www.redbus.in/bus-tickets/dokmoka-to-guwahati,KAAC TRANSPORT - 157249,Non AC Seater 2+2,05:45,03h 45m,09:30,4.4,5,INR 250
+23 Jul,Karbi,Dokmoka to Guwahati,https://www.redbus.in/bus-tickets/dokmoka-to-guwahati,Kareng Travels,Non AC Seater (2+2),06:00,03h 30m,09:30,3.5,6,INR 266
+23 Jul,Karbi,Dokmoka to Guwahati,https://www.redbus.in/bus-tickets/dokmoka-to-guwahati,Kareng Travels,Bharat Benz A/C Seater (2+1),11:45,04h 15m,16:00,4.6,9,INR 285
+23 Jul,Karbi,Dokmoka to Guwahati,https://www.redbus.in/bus-tickets/dokmoka-to-guwahati,Kareng Travels,Non AC Seater (2+1),12:45,03h 45m,16:30,4.4,24,INR 266
+23 Jul,Karbi,Guwahati to Dokmoka,https://www.redbus.in/bus-tickets/guwahati-to-dokmoka,KAAC TRANSPORT - 157250,Non AC Seater 2+2,11:30,03h 15m,14:45,4.2,41,INR 250
+23 Jul,Karbi,Guwahati to Dokmoka,https://www.redbus.in/bus-tickets/guwahati-to-dokmoka,Kareng Travels,Non AC Seater (2+1),05:00,03h 45m,08:45,4.6,15,INR 259
+23 Jul,Karbi,Guwahati to Dokmoka,https://www.redbus.in/bus-tickets/guwahati-to-dokmoka,Kareng Travels,Non AC Seater (2+2),11:45,04h 15m,16:00,4.6,42,INR 266
+23 Jul,Karbi,Guwahati to Bokolia (assam),https://www.redbus.in/bus-tickets/guwahati-to-bokolia-assam,KAAC TRANSPORT - 157250,Non AC Seater 2+2,11:30,04h 15m,15:45,4.4,41,INR 299
+23 Jul,Karbi,Guwahati to Bokolia (assam),https://www.redbus.in/bus-tickets/guwahati-to-bokolia-assam,Kareng Travels,Non AC Seater (2+1),05:00,04h 30m,09:30,4.3,15,INR 278
+23 Jul,Karbi,Guwahati to Bokolia (assam),https://www.redbus.in/bus-tickets/guwahati-to-bokolia-assam,Kareng Travels,Non AC Seater (2+2),11:45,04h 45m,16:30,3.9,42,INR 285
+23 Jul,Karbi,Langhin (assam) to Guwahati,https://www.redbus.in/bus-tickets/langhin-assam-to-guwahati,KAAC TRANSPORT - 157249,Non AC Seater 2+2,05:30,04h 00m,09:30,3.9,9,INR 266
+23 Jul,Karbi,Langhin (assam) to Guwahati,https://www.redbus.in/bus-tickets/langhin-assam-to-guwahati,Kareng Travels,Bharat Benz A/C Seater (2+1),11:30,04h 30m,16:00,3.8,9,INR 285
+23 Jul,Karbi,Langhin (assam) to Guwahati,https://www.redbus.in/bus-tickets/langhin-assam-to-guwahati,Kareng Travels,Non AC Seater (2+2),05:45,03h 45m,09:30,4.0,6,INR 285
+23 Jul,Karbi,Langhin (assam) to Guwahati,https://www.redbus.in/bus-tickets/langhin-assam-to-guwahati,Kareng Travels,Non AC Seater (2+1),12:30,04h 00m,16:30,4.1,24,INR 285
+23 Jul,Karbi,Diphu to Hamren,https://www.redbus.in/bus-tickets/diphu-to-hamren,KAAC TRANSPORT - 157442,Non AC Seater 2+2,04:30,06h 00m,10:30,3.6,23,INR 300
+23 Jul,Karbi,Diphu to Hamren,https://www.redbus.in/bus-tickets/diphu-to-hamren,KAAC TRANSPORT - 157441,Non AC Seater 2+2,13:00,04h 30m,17:30,3.2,44,INR 246
+23 Jul,Karbi,Guwahati to Langhin (assam),https://www.redbus.in/bus-tickets/guwahati-to-langhin-assam,KAAC TRANSPORT - 157250,Non AC Seater 2+2,11:30,03h 30m,15:00,3.3,41,INR 266
+23 Jul,Karbi,Guwahati to Langhin (assam),https://www.redbus.in/bus-tickets/guwahati-to-langhin-assam,Kareng Travels,Non AC Seater (2+1),05:00,04h 00m,09:00,4.2,16,INR 278
+23 Jul,Karbi,Guwahati to Langhin (assam),https://www.redbus.in/bus-tickets/guwahati-to-langhin-assam,Kareng Travels,Non AC Seater (2+2),11:45,04h 30m,16:15,3.9,42,INR 285
+23 Jul,Karbi,Guwahati to Manja (assam),https://www.redbus.in/bus-tickets/guwahati-to-manja-assam,KAAC TRANSPORT - 157250,Non AC Seater 2+2,11:30,05h 30m,17:00,4.5,41,INR 350
+23 Jul,Karbi,Guwahati to Manja (assam),https://www.redbus.in/bus-tickets/guwahati-to-manja-assam,Kareng Travels,Non AC Seater (2+2),11:45,06h 15m,18:00,4.5,43,INR 342
+23 Jul,Karbi,Guwahati to Manja (assam),https://www.redbus.in/bus-tickets/guwahati-to-manja-assam,Kareng Travels,Non AC Seater (2+1),05:00,05h 15m,10:15,2.6,17,INR 333
+23 Jul,Karbi,Guwahati to Manja (assam),https://www.redbus.in/bus-tickets/guwahati-to-manja-assam,Kareng Travels,NON A/C Seater Push Back (2+2),08:00,10h 30m,18:30,2.2,41,INR 333
+23 Jul,Karbi,Manja (assam) to Guwahati,https://www.redbus.in/bus-tickets/manja-assam-to-guwahati,KAAC TRANSPORT - 157249,Non AC Seater 2+2,04:20,05h 10m,09:30,4.8,22,INR 350
+23 Jul,Karbi,Manja (assam) to Guwahati,https://www.redbus.in/bus-tickets/manja-assam-to-guwahati,Kareng Travels,Bharat Benz A/C Seater (2+1),10:15,05h 45m,16:00,4.6,9,INR 380
+23 Jul,Karbi,Manja (assam) to Guwahati,https://www.redbus.in/bus-tickets/manja-assam-to-guwahati,Kareng Travels,Non AC Seater (2+2),04:45,04h 45m,09:30,2.1,4,INR 333
+23 Jul,Karbi,Manja (assam) to Guwahati,https://www.redbus.in/bus-tickets/manja-assam-to-guwahati,Kareng Travels,Non AC Seater (2+1),11:30,05h 00m,16:30,4.2,24,INR 342
+23 Jul,Karbi,Hamren to Diphu,https://www.redbus.in/bus-tickets/hamren-to-diphu,KAAC TRANSPORT - 157440,Non AC Seater 2+2,05:30,04h 50m,10:20,2.6,44,INR 246
+23 Jul,Karbi,Hamren to Diphu,https://www.redbus.in/bus-tickets/hamren-to-diphu,KAAC TRANSPORT - 157443,Non AC Seater 2+2,11:45,06h 15m,18:00,2.6,41,INR 300

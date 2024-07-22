@@ -1,0 +1,330 @@
+date,state,route,route_link,bus_name,bus_type,departing_time,duration,reaching_time,star_rating,available_seats,price
+22 Jul,Kadamba,Pune to Goa,https://www.redbus.in/bus-tickets/pune-to-goa,Kadamba Transport Corporation Limited (KTCL) - 89821,A/C Sleeper (2+1),19:15,10h 35m,05:50,3.8,16,INR 800
+22 Jul,Kadamba,Pune to Goa,https://www.redbus.in/bus-tickets/pune-to-goa,Atmaram Gobus,VE A/C Sleeper (2+1),21:00,10h 30m,07:30,4.6,17,INR 555
+22 Jul,Kadamba,Pune to Goa,https://www.redbus.in/bus-tickets/pune-to-goa,Atmaram Gobus,VE A/C Sleeper (2+1),22:30,10h 15m,08:45,4.6,20,INR 606
+22 Jul,Kadamba,Pune to Goa,https://www.redbus.in/bus-tickets/pune-to-goa,Zingbus Plus,Bharat Benz A/C Sleeper (2+1),21:45,10h 50m,08:35,4.5,29,INR 485
+22 Jul,Kadamba,Pune to Goa,https://www.redbus.in/bus-tickets/pune-to-goa,Ashray Amrutyog,A/C Sleeper (2+1),22:00,11h 30m,09:30,4.5,24,INR 644
+22 Jul,Kadamba,Pune to Goa,https://www.redbus.in/bus-tickets/pune-to-goa,Ashray Vip Yellows,A/C Sleeper (2+1),20:30,11h 30m,08:00,4.5,19,INR 648
+22 Jul,Kadamba,Pune to Goa,https://www.redbus.in/bus-tickets/pune-to-goa,Ashray Travels,Bharat Benz A/C Sleeper (2+1),21:00,11h 30m,08:30,4.5,29,INR 596
+22 Jul,Kadamba,Pune to Goa,https://www.redbus.in/bus-tickets/pune-to-goa,Atmaram Gobus,NON A/C Sleeper (2+1),20:30,10h 30m,07:00,4.4,12,INR 505
+22 Jul,Kadamba,Pune to Goa,https://www.redbus.in/bus-tickets/pune-to-goa,Ashray Travels,Non A/C Seater / Sleeper (2+1),21:15,10h 30m,07:45,4.4,29,INR 399
+22 Jul,Kadamba,Pune to Goa,https://www.redbus.in/bus-tickets/pune-to-goa,Laxmi-Princess Nova,Non A/C Seater / Sleeper (2+1),20:00,11h 15m,07:15,4.3,20,INR 399
+22 Jul,Kadamba,Pune to Goa,https://www.redbus.in/bus-tickets/pune-to-goa,IntrCity SmartBus,AC Sleeper (2+1),21:00,10h 40m,07:40,4.1,19,INR 500
+22 Jul,Kadamba,Pune to Goa,https://www.redbus.in/bus-tickets/pune-to-goa,Giroba Travels (Shree),A/C Sleeper (2+1),20:01,13h 39m,09:40,0,26,INR 550
+22 Jul,Kadamba,Pune to Goa,https://www.redbus.in/bus-tickets/pune-to-goa,KVT Narmada Benz,Bharat Benz A/C Sleeper (2+1),22:05,09h 56m,08:01,4.1,23,INR 600
+22 Jul,Kadamba,Pune to Goa,https://www.redbus.in/bus-tickets/pune-to-goa,IntrCity SmartBus,AC Sleeper (2+1),23:35,10h 10m,09:45,4.1,29,INR 600
+22 Jul,Kadamba,Pune to Goa,https://www.redbus.in/bus-tickets/pune-to-goa,IntrCity SmartBus,AC Sleeper (2+1),21:55,10h 25m,08:20,4.0,24,INR 679
+22 Jul,Kadamba,Pune to Goa,https://www.redbus.in/bus-tickets/pune-to-goa,Humsafar Travels,A/C Sleeper (2+1),22:50,10h 40m,09:30,4.0,10,INR 945
+22 Jul,Kadamba,Pune to Goa,https://www.redbus.in/bus-tickets/pune-to-goa,Zingbus Plus,Bharat Benz A/C Sleeper (2+1),23:00,11h 00m,10:00,4.3,22,INR 540
+22 Jul,Kadamba,Pune to Goa,https://www.redbus.in/bus-tickets/pune-to-goa,Zingbus Plus,VE A/C Sleeper (2+1),23:55,11h 15m,11:10,4.3,29,INR 543
+22 Jul,Kadamba,Pune to Goa,https://www.redbus.in/bus-tickets/pune-to-goa,Ashray Grand,Volvo Multi-Axle A/C Sleeper (2+1),23:05,10h 25m,09:30,4.2,30,INR 800
+22 Jul,Kadamba,Pune to Goa,https://www.redbus.in/bus-tickets/pune-to-goa,Laxmi Queen Prime,A/C Sleeper (2+1),20:30,11h 00m,07:30,3.8,14,INR 799
+22 Jul,Kadamba,Pune to Goa,https://www.redbus.in/bus-tickets/pune-to-goa,Dolphin Travel House (37),Bharat Benz A/C Sleeper (2+1),20:15,10h 15m,06:30,3.9,21,INR 810
+22 Jul,Kadamba,Pune to Goa,https://www.redbus.in/bus-tickets/pune-to-goa,IntrCity SmartBus,AC Sleeper (2+1),21:35,10h 40m,08:15,3.9,13,INR 719
+22 Jul,Kadamba,Pune to Goa,https://www.redbus.in/bus-tickets/pune-to-goa,Ashray Divine,NON A/C Sleeper (1+2),19:45,11h 00m,06:45,4.1,18,INR 513
+22 Jul,Kadamba,Pune to Goa,https://www.redbus.in/bus-tickets/pune-to-goa,Prasanna - Purple Bus,VE A/C Sleeper (2+1),22:30,11h 00m,09:30,4.2,23,INR 920
+22 Jul,Kadamba,Pune to Goa,https://www.redbus.in/bus-tickets/pune-to-goa,Prasanna - Purple Bus,VE A/C Sleeper (2+1),20:55,12h 35m,09:30,4.0,21,INR 1020
+22 Jul,Kadamba,Pune to Goa,https://www.redbus.in/bus-tickets/pune-to-goa,Ashray National Express,NON A/C Sleeper (2+1),20:00,10h 45m,06:45,4.3,18,INR 513
+22 Jul,Kadamba,Pune to Goa,https://www.redbus.in/bus-tickets/pune-to-goa,Ashray Pearl,Volvo Multi-Axle A/C Sleeper (2+1),22:30,10h 00m,08:30,4.0,31,INR 799
+22 Jul,Kadamba,Pune to Goa,https://www.redbus.in/bus-tickets/pune-to-goa,Shreyash Travels,Bharat Benz A/C Sleeper (2+1),21:45,10h 45m,08:30,3.9,18,INR 500
+22 Jul,Kadamba,Pune to Goa,https://www.redbus.in/bus-tickets/pune-to-goa,Rajdhani Travels Corporation,VE A/C Sleeper (2+1),23:15,10h 20m,09:35,4.0,14,INR 849
+22 Jul,Kadamba,Pune to Goa,https://www.redbus.in/bus-tickets/pune-to-goa,PSR Travels Goa,A/C Sleeper (2+1),23:45,09h 30m,09:15,3.6,9,INR 899
+22 Jul,Kadamba,Pune to Goa,https://www.redbus.in/bus-tickets/pune-to-goa,Laxmi Queen Asta,A/C Sleeper (2+1),21:30,10h 30m,08:00,4.1,19,INR 699
+22 Jul,Kadamba,Pune to Goa,https://www.redbus.in/bus-tickets/pune-to-goa,Laxmi Queen Grand,A/C Sleeper (2+1),22:00,10h 30m,08:30,3.8,19,INR 799
+22 Jul,Kadamba,Pune to Goa,https://www.redbus.in/bus-tickets/pune-to-goa,Dolphin Travel House (38),Bharat Benz A/C Sleeper (2+1),22:15,10h 15m,08:30,3.7,24,INR 710
+22 Jul,Kadamba,Pune to Goa,https://www.redbus.in/bus-tickets/pune-to-goa,Dolphin Travel House (39),A/C Sleeper (2+1),22:30,10h 45m,09:15,3.2,28,INR 710
+22 Jul,Kadamba,Pune to Goa,https://www.redbus.in/bus-tickets/pune-to-goa,KVT Narmada Benz,Bharat Benz A/C Sleeper (2+1),22:00,10h 00m,08:00,4.0,23,INR 600
+22 Jul,Kadamba,Pune to Goa,https://www.redbus.in/bus-tickets/pune-to-goa,Dolphin travel house,A/C Sleeper (2+1),23:45,11h 00m,10:45,3.3,27,INR 710
+22 Jul,Kadamba,Pune to Goa,https://www.redbus.in/bus-tickets/pune-to-goa,Humsafar Travels,A/C Sleeper (2+1),22:15,10h 45m,09:00,3.4,11,INR 1050
+22 Jul,Kadamba,Pune to Goa,https://www.redbus.in/bus-tickets/pune-to-goa,Abhishek Vishal Travels (Samarth),A/C Sleeper (2+1),23:25,09h 45m,09:10,3.4,32,INR 699
+22 Jul,Kadamba,Pune to Goa,https://www.redbus.in/bus-tickets/pune-to-goa,Abhishek Vishal Travels,NON A/C Push Back (2+2),21:25,09h 45m,07:10,3.2,28,INR 500
+22 Jul,Kadamba,Pune to Goa,https://www.redbus.in/bus-tickets/pune-to-goa,Anand Travels,NON A/C Sleeper (2+1),21:30,12h 00m,09:30,3.4,21,INR 549
+22 Jul,Kadamba,Pune to Goa,https://www.redbus.in/bus-tickets/pune-to-goa,Abhishek Vishal Travels (Samarth),A/C Sleeper (2+1),23:25,09h 45m,09:10,3.2,29,INR 650
+22 Jul,Kadamba,Pune to Goa,https://www.redbus.in/bus-tickets/pune-to-goa,KOKAN TOURS & TRAVELS,NON A/C Seater Push Back (2+2),21:00,11h 45m,08:45,3.0,27,INR 3000
+22 Jul,Kadamba,Pune to Goa,https://www.redbus.in/bus-tickets/pune-to-goa,PSR Travels Goa,A/C Sleeper (2+1),00:15,09h 15m,09:30,3.5,8,INR 999
+22 Jul,Kadamba,Goa to Pune,https://www.redbus.in/bus-tickets/goa-to-pune,Kadamba Transport Corporation Limited (KTCL) - 89820,A/C Sleeper (2+1),19:00,12h 00m,07:00,3.4,8,INR 900
+22 Jul,Kadamba,Goa to Pune,https://www.redbus.in/bus-tickets/goa-to-pune,Atmaram Gobus,VE A/C Sleeper (2+1),21:32,08h 50m,06:22,4.8,8,INR 606
+22 Jul,Kadamba,Goa to Pune,https://www.redbus.in/bus-tickets/goa-to-pune,Atmaram Gobus,VE A/C Sleeper (2+1),22:30,10h 40m,09:10,4.8,10,INR 606
+22 Jul,Kadamba,Goa to Pune,https://www.redbus.in/bus-tickets/goa-to-pune,AdShreyash Travels,A/C Sleeper (2+1),20:00,10h 00m,06:00,3.9,10,INR 808
+22 Jul,Kadamba,Goa to Pune,https://www.redbus.in/bus-tickets/goa-to-pune,Zingbus Plus,Bharat Benz A/C Sleeper (2+1),18:10,11h 10m,05:20,4.6,16,INR 720
+22 Jul,Kadamba,Goa to Pune,https://www.redbus.in/bus-tickets/goa-to-pune,Zingbus Plus,Bharat Benz A/C Sleeper (2+1),21:35,12h 55m,10:30,4.4,28,INR 556
+22 Jul,Kadamba,Goa to Pune,https://www.redbus.in/bus-tickets/goa-to-pune,IntrCity SmartBus,AC Sleeper (2+1),19:30,10h 05m,05:35,4.6,11,INR 707
+22 Jul,Kadamba,Goa to Pune,https://www.redbus.in/bus-tickets/goa-to-pune,AdIndumati Travels,A/C Sleeper (2+1),21:00,10h 00m,07:00,4.1,14,INR 524
+22 Jul,Kadamba,Goa to Pune,https://www.redbus.in/bus-tickets/goa-to-pune,Ashray Travels,Bharat Benz A/C Sleeper (2+1),22:30,11h 30m,10:00,4.5,27,INR 649
+22 Jul,Kadamba,Goa to Pune,https://www.redbus.in/bus-tickets/goa-to-pune,Atmaram Travels(M.Dev),A/C Sleeper (2+1),22:00,09h 45m,07:45,4.6,31,INR 799
+22 Jul,Kadamba,Goa to Pune,https://www.redbus.in/bus-tickets/goa-to-pune,IntrCity SmartBus,AC Sleeper (2+1),21:00,10h 05m,07:05,4.4,11,INR 732
+22 Jul,Kadamba,Goa to Pune,https://www.redbus.in/bus-tickets/goa-to-pune,IntrCity SmartBus,AC Sleeper (2+1),20:00,11h 30m,07:30,4.3,6,INR 1188
+22 Jul,Kadamba,Goa to Pune,https://www.redbus.in/bus-tickets/goa-to-pune,IntrCity SmartBus,AC Sleeper (2+1),18:30,10h 55m,05:25,4.4,12,INR 606
+22 Jul,Kadamba,Goa to Pune,https://www.redbus.in/bus-tickets/goa-to-pune,Zingbus Plus,VE A/C Sleeper (2+1),20:25,10h 50m,07:15,4.6,21,INR 619
+22 Jul,Kadamba,Goa to Pune,https://www.redbus.in/bus-tickets/goa-to-pune,Laxmi-Princess Nova,Non A/C Seater / Sleeper (2+1),19:00,11h 30m,06:30,4.4,12,INR 399
+22 Jul,Kadamba,Mumbai to Goa,https://www.redbus.in/bus-tickets/mumbai-to-goa,Kadamba Transport Corporation Limited (KTCL) - 97386,Volvo AC Seater Pushback 2+2,17:05,12h 55m,06:00,3.8,24,INR 800
+22 Jul,Kadamba,Mumbai to Goa,https://www.redbus.in/bus-tickets/mumbai-to-goa,Zingbus Plus,VE A/C Sleeper (2+1),20:00,16h 25m,12:25,4.6,22,INR 621
+22 Jul,Kadamba,Mumbai to Goa,https://www.redbus.in/bus-tickets/mumbai-to-goa,Zingbus Plus,Bharat Benz A/C Sleeper (2+1),17:00,17h 00m,10:00,4.5,19,INR 604
+22 Jul,Kadamba,Mumbai to Goa,https://www.redbus.in/bus-tickets/mumbai-to-goa,AdJolly Tours and Travels,VE A/C Sleeper (2+1),18:35,12h 30m,07:05,3.9,8,INR 1200
+22 Jul,Kadamba,Mumbai to Goa,https://www.redbus.in/bus-tickets/mumbai-to-goa,IntrCity SmartBus,AC Sleeper (2+1),17:00,15h 15m,08:15,4.3,13,INR 719
+22 Jul,Kadamba,Mumbai to Goa,https://www.redbus.in/bus-tickets/mumbai-to-goa,Rajdhani Travels Corporation,VE A/C Sleeper (2+1),19:55,13h 40m,09:35,4.3,14,INR 849
+22 Jul,Kadamba,Mumbai to Goa,https://www.redbus.in/bus-tickets/mumbai-to-goa,Dolphin Travel House (37),Bharat Benz A/C Sleeper (2+1),13:30,17h 00m,06:30,4.3,23,INR 760
+22 Jul,Kadamba,Mumbai to Goa,https://www.redbus.in/bus-tickets/mumbai-to-goa,AdIntrCity SmartBus,AC Sleeper (2+1),19:15,14h 30m,09:45,3.9,29,INR 600
+22 Jul,Kadamba,Mumbai to Goa,https://www.redbus.in/bus-tickets/mumbai-to-goa,IntrCity SmartBus,AC Sleeper (2+1),16:00,16h 20m,08:20,4.2,24,INR 679
+22 Jul,Kadamba,Mumbai to Goa,https://www.redbus.in/bus-tickets/mumbai-to-goa,Dolphin Travel House (38),Bharat Benz A/C Sleeper (2+1),15:30,17h 00m,08:30,4.3,24,INR 760
+22 Jul,Kadamba,Mumbai to Goa,https://www.redbus.in/bus-tickets/mumbai-to-goa,Zingbus Plus,VE A/C Sleeper (2+1),18:00,17h 10m,11:10,4.4,29,INR 670
+22 Jul,Kadamba,Mumbai to Goa,https://www.redbus.in/bus-tickets/mumbai-to-goa,Konkan Travels National,NON A/C Sleeper (2+1),19:25,14h 20m,09:45,4.0,20,INR 462
+22 Jul,Kadamba,Mumbai to Goa,https://www.redbus.in/bus-tickets/mumbai-to-goa,Global Travel Agency (GTA),A/C Sleeper (2+1),17:50,17h 45m,11:35,3.9,23,INR 699
+22 Jul,Kadamba,Mumbai to Goa,https://www.redbus.in/bus-tickets/mumbai-to-goa,Dolphin travel house,A/C Sleeper (2+1),17:45,17h 00m,10:45,3.5,27,INR 760
+22 Jul,Kadamba,Mumbai to Goa,https://www.redbus.in/bus-tickets/mumbai-to-goa,Shubham Vailankanni Travels,VE A/C Sleeper (2+1),20:00,15h 35m,11:35,3.4,26,INR 800
+22 Jul,Kadamba,Mumbai to Goa,https://www.redbus.in/bus-tickets/mumbai-to-goa,Mascot Travels(M.Dev),A/C Sleeper (2+1),17:30,17h 15m,10:45,3.9,21,INR 618
+22 Jul,Kadamba,Mumbai to Goa,https://www.redbus.in/bus-tickets/mumbai-to-goa,Dolphin Travel House (39),A/C Sleeper (2+1),16:30,16h 45m,09:15,3.1,28,INR 760
+22 Jul,Kadamba,Mumbai to Goa,https://www.redbus.in/bus-tickets/mumbai-to-goa,Konkan Travels National,A/C Sleeper (2+1),18:00,16h 55m,10:55,3.8,23,INR 600
+22 Jul,Kadamba,Mumbai to Goa,https://www.redbus.in/bus-tickets/mumbai-to-goa,Abhishek Vishal Travels (Samarth),A/C Sleeper (2+1),16:50,16h 20m,09:10,3.6,32,INR 699
+22 Jul,Kadamba,Mumbai to Goa,https://www.redbus.in/bus-tickets/mumbai-to-goa,Dolphin travel house,A/C Sleeper (2+1),20:45,15h 45m,12:30,3.4,23,INR 810
+22 Jul,Kadamba,Mumbai to Goa,https://www.redbus.in/bus-tickets/mumbai-to-goa,Shubham Saijyoti Travels,A/C Sleeper (2+1),20:55,14h 05m,11:00,3.6,11,INR 700
+22 Jul,Kadamba,Mumbai to Goa,https://www.redbus.in/bus-tickets/mumbai-to-goa,Mascot Travels(M.Dev),A/C Sleeper (2+1),19:00,17h 00m,12:00,4.6,23,INR 569
+22 Jul,Kadamba,Mumbai to Goa,https://www.redbus.in/bus-tickets/mumbai-to-goa,Roshan Travels - Humrahi,A/C Sleeper (2+1),17:30,16h 30m,10:00,1.9,27,INR 650
+22 Jul,Kadamba,Mumbai to Goa,https://www.redbus.in/bus-tickets/mumbai-to-goa,Anand Travels,NON A/C Sleeper (2+1),16:50,16h 40m,09:30,3.2,21,INR 549
+22 Jul,Kadamba,Mumbai to Goa,https://www.redbus.in/bus-tickets/mumbai-to-goa,Abhishek Vishal Travels,NON A/C Push Back (2+2),14:50,16h 20m,07:10,3.0,27,INR 500
+22 Jul,Kadamba,Mumbai to Goa,https://www.redbus.in/bus-tickets/mumbai-to-goa,Abhishek Vishal Travels (Samarth),A/C Sleeper (2+1),16:50,16h 20m,09:10,3.2,29,INR 650
+22 Jul,Kadamba,Mumbai to Goa,https://www.redbus.in/bus-tickets/mumbai-to-goa,Naik Tours And Travels,Bharat Benz A/C Sleeper (2+1),20:30,13h 30m,10:00,2.3,24,INR 1200
+22 Jul,Kadamba,Mumbai to Goa,https://www.redbus.in/bus-tickets/mumbai-to-goa,Atmaram Travels,A/C Seater / Sleeper (2+1),20:00,15h 00m,11:00,2.8,16,INR 720
+22 Jul,Kadamba,Mumbai to Goa,https://www.redbus.in/bus-tickets/mumbai-to-goa,Naik Tours And Travels,AC Seater (2+2),22:00,12h 00m,10:00,1.6,39,INR 1200
+22 Jul,Kadamba,Mumbai to Goa,https://www.redbus.in/bus-tickets/mumbai-to-goa,Global Travel Agency (GTA),A/C Sleeper (2+1),16:00,17h 45m,09:45,3.6,30,INR 700
+22 Jul,Kadamba,Mumbai to Goa,https://www.redbus.in/bus-tickets/mumbai-to-goa,Global Travel Agency (GTA),A/C Sleeper (2+1),18:30,17h 45m,12:15,3.6,26,INR 700
+22 Jul,Kadamba,Mumbai to Goa,https://www.redbus.in/bus-tickets/mumbai-to-goa,Konkan Travels National,A/C Sleeper (2+1),19:25,14h 20m,09:45,3.5,23,INR 600
+22 Jul,Kadamba,Mumbai to Goa,https://www.redbus.in/bus-tickets/mumbai-to-goa,Atmaram Travels,A/C Sleeper (2+1),17:45,15h 00m,08:45,2.5,17,INR 925
+22 Jul,Kadamba,Mumbai to Goa,https://www.redbus.in/bus-tickets/mumbai-to-goa,Atmaram Travels,A/C Seater / Sleeper (2+1),16:45,16h 15m,09:00,2.5,23,INR 540
+22 Jul,Kadamba,Goa to Mumbai,https://www.redbus.in/bus-tickets/goa-to-mumbai,Zingbus Plus,VE A/C Sleeper (2+1),20:25,15h 25m,11:50,4.7,21,INR 561
+22 Jul,Kadamba,Goa to Mumbai,https://www.redbus.in/bus-tickets/goa-to-mumbai,Zingbus Plus,Bharat Benz A/C Sleeper (2+1),18:10,14h 55m,09:05,4.5,16,INR 771
+22 Jul,Kadamba,Goa to Mumbai,https://www.redbus.in/bus-tickets/goa-to-mumbai,IntrCity SmartBus,AC Sleeper (2+1),19:30,14h 10m,09:40,4.5,11,INR 707
+22 Jul,Kadamba,Goa to Mumbai,https://www.redbus.in/bus-tickets/goa-to-mumbai,AdJolly Tours and Travels,VE A/C Sleeper (2+1),18:25,12h 05m,06:30,4.1,17,INR 1499
+22 Jul,Kadamba,Goa to Mumbai,https://www.redbus.in/bus-tickets/goa-to-mumbai,Atmaram Travels ( Dolphin ),A/C Sleeper (2+1),14:00,15h 15m,05:15,4.4,12,INR 1099
+22 Jul,Kadamba,Goa to Mumbai,https://www.redbus.in/bus-tickets/goa-to-mumbai,Rajdhani Travels Corporation,VE A/C Sleeper (2+1),19:30,12h 40m,08:10,4.4,21,INR 799
+22 Jul,Kadamba,Goa to Mumbai,https://www.redbus.in/bus-tickets/goa-to-mumbai,Zingbus Plus,VE A/C Sleeper (2+1),19:40,15h 05m,10:45,4.5,27,INR 617
+22 Jul,Kadamba,Goa to Mumbai,https://www.redbus.in/bus-tickets/goa-to-mumbai,IntrCity SmartBus,AC Sleeper (2+1),21:00,14h 20m,11:20,4.3,11,INR 732
+22 Jul,Kadamba,Goa to Mumbai,https://www.redbus.in/bus-tickets/goa-to-mumbai,Atmaram Travels(M.Dev),A/C Sleeper (2+1),22:00,13h 50m,11:50,4.3,31,INR 799
+22 Jul,Kadamba,Goa to Mumbai,https://www.redbus.in/bus-tickets/goa-to-mumbai,IntrCity SmartBus,AC Sleeper (2+1),18:30,14h 30m,09:00,4.2,12,INR 606
+22 Jul,Kadamba,Goa to Mumbai,https://www.redbus.in/bus-tickets/goa-to-mumbai,Giroba Travels (Shree),A/C Sleeper (2+1),16:30,14h 40m,07:10,0,29,INR 3000
+22 Jul,Kadamba,Goa to Mumbai,https://www.redbus.in/bus-tickets/goa-to-mumbai,Giroba Travels (Shree),A/C Seater Hi-Tech Push Back (2+2),17:00,13h 10m,06:10,0,40,INR 2000
+22 Jul,Kadamba,Goa to Mumbai,https://www.redbus.in/bus-tickets/goa-to-mumbai,Giroba Travels,NON A/C Airbus (2+2),16:01,14h 59m,07:00,0,49,INR 3300
+22 Jul,Kadamba,Goa to Mumbai,https://www.redbus.in/bus-tickets/goa-to-mumbai,Atmaram Travels ( Dolphin ),A/C Sleeper (2+1),17:30,15h 55m,09:25,4.2,28,INR 660
+22 Jul,Kadamba,Goa to Mumbai,https://www.redbus.in/bus-tickets/goa-to-mumbai,Atmaram Travels (Unity),A/C Sleeper (2+1),20:00,14h 35m,10:35,4.2,28,INR 650
+22 Jul,Kadamba,Goa to Mumbai,https://www.redbus.in/bus-tickets/goa-to-mumbai,"National Travels,Goa",A/C Sleeper (2+1),19:30,15h 00m,10:30,4.2,10,INR 850
+22 Jul,Kadamba,Goa to Mumbai,https://www.redbus.in/bus-tickets/goa-to-mumbai,Atmaram Travels ( Dolphin ),A/C Sleeper (2+1),15:30,15h 15m,06:45,4.1,17,INR 800
+22 Jul,Kadamba,Goa to Mumbai,https://www.redbus.in/bus-tickets/goa-to-mumbai,"National Travels,Goa",NON A/C Sleeper (2+1),18:30,13h 00m,07:30,4.0,13,INR 750
+22 Jul,Kadamba,Goa to Mumbai,https://www.redbus.in/bus-tickets/goa-to-mumbai,Atmaram Travels Goa,A/C Sleeper (2+1),19:00,14h 35m,09:35,3.7,28,INR 606
+22 Jul,Kadamba,Goa to Mumbai,https://www.redbus.in/bus-tickets/goa-to-mumbai,VAILANKANNI TRAVELS,VE A/C Sleeper (2+1),20:40,12h 50m,09:30,3.7,29,INR 650
+22 Jul,Kadamba,Goa to Mumbai,https://www.redbus.in/bus-tickets/goa-to-mumbai,Atmaram Travels ( Dolphin ),AC Sleeper (2+1),18:30,16h 00m,10:30,3.6,22,INR 606
+22 Jul,Kadamba,Goa to Mumbai,https://www.redbus.in/bus-tickets/goa-to-mumbai,IntrCity SmartBus,AC Sleeper (2+1),20:00,14h 20m,10:20,4.0,6,INR 943
+22 Jul,Kadamba,Goa to Mumbai,https://www.redbus.in/bus-tickets/goa-to-mumbai,Atmaram Travels (Vishal),Non AC Seater (2+2),18:10,15h 10m,09:20,3.6,32,INR 550
+22 Jul,Kadamba,Goa to Mumbai,https://www.redbus.in/bus-tickets/goa-to-mumbai,Atmaram Travels(M.Dev),A/C Sleeper (2+1),21:02,13h 55m,10:57,4.0,32,INR 606
+22 Jul,Kadamba,Goa to Mumbai,https://www.redbus.in/bus-tickets/goa-to-mumbai,Anand Travels,NON A/C Sleeper (2+1),19:30,12h 00m,07:30,3.2,14,INR 660
+22 Jul,Kadamba,Goa to Mumbai,https://www.redbus.in/bus-tickets/goa-to-mumbai,Naik Tours And Travels,NON A/C Sleeper (2+1),16:20,14h 45m,07:05,4.0,14,INR 700
+22 Jul,Kadamba,Goa to Mumbai,https://www.redbus.in/bus-tickets/goa-to-mumbai,Manish Roshan Travels,A/C Sleeper (2+1),19:30,14h 00m,09:30,3.5,27,INR 700
+22 Jul,Kadamba,Goa to Mumbai,https://www.redbus.in/bus-tickets/goa-to-mumbai,Manish Travels,A/C Seater / Sleeper (2+1),19:30,14h 00m,09:30,2.2,30,INR 600
+22 Jul,Kadamba,Goa to Mumbai,https://www.redbus.in/bus-tickets/goa-to-mumbai,Sai Travels - Saijyoti,A/C Sleeper (2+1),19:45,14h 50m,10:35,3.7,27,INR 799
+22 Jul,Kadamba,Goa to Mumbai,https://www.redbus.in/bus-tickets/goa-to-mumbai,Manish Roshan Travels,Bharat Benz A/C Sleeper (2+1),17:30,14h 00m,07:30,2.6,24,INR 700
+22 Jul,Kadamba,Goa to Mumbai,https://www.redbus.in/bus-tickets/goa-to-mumbai,SIDDHANTH TRANSPORT,A/C Seater Push Back (2+2),17:20,15h 25m,08:45,4.3,49,INR 5000
+22 Jul,Kadamba,Goa to Mumbai,https://www.redbus.in/bus-tickets/goa-to-mumbai,"National Travels,Goa",A/C Sleeper (2+1),19:30,13h 00m,08:30,3.7,20,INR 606
+22 Jul,Kadamba,Goa to Mumbai,https://www.redbus.in/bus-tickets/goa-to-mumbai,Sai Travels,A/C Sleeper (2+1),19:15,14h 45m,10:00,3.6,27,INR 4000
+22 Jul,Kadamba,Goa to Mumbai,https://www.redbus.in/bus-tickets/goa-to-mumbai,Sai Travels,NON A/C Sleeper (2+1),17:30,15h 30m,09:00,3.6,31,INR 5000
+22 Jul,Kadamba,Pandharpur to Goa,https://www.redbus.in/bus-tickets/pandharpur-to-goa,Kadamba Transport Corporation Limited (KTCL) - 61005,Non AC Seater 2+2,21:15,12h 45m,10:00,3.3,22,INR 735
+22 Jul,Kadamba,Bangalore to Goa,https://www.redbus.in/bus-tickets/bangalore-to-goa,Kadamba Transport Corporation Limited (KTCL) - 141293,Volvo AC Seater 2+2,19:45,12h 30m,08:15,3.8,30,INR 800
+22 Jul,Kadamba,Bangalore to Goa,https://www.redbus.in/bus-tickets/bangalore-to-goa,Intercity travels,Bharat Benz A/C Sleeper (2+1),21:00,13h 15m,10:15,4.6,18,INR 1099
+22 Jul,Kadamba,Bangalore to Goa,https://www.redbus.in/bus-tickets/bangalore-to-goa,Sunrise Tours and Travels,A/C Sleeper (2+1),21:20,12h 55m,10:15,4.5,1,INR 1499
+22 Jul,Kadamba,Bangalore to Goa,https://www.redbus.in/bus-tickets/bangalore-to-goa,Streamline tours and travels,A/C Sleeper (2+1),21:15,13h 00m,10:15,4.1,25,INR 999
+22 Jul,Kadamba,Bangalore to Goa,https://www.redbus.in/bus-tickets/bangalore-to-goa,IntrCity SmartBus,AC Sleeper (2+1),20:30,13h 10m,09:40,4.2,17,INR 817
+22 Jul,Kadamba,Bangalore to Goa,https://www.redbus.in/bus-tickets/bangalore-to-goa,Streamline tours and travels,A/C Sleeper (2+1),22:20,12h 55m,11:15,3.7,27,INR 999
+22 Jul,Kadamba,Bangalore to Goa,https://www.redbus.in/bus-tickets/bangalore-to-goa,Sea Bird Tourist,NON A/C Sleeper (2+1),20:30,13h 30m,10:00,3.3,22,INR 700
+22 Jul,Kadamba,Bangalore to Goa,https://www.redbus.in/bus-tickets/bangalore-to-goa,Sea Bird Tourist,NON A/C Sleeper (2+1),18:00,13h 00m,07:00,3.2,25,INR 700
+22 Jul,Kadamba,Bangalore to Goa,https://www.redbus.in/bus-tickets/bangalore-to-goa,Anand Travels,NON A/C Sleeper (2+1),19:00,12h 00m,07:00,3.0,15,INR 610
+22 Jul,Kadamba,Bangalore to Goa,https://www.redbus.in/bus-tickets/bangalore-to-goa,Sea Bird Tourist,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),22:30,13h 00m,11:30,3.1,39,INR 700
+22 Jul,Kadamba,Bangalore to Goa,https://www.redbus.in/bus-tickets/bangalore-to-goa,Sea Bird Tourist,A/C Sleeper (2+1),21:15,13h 00m,10:15,2.8,25,INR 900
+22 Jul,Kadamba,Bangalore to Goa,https://www.redbus.in/bus-tickets/bangalore-to-goa,Sea Bird Tourist,A/C Sleeper (2+1),19:00,13h 00m,08:00,2.6,25,INR 900
+22 Jul,Kadamba,Bangalore to Goa,https://www.redbus.in/bus-tickets/bangalore-to-goa,SRS Travels,NON AC Seater / Sleeper 2+1,20:00,13h 30m,09:30,2.3,31,INR 599
+22 Jul,Kadamba,Bangalore to Goa,https://www.redbus.in/bus-tickets/bangalore-to-goa,Sea Bird Tourist,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),23:30,13h 00m,12:30,3.4,31,INR 700
+22 Jul,Kadamba,Bangalore to Goa,https://www.redbus.in/bus-tickets/bangalore-to-goa,SRS Travels,NON AC Seater / Sleeper 2+1,20:00,12h 30m,08:30,2.5,31,INR 599
+22 Jul,Kadamba,Bangalore to Goa,https://www.redbus.in/bus-tickets/bangalore-to-goa,Sea Bird Tourist,A/C Sleeper (2+1),22:15,13h 00m,11:15,2.3,21,INR 900
+22 Jul,Kadamba,Bangalore to Goa,https://www.redbus.in/bus-tickets/bangalore-to-goa,Sugama Tourist,NON A/C Sleeper (2+1),20:30,11h 15m,07:45,3.5,23,INR 900
+22 Jul,Kadamba,Bangalore to Goa,https://www.redbus.in/bus-tickets/bangalore-to-goa,Sugama Tourist,NON A/C Sleeper (2+1),20:30,12h 15m,08:45,3.5,23,INR 950
+22 Jul,Kadamba,Bangalore to Goa,https://www.redbus.in/bus-tickets/bangalore-to-goa,Sugama Tourist,NON A/C Sleeper (2+1),20:30,11h 45m,08:15,4.4,23,INR 950
+22 Jul,Kadamba,Bangalore to Goa,https://www.redbus.in/bus-tickets/bangalore-to-goa,Janatha Travels,NON A/C Sleeper (2+1),20:45,11h 45m,08:30,3.5,12,INR 12345
+22 Jul,Kadamba,Bangalore to Goa,https://www.redbus.in/bus-tickets/bangalore-to-goa,Balaji Tourist,Volvo Multi-Axle A/C Semisleeper (2+2),21:30,13h 45m,11:15,0,1,INR 3000
+22 Jul,Kadamba,Bangalore to Goa,https://www.redbus.in/bus-tickets/bangalore-to-goa,VRL Travels,A/C Seater / Sleeper (2+1),19:30,13h 45m,09:15,3.3,23,INR 700
+22 Jul,Kadamba,Goa to Pandharpur,https://www.redbus.in/bus-tickets/goa-to-pandharpur,Kadamba Transport Corporation Limited (KTCL) - 60996,Non AC Seater 2+2,19:00,12h 00m,07:00,3.3,30,INR 735
+22 Jul,Kadamba,Belagavi to Goa,https://www.redbus.in/bus-tickets/belagavi-to-goa,Kadamba Transport Corporation Limited (KTCL) - 6020,Non AC Seater 2+2,16:00,03h 45m,19:45,3.0,24,INR 170
+22 Jul,Kadamba,Belagavi to Goa,https://www.redbus.in/bus-tickets/belagavi-to-goa,S R Travels,NON A/C Sleeper (2+1),01:00,05h 00m,06:00,1.2,11,INR 799
+22 Jul,Kadamba,Goa to Bangalore,https://www.redbus.in/bus-tickets/goa-to-bangalore,Intercity travels,Bharat Benz A/C Sleeper (2+1),18:00,13h 15m,07:15,4.6,5,INR 1599
+22 Jul,Kadamba,Goa to Bangalore,https://www.redbus.in/bus-tickets/goa-to-bangalore,Sunrise Tours and Travels,A/C Sleeper (2+1),18:30,12h 40m,07:10,4.4,3,INR 1699
+22 Jul,Kadamba,Goa to Bangalore,https://www.redbus.in/bus-tickets/goa-to-bangalore,Streamline tours and travels,A/C Sleeper (2+1),18:00,12h 30m,06:30,4.1,1,INR 1499
+22 Jul,Kadamba,Goa to Bangalore,https://www.redbus.in/bus-tickets/goa-to-bangalore,IntrCity SmartBus,AC Sleeper (2+1),19:00,13h 35m,08:35,4.2,1,INR 1413
+22 Jul,Kadamba,Goa to Bangalore,https://www.redbus.in/bus-tickets/goa-to-bangalore,Sea Bird Tourist,A/C Sleeper (2+1),20:30,13h 00m,09:30,3.4,11,INR 900
+22 Jul,Kadamba,Goa to Bangalore,https://www.redbus.in/bus-tickets/goa-to-bangalore,Sea Bird Tourist,NON A/C Sleeper (2+1),17:30,14h 00m,07:30,3.3,10,INR 700
+22 Jul,Kadamba,Goa to Bangalore,https://www.redbus.in/bus-tickets/goa-to-bangalore,Sea Bird Tourist,NON A/C Sleeper (2+1),18:30,14h 00m,08:30,2.9,15,INR 700
+22 Jul,Kadamba,Goa to Bangalore,https://www.redbus.in/bus-tickets/goa-to-bangalore,Anand Travels,NON A/C Sleeper (2+1),18:30,12h 15m,06:45,2.5,3,INR 810
+22 Jul,Kadamba,Goa to Bangalore,https://www.redbus.in/bus-tickets/goa-to-bangalore,SRS Travels,NON AC Seater / Sleeper 2+1,18:00,13h 30m,07:30,2.5,15,INR 739
+22 Jul,Kadamba,Goa to Bangalore,https://www.redbus.in/bus-tickets/goa-to-bangalore,SRS Travels,NON AC Seater / Sleeper 2+1,19:00,12h 30m,07:30,2.6,15,INR 739
+22 Jul,Kadamba,Goa to Bangalore,https://www.redbus.in/bus-tickets/goa-to-bangalore,Sea Bird Tourist,NON A/C Sleeper (2+1),17:00,14h 00m,07:00,1.9,20,INR 700
+22 Jul,Kadamba,Goa to Bangalore,https://www.redbus.in/bus-tickets/goa-to-bangalore,Janatha Travels,NON A/C Sleeper (2+1),19:00,11h 35m,06:35,3.5,17,INR 12345
+22 Jul,Kadamba,Goa to Bangalore,https://www.redbus.in/bus-tickets/goa-to-bangalore,Balaji Tourist,Volvo Multi-Axle A/C Semisleeper (2+2),19:45,10h 40m,06:25,0,1,INR 3000
+22 Jul,Kadamba,Goa to Bangalore,https://www.redbus.in/bus-tickets/goa-to-bangalore,VRL Travels,A/C Seater / Sleeper (2+1),19:00,14h 00m,09:00,3.6,21,INR 800
+22 Jul,Kadamba,Goa to Bangalore,https://www.redbus.in/bus-tickets/goa-to-bangalore,VRL Travels,A/C Sleeper (2+1),20:00,14h 00m,10:00,3.1,16,INR 1100
+22 Jul,Kadamba,Goa to Bangalore,https://www.redbus.in/bus-tickets/goa-to-bangalore,VRL Travels,NON A/C Sleeper (2+1),18:00,14h 00m,08:00,4.2,6,INR 1200
+22 Jul,Kadamba,Solapur to Goa,https://www.redbus.in/bus-tickets/solapur-to-goa,Kadamba Transport Corporation Limited (KTCL) - 61005,Non AC Seater 2+2,20:00,14h 00m,10:00,3.0,23,INR 850
+22 Jul,Kadamba,Solapur to Goa,https://www.redbus.in/bus-tickets/solapur-to-goa,S R Travels,A/C Seater/Sleeper (2+1),18:45,12h 15m,07:00,2.9,27,INR 800
+22 Jul,Kadamba,Goa to Kolhapur(Maharashtra),https://www.redbus.in/bus-tickets/goa-to-kolhapur-maharashtra,Kadamba Transport Corporation Limited (KTCL) - 60996,Non AC Seater 2+2,19:00,07h 30m,02:30,3.6,30,INR 420
+22 Jul,Kadamba,Goa to Kolhapur(Maharashtra),https://www.redbus.in/bus-tickets/goa-to-kolhapur-maharashtra,Neeta tours and travels,AC Sleeper (2+1),13:30,05h 30m,19:00,3.4,25,INR 499
+22 Jul,Kadamba,Goa to Kolhapur(Maharashtra),https://www.redbus.in/bus-tickets/goa-to-kolhapur-maharashtra,Shri Ganesh Travels,A/C Seater (2+2),14:00,06h 00m,20:00,3.2,31,INR 999
+22 Jul,Kadamba,Goa to Kolhapur(Maharashtra),https://www.redbus.in/bus-tickets/goa-to-kolhapur-maharashtra,Hans Travels (I) Private Limited,A/C Sleeper (2+1),14:00,04h 50m,18:50,3.1,26,INR 600
+22 Jul,Kadamba,Goa to Kolhapur(Maharashtra),https://www.redbus.in/bus-tickets/goa-to-kolhapur-maharashtra,Asmat Travels,Non AC Seater (2+2),14:30,06h 00m,20:30,3.1,35,INR 500
+22 Jul,Kadamba,Goa to Kolhapur(Maharashtra),https://www.redbus.in/bus-tickets/goa-to-kolhapur-maharashtra,IntrCity SmartBus,AC Sleeper (2+1),15:30,06h 15m,21:45,4.5,10,INR 550
+22 Jul,Kadamba,Goa to Kolhapur(Maharashtra),https://www.redbus.in/bus-tickets/goa-to-kolhapur-maharashtra,Vaibhav Travels,A/C Sleeper (2+1),16:00,07h 00m,23:00,3.4,32,INR 300
+22 Jul,Kadamba,Goa to Kolhapur(Maharashtra),https://www.redbus.in/bus-tickets/goa-to-kolhapur-maharashtra,Atmaram Travels ( Dolphin ),A/C Sleeper (2+1),17:30,06h 10m,23:40,3.3,29,INR 660
+22 Jul,Kadamba,Goa to Kolhapur(Maharashtra),https://www.redbus.in/bus-tickets/goa-to-kolhapur-maharashtra,IntrCity SmartBus,AC Sleeper (2+1),17:30,06h 55m,00:25,3.9,2,INR 550
+22 Jul,Kadamba,Goa to Kolhapur(Maharashtra),https://www.redbus.in/bus-tickets/goa-to-kolhapur-maharashtra,Zingbus Plus,Bharat Benz A/C Sleeper (2+1),18:10,06h 05m,00:15,4.3,20,INR 693
+22 Jul,Kadamba,Goa to Kolhapur(Maharashtra),https://www.redbus.in/bus-tickets/goa-to-kolhapur-maharashtra,IntrCity SmartBus,AC Sleeper (2+1),18:30,06h 15m,00:45,4.5,12,INR 606
+22 Jul,Kadamba,Goa to Kolhapur(Maharashtra),https://www.redbus.in/bus-tickets/goa-to-kolhapur-maharashtra,Amrutyog Travels,A/C Sleeper (2+1),19:00,07h 30m,02:30,4.5,25,INR 555
+22 Jul,Kadamba,Goa to Kolhapur(Maharashtra),https://www.redbus.in/bus-tickets/goa-to-kolhapur-maharashtra,Atmaram Travels Goa,A/C Sleeper (2+1),19:00,06h 45m,01:45,4.1,26,INR 606
+22 Jul,Kadamba,Goa to Kolhapur(Maharashtra),https://www.redbus.in/bus-tickets/goa-to-kolhapur-maharashtra,Laxmi Queen Prime,A/C Sleeper (2+1),19:30,06h 00m,01:30,3.9,16,INR 699
+22 Jul,Kadamba,Goa to Kolhapur(Maharashtra),https://www.redbus.in/bus-tickets/goa-to-kolhapur-maharashtra,IntrCity SmartBus,AC Sleeper (2+1),19:30,05h 40m,01:10,4.9,11,INR 707
+22 Jul,Kadamba,Goa to Kolhapur(Maharashtra),https://www.redbus.in/bus-tickets/goa-to-kolhapur-maharashtra,Zingbus Plus,VE A/C Sleeper (2+1),19:40,06h 05m,01:45,4.7,27,INR 614
+22 Jul,Kadamba,Goa to Kolhapur(Maharashtra),https://www.redbus.in/bus-tickets/goa-to-kolhapur-maharashtra,Laxmi Empress Stellar,NON A/C Sleeper (2+1),19:45,06h 00m,01:45,3.9,13,INR 649
+22 Jul,Kadamba,Goa to Kolhapur(Maharashtra),https://www.redbus.in/bus-tickets/goa-to-kolhapur-maharashtra,Vaibhav Travels,A/C Sleeper (2+1),20:00,10h 12m,06:12,3.6,20,INR 600
+22 Jul,Kadamba,Goa to Kolhapur(Maharashtra),https://www.redbus.in/bus-tickets/goa-to-kolhapur-maharashtra,Shreyash Travels,A/C Sleeper (2+1),20:00,05h 00m,01:00,3.2,11,INR 727
+22 Jul,Kadamba,Goa to Kolhapur(Maharashtra),https://www.redbus.in/bus-tickets/goa-to-kolhapur-maharashtra,Ashray Travels,Non A/C Seater / Sleeper (2+1),20:00,05h 30m,01:30,4.3,38,INR 350
+22 Jul,Kadamba,Goa to Kolhapur(Maharashtra),https://www.redbus.in/bus-tickets/goa-to-kolhapur-maharashtra,Zingbus Plus,VE A/C Sleeper (2+1),20:25,06h 10m,02:35,4.1,21,INR 642
+22 Jul,Kadamba,Goa to Kolhapur(Maharashtra),https://www.redbus.in/bus-tickets/goa-to-kolhapur-maharashtra,IntrCity SmartBus,AC Sleeper (2+1),21:00,05h 30m,02:30,4.8,12,INR 550
+22 Jul,Kadamba,Goa to Kolhapur(Maharashtra),https://www.redbus.in/bus-tickets/goa-to-kolhapur-maharashtra,Zingbus Plus,Bharat Benz A/C Sleeper (2+1),21:35,05h 25m,03:00,4.7,28,INR 487
+22 Jul,Kadamba,Goa to Kolhapur(Maharashtra),https://www.redbus.in/bus-tickets/goa-to-kolhapur-maharashtra,Anand Travels,NON A/C Sleeper (2+1),18:00,08h 00m,02:00,2.8,18,INR 594
+22 Jul,Kadamba,Goa to Kolhapur(Maharashtra),https://www.redbus.in/bus-tickets/goa-to-kolhapur-maharashtra,Manish Travels,A/C Seater / Sleeper (2+1),18:00,06h 55m,00:55,2.7,31,INR 600
+22 Jul,Kadamba,Goa to Kolhapur(Maharashtra),https://www.redbus.in/bus-tickets/goa-to-kolhapur-maharashtra,Manish Roshan Travels,A/C Sleeper (2+1),18:00,08h 30m,02:30,2.7,27,INR 700
+22 Jul,Kadamba,Goa to Kolhapur(Maharashtra),https://www.redbus.in/bus-tickets/goa-to-kolhapur-maharashtra,Atmaram Travels ( Dolphin ),AC Sleeper (2+1),18:30,06h 15m,00:45,2.8,22,INR 606
+22 Jul,Kadamba,Goa to Kolhapur(Maharashtra),https://www.redbus.in/bus-tickets/goa-to-kolhapur-maharashtra,Laxmi-Princess Nova,Non A/C Seater / Sleeper (2+1),19:00,06h 30m,01:30,2.5,29,INR 399
+22 Jul,Kadamba,Goa to Kolhapur(Maharashtra),https://www.redbus.in/bus-tickets/goa-to-kolhapur-maharashtra,Gujarat Travels,AC Sleeper (2+1),13:25,05h 30m,18:55,3.4,34,INR 1080
+22 Jul,Kadamba,Goa to Kolhapur(Maharashtra),https://www.redbus.in/bus-tickets/goa-to-kolhapur-maharashtra,Atmaram Travels ( Dolphin ),A/C Sleeper (2+1),14:00,06h 30m,20:30,4.7,12,INR 1099
+22 Jul,Kadamba,Goa to Kolhapur(Maharashtra),https://www.redbus.in/bus-tickets/goa-to-kolhapur-maharashtra,Atmaram Travels ( Dolphin ),A/C Sleeper (2+1),15:30,06h 15m,21:45,3.9,17,INR 800
+22 Jul,Kadamba,Goa to Kolhapur(Maharashtra),https://www.redbus.in/bus-tickets/goa-to-kolhapur-maharashtra,Atmaram Travels ( Dolphin ),A/C Sleeper (2+1),16:30,06h 30m,23:00,3.3,26,INR 750
+22 Jul,Kadamba,Goa to Kolhapur(Maharashtra),https://www.redbus.in/bus-tickets/goa-to-kolhapur-maharashtra,IntrCity SmartBus,AC Sleeper (2+1),16:30,06h 00m,22:30,4.1,25,INR 1061
+22 Jul,Kadamba,Goa to Kolhapur(Maharashtra),https://www.redbus.in/bus-tickets/goa-to-kolhapur-maharashtra,IntrCity SmartBus,AC Sleeper (2+1),17:00,07h 40m,00:40,4.1,30,INR 5000
+22 Jul,Kadamba,Goa to Kolhapur(Maharashtra),https://www.redbus.in/bus-tickets/goa-to-kolhapur-maharashtra,Jolly Tours and Travels,VE A/C Sleeper (2+1),17:30,07h 15m,00:45,3.6,34,INR 1449
+22 Jul,Kadamba,Goa to Kolhapur(Maharashtra),https://www.redbus.in/bus-tickets/goa-to-kolhapur-maharashtra,Sai Travels - Shree Sai,NON A/C Push Back (2+2),17:30,08h 00m,01:30,3.6,45,INR 5000
+22 Jul,Kadamba,Goa to Kolhapur(Maharashtra),https://www.redbus.in/bus-tickets/goa-to-kolhapur-maharashtra,IntrCity SmartBus,AC Sleeper (2+1),18:20,06h 15m,00:35,4.3,36,INR 5000
+22 Jul,Kadamba,Goa to Kolhapur(Maharashtra),https://www.redbus.in/bus-tickets/goa-to-kolhapur-maharashtra,PSR Travels Goa,A/C Sleeper (2+1),19:15,05h 45m,01:00,3.5,20,INR 799
+22 Jul,Kadamba,Goa to Kolhapur(Maharashtra),https://www.redbus.in/bus-tickets/goa-to-kolhapur-maharashtra,Atmaram Travels (Humsafar),Bharat Benz A/C Sleeper (2+1),19:30,06h 00m,01:30,4.1,25,INR 1100
+22 Jul,Kadamba,Goa to Kolhapur(Maharashtra),https://www.redbus.in/bus-tickets/goa-to-kolhapur-maharashtra,IntrCity SmartBus,AC Sleeper (2+1),20:00,05h 40m,01:40,4.6,6,INR 943
+22 Jul,Kadamba,Goa to Kolhapur(Maharashtra),https://www.redbus.in/bus-tickets/goa-to-kolhapur-maharashtra,IntrCity SmartBus,AC Sleeper (2+1),20:00,07h 15m,03:15,4.7,6,INR 1188
+22 Jul,Kadamba,Goa to Kolhapur(Maharashtra),https://www.redbus.in/bus-tickets/goa-to-kolhapur-maharashtra,Atmaram Travels (Shreyas),Bharat Benz A/C Sleeper (2+1),20:03,06h 00m,02:03,4.1,24,INR 5000
+22 Jul,Kadamba,Goa to Kolhapur(Maharashtra),https://www.redbus.in/bus-tickets/goa-to-kolhapur-maharashtra,Atmaram Travels ( Gogte ),NON A/C Sleeper (2+1),21:15,06h 00m,03:15,3.1,36,INR 5000
+22 Jul,Kadamba,Goa to Kolhapur(Maharashtra),https://www.redbus.in/bus-tickets/goa-to-kolhapur-maharashtra,Atmaram Travels(KVT Narmada Red),Bharat Benz A/C Sleeper (2+1),21:16,06h 30m,03:46,4.1,23,INR 899
+22 Jul,Kadamba,Goa to Kolhapur(Maharashtra),https://www.redbus.in/bus-tickets/goa-to-kolhapur-maharashtra,Atmaram Travels Goa,A/C Seater / Sleeper (3+1),21:30,06h 00m,03:30,4.1,38,INR 1299
+22 Jul,Kadamba,Goa to Kolhapur(Maharashtra),https://www.redbus.in/bus-tickets/goa-to-kolhapur-maharashtra,Atmaram Travels Goa,A/C Sleeper (2+1),22:31,05h 30m,04:01,3.8,24,INR 1299
+22 Jul,Kadamba,Goa to Kolhapur(Maharashtra),https://www.redbus.in/bus-tickets/goa-to-kolhapur-maharashtra,VRL Travels,A/C Sleeper (2+1),17:00,06h 45m,23:45,3.4,36,INR 1600
+22 Jul,Kadamba,Goa to Kolhapur(Maharashtra),https://www.redbus.in/bus-tickets/goa-to-kolhapur-maharashtra,VRL Travels,A/C Sleeper (2+1),19:30,06h 30m,02:00,3.4,30,INR 1100
+22 Jul,Kadamba,Goa to Kolhapur(Maharashtra),https://www.redbus.in/bus-tickets/goa-to-kolhapur-maharashtra,VRL Travels,A/C Sleeper (2+1),20:00,07h 00m,03:00,3.4,32,INR 1000
+22 Jul,Kadamba,Goa to Solapur,https://www.redbus.in/bus-tickets/goa-to-solapur,Kadamba Transport Corporation Limited (KTCL) - 60996,Non AC Seater 2+2,19:00,13h 30m,08:30,2.8,30,INR 850
+22 Jul,Kadamba,Goa to Solapur,https://www.redbus.in/bus-tickets/goa-to-solapur,IntrCity SmartBus,AC Sleeper (2+1),17:30,11h 15m,04:45,3.0,1,INR 1246
+22 Jul,Kadamba,Goa to Solapur,https://www.redbus.in/bus-tickets/goa-to-solapur,IntrCity SmartBus,AC Sleeper (2+1),15:30,11h 30m,03:00,4.2,7,INR 1124
+22 Jul,Kadamba,Goa to Solapur,https://www.redbus.in/bus-tickets/goa-to-solapur,S R Travels,A/C Seater/Sleeper (2+1),20:30,11h 00m,07:30,2.3,20,INR 800
+22 Jul,Kadamba,Goa to Solapur,https://www.redbus.in/bus-tickets/goa-to-solapur,Sharma Travels,AC Sleeper (2+1),15:00,11h 00m,02:00,3.8,8,INR 1619
+22 Jul,Kadamba,Goa to Solapur,https://www.redbus.in/bus-tickets/goa-to-solapur,Humsafar Travels,A/C Sleeper (2+1),19:00,09h 30m,04:30,3.7,22,INR 1450
+22 Jul,Kadamba,Goa to Sangola (Solapur),https://www.redbus.in/bus-tickets/goa-to-sangola,Kadamba Transport Corporation Limited (KTCL) - 60996,Non AC Seater 2+2,19:00,11h 05m,06:05,3.3,30,INR 675
+22 Jul,Kadamba,Goa to Sangola (Solapur),https://www.redbus.in/bus-tickets/goa-to-sangola,Humsafar Travels,A/C Sleeper (2+1),19:00,07h 00m,02:00,3.1,29,INR 1450
+22 Jul,Kadamba,Sangola (Solapur) to Goa,https://www.redbus.in/bus-tickets/sangola-to-goa,Kadamba Transport Corporation Limited (KTCL) - 61005,Non AC Seater 2+2,21:45,12h 15m,10:00,2.5,23,INR 675
+22 Jul,Kadamba,Calangute (goa) to Goa Airport,https://www.redbus.in/bus-tickets/calangute-goa-to-goa-airport,Kadamba Transport Corporation Limited (KTCL) - 78627,Volvo AC Seater 2+2,13:30,01h 45m,15:15,3.6,40,INR 200
+22 Jul,Kadamba,Calangute (goa) to Goa Airport,https://www.redbus.in/bus-tickets/calangute-goa-to-goa-airport,Kadamba Transport Corporation Limited (KTCL) - 99718,AC Seater (2+2),15:30,01h 45m,17:15,4.2,41,INR 200
+22 Jul,Kadamba,Calangute (goa) to Goa Airport,https://www.redbus.in/bus-tickets/calangute-goa-to-goa-airport,Kadamba Transport Corporation Limited (KTCL) - 99719,AC Seater (2+2),18:30,01h 30m,20:00,4.8,42,INR 200
+22 Jul,Kadamba,Goa to Sangli,https://www.redbus.in/bus-tickets/goa-to-sangli,Kadamba Transport Corporation Limited (KTCL) - 60996,Non AC Seater 2+2,19:00,09h 00m,04:00,3.3,30,INR 490
+22 Jul,Kadamba,Goa to Sangli,https://www.redbus.in/bus-tickets/goa-to-sangli,Vaibhav Travels,A/C Sleeper (2+1),20:00,09h 40m,05:40,3.5,20,INR 600
+22 Jul,Kadamba,Goa to Sangli,https://www.redbus.in/bus-tickets/goa-to-sangli,Humsafar Travels,A/C Sleeper (2+1),19:00,06h 30m,01:30,4.0,29,INR 1450
+23 Jul,Kadamba,Calangute (goa) to Mopa Airport,https://www.redbus.in/bus-tickets/calangute-goa-to-mopa-airport,Kadamba Transport Corporation Limited (KTCL) - 159017,A/C Seater (2+3),06:00,01h 15m,07:15,4.1,47,INR 200
+23 Jul,Kadamba,Calangute (goa) to Mopa Airport,https://www.redbus.in/bus-tickets/calangute-goa-to-mopa-airport,Kadamba Transport Corporation Limited (KTCL) - 159018,A/C Seater (2+3),07:00,01h 15m,08:15,2.2,46,INR 200
+23 Jul,Kadamba,Calangute (goa) to Mopa Airport,https://www.redbus.in/bus-tickets/calangute-goa-to-mopa-airport,Kadamba Transport Corporation Limited (KTCL) - 159019,A/C Seater (2+3),10:00,01h 15m,11:15,3.6,47,INR 200
+23 Jul,Kadamba,Calangute (goa) to Mopa Airport,https://www.redbus.in/bus-tickets/calangute-goa-to-mopa-airport,Kadamba Transport Corporation Limited (KTCL) - 159065,A/C Seater (2+3),11:45,01h 15m,13:00,3.1,45,INR 200
+22 Jul,Kadamba,Mopa Airport to Calangute (goa),https://www.redbus.in/bus-tickets/mopa-airport-to-calangute-goa,Kadamba Transport Corporation Limited (KTCL) - 160437,A/C Seater (2+3),17:30,01h 10m,18:40,4.3,47,INR 200
+23 Jul,Kadamba,Ponda to Belagavi,https://www.redbus.in/bus-tickets/ponda-to-belagavi,Kadamba Transport Corporation Limited (KTCL) - 6028,Non AC Seater 2+2,07:30,03h 00m,10:30,4.0,25,INR 150
+22 Jul,Kadamba,Goa to Miraj,https://www.redbus.in/bus-tickets/goa-to-miraj,Kadamba Transport Corporation Limited (KTCL) - 60996,Non AC Seater 2+2,19:00,09h 30m,04:30,2.6,30,INR 505
+22 Jul,Kadamba,Goa to Miraj,https://www.redbus.in/bus-tickets/goa-to-miraj,Vaibhav Travels,A/C Sleeper (2+1),20:00,09h 42m,05:42,3.7,20,INR 600
+22 Jul,Kadamba,Goa to Miraj,https://www.redbus.in/bus-tickets/goa-to-miraj,Humsafar Travels,A/C Sleeper (2+1),19:00,06h 30m,01:30,2.6,22,INR 1450
+22 Jul,Kadamba,Goa Airport to Calangute (goa),https://www.redbus.in/bus-tickets/goa-airport-to-calangute-goa,Kadamba Transport Corporation Limited (KTCL) - 99707,AC Seater (2+2),13:45,01h 45m,15:30,3.5,40,INR 200
+22 Jul,Kadamba,Goa Airport to Calangute (goa),https://www.redbus.in/bus-tickets/goa-airport-to-calangute-goa,Kadamba Transport Corporation Limited (KTCL) - 99710,AC Seater (2+2),16:00,01h 30m,17:30,4.5,42,INR 200
+23 Jul,Kadamba,Marcel to Belagavi,https://www.redbus.in/bus-tickets/marcel-to-belagavi,Kadamba Transport Corporation Limited (KTCL) - 6028,Non AC Seater 2+2,08:00,02h 30m,10:30,4.2,25,INR 140
+22 Jul,Kadamba,Shivamogga to Goa,https://www.redbus.in/bus-tickets/shimoga-to-goa,Sea Bird Tourist,NON A/C Sleeper (2+1),23:45,08h 15m,08:00,4.6,25,INR 700
+22 Jul,Kadamba,Goa to Mopa Airport,https://www.redbus.in/bus-tickets/goa-to-mopa-airport,Kadamba Transport Corporation Limited (KTCL) - 158948,A/C Seater (2+3),14:00,00h 30m,14:30,2.7,47,INR 150
+22 Jul,Kadamba,Goa to Mopa Airport,https://www.redbus.in/bus-tickets/goa-to-mopa-airport,Kadamba Transport Corporation Limited (KTCL) - 158967,A/C Seater (2+3),15:00,02h 00m,17:00,4.6,47,INR 400
+22 Jul,Kadamba,Goa to Mopa Airport,https://www.redbus.in/bus-tickets/goa-to-mopa-airport,Kadamba Transport Corporation Limited (KTCL) - 158967,A/C Seater (2+3),15:55,01h 05m,17:00,3.6,47,INR 200
+22 Jul,Kadamba,Goa to Satara,https://www.redbus.in/bus-tickets/goa-to-satara,Atmaram Gobus,VE A/C Sleeper (2+1),22:30,07h 40m,06:10,4.8,10,INR 606
+22 Jul,Kadamba,Goa to Satara,https://www.redbus.in/bus-tickets/goa-to-satara,IntrCity SmartBus,AC Sleeper (2+1),20:00,09h 25m,05:25,4.7,7,INR 1206
+22 Jul,Kadamba,Goa to Satara,https://www.redbus.in/bus-tickets/goa-to-satara,Ashray Travels,Volvo Multi-Axle A/C Sleeper (2+1),21:00,09h 30m,06:30,4.4,24,INR 647
+22 Jul,Kadamba,Goa to Satara,https://www.redbus.in/bus-tickets/goa-to-satara,Ashray Grand,Volvo Multi-Axle A/C Sleeper (2+1),22:00,09h 30m,07:30,4.3,31,INR 830
+22 Jul,Kadamba,Goa to Satara,https://www.redbus.in/bus-tickets/goa-to-satara,Ashray Travels,Bharat Benz A/C Sleeper (2+1),22:30,09h 30m,08:00,4.3,27,INR 649
+22 Jul,Kadamba,Goa to Satara,https://www.redbus.in/bus-tickets/goa-to-satara,Zingbus Plus,Bharat Benz A/C Sleeper (2+1),21:35,09h 00m,06:35,4.1,28,INR 586
+22 Jul,Kadamba,Goa to Satara,https://www.redbus.in/bus-tickets/goa-to-satara,Anand Travels,NON A/C Sleeper (2+1),18:00,09h 30m,03:30,4.0,17,INR 594
+22 Jul,Kadamba,Goa to Satara,https://www.redbus.in/bus-tickets/goa-to-satara,Atmaram Gobus,NON A/C Sleeper (2+1),20:01,09h 40m,05:41,4.4,20,INR 555
+22 Jul,Kadamba,Goa to Satara,https://www.redbus.in/bus-tickets/goa-to-satara,Laxmi Queen Prime,A/C Sleeper (2+1),19:30,09h 30m,05:00,4.4,16,INR 699
+22 Jul,Kadamba,Goa to Satara,https://www.redbus.in/bus-tickets/goa-to-satara,Atmaram Gobus,NON A/C Sleeper (2+1),21:02,09h 15m,06:17,4.6,19,INR 555
+22 Jul,Kadamba,Goa to Satara,https://www.redbus.in/bus-tickets/goa-to-satara,Zingbus Plus,VE A/C Sleeper (2+1),20:25,08h 45m,05:10,4.8,21,INR 642
+22 Jul,Kadamba,Goa to Satara,https://www.redbus.in/bus-tickets/goa-to-satara,Amrutyog Travels,A/C Sleeper (2+1),19:00,10h 00m,05:00,4.4,25,INR 555
+22 Jul,Kadamba,Goa to Satara,https://www.redbus.in/bus-tickets/goa-to-satara,Atmaram Travels(KVT Narmada Red),Bharat Benz A/C Sleeper (2+1),21:16,08h 45m,06:01,4.1,20,INR 555
+22 Jul,Kadamba,Goa to Satara,https://www.redbus.in/bus-tickets/goa-to-satara,Atmaram Travels(M.Dev),A/C Sleeper (2+1),22:00,08h 50m,06:50,3.8,31,INR 799
+22 Jul,Kadamba,Goa to Satara,https://www.redbus.in/bus-tickets/goa-to-satara,Giroba Travels (ST.Christopher),Non AC Seater (2+2),18:00,10h 00m,04:00,0,22,INR 350
+22 Jul,Kadamba,Goa to Satara,https://www.redbus.in/bus-tickets/goa-to-satara,Sangitam Travels Tanzanite,A/C Sleeper (2+1),21:00,07h 30m,04:30,3.7,36,INR 810
+22 Jul,Kadamba,Goa to Satara,https://www.redbus.in/bus-tickets/goa-to-satara,Laxmi-Princess Nova,Non A/C Seater / Sleeper (2+1),19:00,09h 00m,04:00,3.7,29,INR 399
+22 Jul,Kadamba,Goa to Satara,https://www.redbus.in/bus-tickets/goa-to-satara,Indumati Travels,A/C Sleeper (2+1),21:00,08h 00m,05:00,2.9,16,INR 570
+22 Jul,Kadamba,Goa to Satara,https://www.redbus.in/bus-tickets/goa-to-satara,IntrCity SmartBus,AC Sleeper (2+1),19:30,07h 40m,03:10,4.3,11,INR 754
+22 Jul,Kadamba,Goa to Satara,https://www.redbus.in/bus-tickets/goa-to-satara,Zingbus Plus,Bharat Benz A/C Sleeper (2+1),18:10,08h 40m,02:50,4.3,20,INR 734
+22 Jul,Kadamba,Goa to Satara,https://www.redbus.in/bus-tickets/goa-to-satara,IntrCity SmartBus,AC Sleeper (2+1),17:00,09h 00m,02:00,4.3,30,INR 2018
+22 Jul,Kadamba,Goa to Satara,https://www.redbus.in/bus-tickets/goa-to-satara,IntrCity SmartBus,AC Sleeper (2+1),18:30,08h 05m,02:35,4.3,13,INR 647
+22 Jul,Kadamba,Goa to Satara,https://www.redbus.in/bus-tickets/goa-to-satara,Atmaram Gobus,VE A/C Sleeper (2+1),21:32,07h 45m,05:17,4.1,10,INR 606
+22 Jul,Kadamba,Goa to Satara,https://www.redbus.in/bus-tickets/goa-to-satara,Atmaram Travels ( Dolphin ),A/C Sleeper (2+1),14:00,09h 30m,23:30,4.1,12,INR 1099
+22 Jul,Kadamba,Goa to Satara,https://www.redbus.in/bus-tickets/goa-to-satara,Atmaram Travels ( Dolphin ),A/C Sleeper (2+1),16:30,09h 30m,02:00,4.1,27,INR 750
+22 Jul,Kadamba,Goa to Satara,https://www.redbus.in/bus-tickets/goa-to-satara,Atmaram Travels Goa,A/C Sleeper (2+1),19:00,09h 15m,04:15,4.1,28,INR 606
+22 Jul,Kadamba,Goa to Satara,https://www.redbus.in/bus-tickets/goa-to-satara,Atmaram Travels ( Ashray ),A/C Sleeper (2+1),20:05,09h 30m,05:35,4.1,12,INR 555
+22 Jul,Kadamba,Goa to Satara,https://www.redbus.in/bus-tickets/goa-to-satara,Atmaram Travels (Humsafar),Bharat Benz A/C Sleeper (2+1),19:30,08h 15m,03:45,4.1,24,INR 601
+22 Jul,Kadamba,Goa to Satara,https://www.redbus.in/bus-tickets/goa-to-satara,Ashray Travels,Non A/C Seater / Sleeper (2+1),20:00,07h 00m,03:00,4.1,33,INR 350
+22 Jul,Kadamba,Goa to Satara,https://www.redbus.in/bus-tickets/goa-to-satara,Atmaram Travels ( Dolphin ),A/C Sleeper (2+1),15:30,09h 30m,01:00,4.1,17,INR 800
+22 Jul,Kadamba,Goa to Satara,https://www.redbus.in/bus-tickets/goa-to-satara,Atmaram Travels ( Dolphin ),AC Sleeper (2+1),18:30,09h 30m,04:00,4.1,22,INR 606
+22 Jul,Kadamba,Goa to Satara,https://www.redbus.in/bus-tickets/goa-to-satara,Atmaram Travels (Unity),A/C Sleeper (2+1),20:00,08h 45m,04:45,4.1,28,INR 650
+22 Jul,Kadamba,Goa to Satara,https://www.redbus.in/bus-tickets/goa-to-satara,Atmaram Travels ( Dolphin ),A/C Sleeper (2+1),17:30,10h 00m,03:30,4.1,28,INR 660
+22 Jul,Kadamba,Goa to Satara,https://www.redbus.in/bus-tickets/goa-to-satara,Prasanna Purple Big Bus,VE A/C Sleeper (2+1),22:00,07h 30m,05:30,3.9,16,INR 820
+22 Jul,Kadamba,Goa to Satara,https://www.redbus.in/bus-tickets/goa-to-satara,"National Travels,Goa",NON A/C Sleeper (2+1),19:00,08h 30m,03:30,3.7,19,INR 523
+22 Jul,Kadamba,Goa to Satara,https://www.redbus.in/bus-tickets/goa-to-satara,Jolly Tours and Travels,VE A/C Sleeper (2+1),17:30,08h 00m,01:30,3.6,34,INR 1439
+22 Jul,Kadamba,Goa to Satara,https://www.redbus.in/bus-tickets/goa-to-satara,PSR Travels Goa,A/C Sleeper (2+1),19:15,07h 45m,03:00,3.5,20,INR 799
+22 Jul,Kadamba,Goa to Satara,https://www.redbus.in/bus-tickets/goa-to-satara,Atmaram Travels ( Gogte ),NON A/C Sleeper (2+1),21:15,08h 30m,05:45,3.6,36,INR 5000
+22 Jul,Kadamba,Goa to Satara,https://www.redbus.in/bus-tickets/goa-to-satara,Atmaram Travels (Shreyas),NON A/C Sleeper (2+1),20:30,08h 30m,05:00,4.1,30,INR 850
+22 Jul,Kadamba,Goa to Satara,https://www.redbus.in/bus-tickets/goa-to-satara,Shreyash Travels,A/C Sleeper (2+1),20:00,08h 00m,04:00,3.2,11,INR 727
+22 Jul,Kadamba,Goa to Satara,https://www.redbus.in/bus-tickets/goa-to-satara,Manish Travels,A/C Seater / Sleeper (2+1),18:00,10h 30m,04:30,2.7,31,INR 600
+22 Jul,Kadamba,Goa to Satara,https://www.redbus.in/bus-tickets/goa-to-satara,Zingbus Plus,VE A/C Sleeper (2+1),19:40,08h 30m,04:10,4.3,27,INR 614
+22 Jul,Kadamba,Goa to Satara,https://www.redbus.in/bus-tickets/goa-to-satara,Atmaram Travels (Shreyas),Bharat Benz A/C Sleeper (2+1),20:03,08h 00m,04:03,4.1,24,INR 5000
+22 Jul,Kadamba,Goa to Satara,https://www.redbus.in/bus-tickets/goa-to-satara,Ashray Travels,Volvo Multi-Axle A/C Sleeper (2+1),20:00,09h 30m,05:30,4.1,13,INR 2775
+22 Jul,Kadamba,Goa to Satara,https://www.redbus.in/bus-tickets/goa-to-satara,Atmaram Travels Goa,A/C Seater / Sleeper (3+1),21:30,08h 50m,06:20,4.1,38,INR 1299
+22 Jul,Kadamba,Goa to Satara,https://www.redbus.in/bus-tickets/goa-to-satara,Atmaram Travels Goa,A/C Sleeper (2+1),22:31,08h 30m,07:01,4.1,24,INR 1299
+22 Jul,Kadamba,Goa to Satara,https://www.redbus.in/bus-tickets/goa-to-satara,Laxmi Empress Stellar,NON A/C Sleeper (2+1),19:45,08h 30m,04:15,3.9,13,INR 649
+22 Jul,Kadamba,Goa to Satara,https://www.redbus.in/bus-tickets/goa-to-satara,"National Travels,Goa",A/C Sleeper (2+1),19:00,09h 30m,04:30,3.7,30,INR 2000
+22 Jul,Kadamba,Goa to Satara,https://www.redbus.in/bus-tickets/goa-to-satara,Gujarat Travels,AC Sleeper (2+1),13:55,07h 25m,21:20,3.4,34,INR 1080
+22 Jul,Kadamba,Goa to Satara,https://www.redbus.in/bus-tickets/goa-to-satara,Manish Roshan Travels,A/C Sleeper (2+1),18:00,10h 30m,04:30,2.7,27,INR 700
+22 Jul,Kadamba,Goa to Satara,https://www.redbus.in/bus-tickets/goa-to-satara,VRL Travels,A/C Sleeper (2+1),17:00,08h 30m,01:30,3.4,36,INR 1600
+22 Jul,Kadamba,Goa to Satara,https://www.redbus.in/bus-tickets/goa-to-satara,VRL Travels,A/C Sleeper (2+1),19:30,08h 30m,04:00,3.4,30,INR 1100
+22 Jul,Kadamba,Goa to Satara,https://www.redbus.in/bus-tickets/goa-to-satara,VRL Travels,A/C Sleeper (2+1),20:00,09h 00m,05:00,3.4,32,INR 1000
+22 Jul,Kadamba,Belagavi to Marcel,https://www.redbus.in/bus-tickets/belagavi-to-marcel,Kadamba Transport Corporation Limited (KTCL) - 6020,Non AC Seater 2+2,16:00,02h 45m,18:45,3.3,24,INR 140
+22 Jul,Kadamba,Mopa Airport to Goa,https://www.redbus.in/bus-tickets/mopa-airport-to-goa,Kadamba Transport Corporation Limited (KTCL) - 159015,A/C Seater (2+3),16:00,02h 00m,18:00,4.7,47,INR 400
+22 Jul,Kadamba,Mopa Airport to Goa,https://www.redbus.in/bus-tickets/mopa-airport-to-goa,Kadamba Transport Corporation Limited (KTCL) - 159015,A/C Seater (2+3),16:00,00h 25m,16:25,3.7,47,INR 150
+22 Jul,Kadamba,Mopa Airport to Goa,https://www.redbus.in/bus-tickets/mopa-airport-to-goa,Kadamba Transport Corporation Limited (KTCL) - 160437,A/C Seater (2+3),17:30,00h 30m,18:00,3.7,47,INR 150
+22 Jul,Kadamba,Shirdi to Goa,https://www.redbus.in/bus-tickets/shirdi-to-goa,PSR Travels Goa,A/C Sleeper (2+1),18:00,15h 00m,09:00,3.6,5,INR 1299
+22 Jul,Kadamba,Shirdi to Goa,https://www.redbus.in/bus-tickets/shirdi-to-goa,Humsafar Travels,A/C Sleeper (2+1),14:30,19h 00m,09:30,3.4,2,INR 1150
+22 Jul,Kadamba,Shirdi to Goa,https://www.redbus.in/bus-tickets/shirdi-to-goa,PSR Travels Goa,A/C Sleeper (2+1),18:30,15h 00m,09:30,3.5,8,INR 1299
+22 Jul,Kadamba,Goa to Shivamogga,https://www.redbus.in/bus-tickets/goa-to-shimoga,Sea Bird Tourist,NON A/C Sleeper (2+1),17:30,09h 00m,02:30,4.1,21,INR 700
+22 Jul,Kadamba,Goa to Shirdi,https://www.redbus.in/bus-tickets/goa-to-shirdi,PSR Travels Goa,A/C Sleeper (2+1),19:15,14h 45m,10:00,3.6,19,INR 1299
+22 Jul,Kadamba,Goa to Shirdi,https://www.redbus.in/bus-tickets/goa-to-shirdi,Humsafar Travels,A/C Sleeper (2+1),19:00,16h 00m,11:00,1.7,18,INR 1450
+22 Jul,Kadamba,Goa to Goa Airport,https://www.redbus.in/bus-tickets/goa-to-goa-airport,Kadamba Transport Corporation Limited (KTCL) - 78627,Volvo AC Seater 2+2,14:01,01h 14m,15:15,3.7,40,INR 150
+22 Jul,Kadamba,Goa to Goa Airport,https://www.redbus.in/bus-tickets/goa-to-goa-airport,Kadamba Transport Corporation Limited (KTCL) - 99718,AC Seater (2+2),16:01,01h 14m,17:15,3.7,41,INR 150
+22 Jul,Kadamba,Margao to Mopa Airport,https://www.redbus.in/bus-tickets/margoa-to-mopa-airport,Kadamba Transport Corporation Limited (KTCL) - 158948,A/C Seater (2+3),14:00,00h 30m,14:30,2.7,47,INR 150
+22 Jul,Kadamba,Margao to Mopa Airport,https://www.redbus.in/bus-tickets/margoa-to-mopa-airport,Kadamba Transport Corporation Limited (KTCL) - 158967,A/C Seater (2+3),15:00,02h 00m,17:00,4.6,47,INR 400
+22 Jul,Kadamba,Margao to Mopa Airport,https://www.redbus.in/bus-tickets/margoa-to-mopa-airport,Kadamba Transport Corporation Limited (KTCL) - 158967,A/C Seater (2+3),15:55,01h 05m,17:00,3.6,47,INR 200
+23 Jul,Kadamba,Goa Airport to Goa,https://www.redbus.in/bus-tickets/goa-airport-to-goa,Kadamba Transport Corporation Limited (KTCL) - 99708,AC Seater (2+2),07:30,01h 01m,08:31,3.1,41,INR 150
+23 Jul,Kadamba,Goa Airport to Goa,https://www.redbus.in/bus-tickets/goa-airport-to-goa,Kadamba Transport Corporation Limited (KTCL) - 151354,Volvo AC Seater 2+2,08:00,01h 01m,09:01,3.7,40,INR 150
+22 Jul,Kadamba,Mopa Airport to Margao,https://www.redbus.in/bus-tickets/mopa-airport-to-margoa,Kadamba Transport Corporation Limited (KTCL) - 159015,A/C Seater (2+3),16:00,02h 00m,18:00,4.7,47,INR 400
+22 Jul,Kadamba,Mopa Airport to Margao,https://www.redbus.in/bus-tickets/mopa-airport-to-margoa,Kadamba Transport Corporation Limited (KTCL) - 159015,A/C Seater (2+3),16:00,00h 25m,16:25,3.7,47,INR 150
+22 Jul,Kadamba,Mopa Airport to Margao,https://www.redbus.in/bus-tickets/mopa-airport-to-margoa,Kadamba Transport Corporation Limited (KTCL) - 160437,A/C Seater (2+3),17:30,00h 30m,18:00,3.7,47,INR 150
+22 Jul,Kadamba,Belagavi to Saquelim,https://www.redbus.in/bus-tickets/belagavi-to-saquelim,Kadamba Transport Corporation Limited (KTCL) - 6020,Non AC Seater 2+2,16:00,02h 15m,18:15,3.7,24,INR 140
+23 Jul,Kadamba,Panaji to Mopa Airport,https://www.redbus.in/bus-tickets/panaji-to-mopa-airport,Kadamba Transport Corporation Limited (KTCL) - 158948,A/C Seater (2+3),13:30,01h 00m,14:30,4.4,47,INR 200
+23 Jul,Kadamba,Saquelim to Belagavi,https://www.redbus.in/bus-tickets/saquelim-to-belagavi,Kadamba Transport Corporation Limited (KTCL) - 6028,Non AC Seater 2+2,08:30,02h 00m,10:30,3.7,25,INR 140
+22 Jul,Kadamba,Calangute (goa) to Goa,https://www.redbus.in/bus-tickets/calangute-goa-to-goa,Kadamba Transport Corporation Limited (KTCL) - 99718,AC Seater (2+2),15:30,00h 31m,16:01,3.7,41,INR 100
+22 Jul,Kadamba,Calangute (goa) to Panaji,https://www.redbus.in/bus-tickets/calangute-goa-to-panaji,Kadamba Transport Corporation Limited (KTCL) - 99718,AC Seater (2+2),15:30,00h 30m,16:00,3.7,41,INR 100
+22 Jul,Kadamba,Goa Airport to Panaji,https://www.redbus.in/bus-tickets/goa-airport-to-panaji,Kadamba Transport Corporation Limited (KTCL) - 99710,AC Seater (2+2),16:00,01h 00m,17:00,4.0,42,INR 150
