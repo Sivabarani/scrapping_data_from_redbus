@@ -9,13 +9,11 @@ The goal of this project is to automate the retrieval of bus route information f
 
 **Components**
 **Data Collection and Storage:**
-
 Data is scraped or fetched in real-time from Redbus using web scraping techniques.
 The retrieved data includes information such as bus routes, timings, prices, ratings, and seat availability.
 This data is stored in a MySQL database named MDT36.
 
 **Streamlit Application:**
-
 A Streamlit web application is developed to visualize and filter the bus route data stored in MySQL.
 Users can select a state, route, price range, star rating, and bus type to filter the displayed data.
 The application dynamically queries the MySQL database based on user inputs and displays the filtered results.
