@@ -5,13 +5,13 @@ To fetch the data from redbus website and store the Mysql database. Finally, fet
 This project involves fetching data from the Redbus website, storing it in a MySQL database, and creating a Streamlit application to display and filter this data.
 
 **Project Overview**
-The goal of this project is to automate the retrieval of bus route information from Redbus, store it in a MySQL database named MDT36, and develop a Streamlit application for users to filter and view this data based on various criteria.
+The goal of this project is to automate the retrieval of bus route information from Redbus, store it in a MySQL database named REDBUS, and develop a Streamlit application for users to filter and view this data based on various criteria.
 
 **Components**
 **Data Collection and Storage:**
 Data is scraped or fetched in real-time from Redbus using web scraping techniques.
 The retrieved data includes information such as bus routes, timings, prices, ratings, and seat availability.
-This data is stored in a MySQL database named MDT36.
+This data is stored in a MySQL database named REDBUS.
 
 **Streamlit Application:**
 A Streamlit web application is developed to visualize and filter the bus route data stored in MySQL.
@@ -27,7 +27,7 @@ Streamlit: Python library used for building interactive web applications for dat
 **To run the Streamlit application:**
 **Setup MySQL Database:**
 Ensure you have MySQL installed and running.
-Create a database named MDT36.
+Create a database named REDBUS.
 Update db_details in the Python scripts with your MySQL credentials (user, password, host, database).
 
 **Install Python Dependencies:**
