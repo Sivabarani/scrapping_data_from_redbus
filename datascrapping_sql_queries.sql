@@ -1,5 +1,5 @@
-create database MDT36;
-use MDT36;
+create database REDBUS;
+use REDBUS;
 show tables;
 select * from bus_routes;
 SELECT state, count(state) as count FROM bus_routes GROUP BY state ORDER BY state ASC;

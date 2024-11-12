@@ -1,17 +1,14 @@
-import pandas as pd
+import mysql.connector
 import streamlit as st
-import mysql.connector as db
+import pandas as pd
 import datetime
 
 db_details = {
-    'user': 'root',
+    'user': 'root',         
     'password': 'admin123',
-    'host': '127.0.0.1',
-    'database': 'MDT36'
+    'host': '127.0.0.1',    
+    'database': 'REDBUS'    
 }
-
-conn = db.connect(**db_details)
-c = conn.cursor()
 
 def get_result(results):
     data = []
@@ -39,32 +36,11 @@ def get_result(results):
             'Available Seats': bus[12]
         }
         data.append(row)
-    data =  pd.DataFrame(data, index=[i for i in range(1, len(data)+1)]) # Give index for dataframe
+
+    data = pd.DataFrame(data, index=[i for i in range(1, len(data)+1)])
     return data
 
-def get_states_list():
-    try:
-        get_states_query = 'SELECT state, count(state) as count FROM bus_routes GROUP BY state ORDER BY state ASC;'
-        c.execute(get_states_query)
-        states_list = c.fetchall() # it returns state, and count of buses in this state
-        states = [bus[0] for bus in states_list] # get only states
-        return states
-    except db.Error as e:
-        st.error(f"Error fetching states: {e}")
-        return []
-
-def get_routes_list(state):
-    try:
-        route_list_query = f'SELECT route_name from bus_routes where state="{state}"'
-        c.execute(route_list_query)
-        routes_list = c.fetchall()
-        routes = [bus[0] for bus in routes_list] # get routes only on particular state
-        return list(set(routes))
-    except db.Error as e:
-        st.error(f"Error fetching routes: {e}")
-        return []
-
-def get_bus_data_from_db(state, route, min_price, max_price, min_rating, max_rating, bus_type):
+def get_bus_data_from_db(state, route, min_price, max_price, min_rating, max_rating, bus_type, c):
     try:
         get_bus_list_query = f'SELECT * FROM bus_routes WHERE state = "{state}" and route_name = "{route}"'
 
@@ -84,7 +60,7 @@ def get_bus_data_from_db(state, route, min_price, max_price, min_rating, max_rat
         elif max_rating is not None:
             get_bus_list_query += f' AND `star_rating` >= {max_rating}'
 
-        # For bus route
+        # For bus type
         if bus_type != 'Select Type':
             if bus_type.upper() == 'A/C':
                 get_bus_list_query += ' AND (`bus_type` LIKE "%AC%" OR `bus_type` LIKE "%A/C%")'
@@ -98,10 +74,32 @@ def get_bus_data_from_db(state, route, min_price, max_price, min_rating, max_rat
         get_bus_list = c.fetchall()
         buses = get_result(get_bus_list)
         return buses
-    except db.Error as e:
+    except mysql.connector.Error as e:
         st.error(f"Error fetching bus data: {e}")
         return []
 
+def get_states_list(c):
+    try:
+        get_states_query = 'SELECT state, count(state) as count FROM bus_routes GROUP BY state ORDER BY state ASC;'
+        c.execute(get_states_query)
+        states_list = c.fetchall()  
+        states = [bus[0] for bus in states_list]  
+        return states
+    except mysql.connector.Error as e:
+        st.error(f"Error fetching states: {e}")
+        return []
+
+def get_routes_list(state, c):
+    try:
+        route_list_query = f'SELECT route_name from bus_routes where state="{state}"'
+        c.execute(route_list_query)
+        routes_list = c.fetchall()
+        routes = [bus[0] for bus in routes_list]  
+        return list(set(routes))  
+    except mysql.connector.Error as e:
+        st.error(f"Error fetching routes: {e}")
+        return []
+    
 def get_min_max_value(value):
     if 'Above' in value:
         actual_value = value.split()[1]
@@ -115,28 +113,35 @@ def get_min_max_value(value):
     else:
         return None, None
 
-def main():
-    st.title('Bus Information')
+try:
+    st.title("Bus Information")
+    conn = mysql.connector.connect(**db_details)
+    cursor = conn.cursor()
 
-    state_list = get_states_list()
+    state_list = get_states_list(cursor)
+    # Select state
     option_state = st.selectbox("Which state do you want to see bus information for?", state_list)
 
-    route_list = get_routes_list(option_state)
+    route_list = get_routes_list(option_state, cursor)
+    # Select route
     option_route = st.selectbox("Select a route:", route_list)
-
+    
+    # Select price range
     prices_list = ['Select Prices', 'Below 100', '100-200', '200-400', '400-600', '600-800', '800-1000', 'Above 1000']
     option_price = st.selectbox("Select a Price:", prices_list)
     min_price, max_price = get_min_max_value(option_price)
 
-    star_rating_list = ['Select star rating', 'Below 1.0', '1.0-2.0', '2.0-3.0', 'Above 4.0']
+    # Select star rating range
+    star_rating_list = ['Select star rating', 'Below 1.0', '1.0-2.0', '2.0-3.0', '3.0-4.0','Above 4.0']
     option_star_rating = st.selectbox("Select star rating:", star_rating_list)
     min_rating, max_rating = get_min_max_value(option_star_rating)
 
+    # Select bus type
     bus_type_list = ['Select Type', 'A/C', 'NON A/C', 'Sleeper', 'Seater']
     option_bus_type = st.selectbox("Select bus type:", bus_type_list)
 
     st.write(f"Bus Information for {option_state} - Route: {option_route}:")
-    buses = get_bus_data_from_db(option_state, option_route, min_price, max_price, min_rating, max_rating, option_bus_type)
+    buses = get_bus_data_from_db(option_state, option_route, min_price, max_price, min_rating, max_rating, option_bus_type, cursor)
 
     st.markdown(f'<p style="text-align:right">{len(buses)} buses found</p>', unsafe_allow_html=True)
     st.write("Please use scroll to view full content")
@@ -144,5 +149,11 @@ def main():
         st.error("No Bus Found")
     else:
         st.dataframe(buses)
-    conn.close()
-main()
+
+except mysql.connector.Error as err:
+    st.write(f"Error: {err}")
+
+finally:
+    if conn.is_connected():
+        cursor.close()
+        conn.close()

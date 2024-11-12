@@ -14,7 +14,7 @@ st.write("""
 - Price range, star rating, and bus type can be further filtered to narrow down search results.
 
 ### Database Connectivity:
-- The application connects to a MySQL database (MDT36) using credentials (username, password).
+- The application connects to a MySQL database (REDBUS) using credentials (username, password).
 
 ### Data Fetching:
 - **States and Routes:** 11 Available states and corresponding routes are fetched dynamically from the database.

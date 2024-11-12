@@ -5,7 +5,7 @@ def create_table(bus_details):
         'user': 'root',
         'password': 'admin123',
         'host': '127.0.0.1',
-        'database': 'MDT36'
+        'database': 'REDBUS'
     }
 
     conn = db.connect(**db_details)
