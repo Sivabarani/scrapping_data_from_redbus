@@ -1,7 +1,7 @@
 import mysql.connector
 import streamlit as st
 import pandas as pd
-import datetime
+from datetime import datetime
 
 db_details = {
     'user': 'root',         
@@ -17,8 +17,8 @@ def get_result(results):
         reaching_time_str = str(bus[9])
 
         try:
-            departing_time = datetime.datetime.strptime(departing_time_str, '%H:%M:%S').strftime('%I:%M %p')
-            reaching_time = datetime.datetime.strptime(reaching_time_str, '%H:%M:%S').strftime('%I:%M %p')
+            departing_time = datetime.strptime(departing_time_str, '%H:%M:%S').strftime('%I:%M %p')
+            reaching_time = datetime.strptime(reaching_time_str, '%H:%M:%S').strftime('%I:%M %p')
         except ValueError as e:
             st.error(f"Error parsing time: {e}")
             continue
@@ -40,7 +40,7 @@ def get_result(results):
     data = pd.DataFrame(data, index=[i for i in range(1, len(data)+1)])
     return data
 
-def get_bus_data_from_db(state, route, min_price, max_price, min_rating, max_rating, bus_type, c):
+def get_bus_data_from_db(state, route, min_price, max_price, min_rating, max_rating, bus_type, bus_timing, c):
     try:
         get_bus_list_query = f'SELECT * FROM bus_routes WHERE state = "{state}" and route_name = "{route}"'
 
@@ -70,6 +70,16 @@ def get_bus_data_from_db(state, route, min_price, max_price, min_rating, max_rat
             else:
                 get_bus_list_query += f' AND (`bus_type` LIKE "%{bus_type}%")'
 
+        if bus_timing != 'Select Timing':
+            start_time, end_time = bus_timing.split('to')
+            try:
+                start_time_change = datetime.strptime(start_time.strip(), '%I:%M %p').strftime('%H:%M:%S')
+                end_time_change = datetime.strptime(end_time.strip(), '%I:%M %p').strftime('%H:%M:%S')  
+                get_bus_list_query += f' AND `departing_time` BETWEEN "{start_time_change}" AND "{end_time_change}"'     
+            except ValueError as e:
+                print(f"Error parsing time: {e}")
+
+        st.write(get_bus_list_query)
         c.execute(get_bus_list_query)
         get_bus_list = c.fetchall()
         buses = get_result(get_bus_list)
@@ -127,21 +137,26 @@ try:
     option_route = st.selectbox("Select a route:", route_list)
     
     # Select price range
-    prices_list = ['Select Prices', 'Below 100', '100-200', '200-400', '400-600', '600-800', '800-1000', 'Above 1000']
+    prices_list = ['Select Prices', 'Below 100', 'Below 300', 'Below 500', 'Below 700', 'Below 1000', 'Above 1000']
     option_price = st.selectbox("Select a Price:", prices_list)
     min_price, max_price = get_min_max_value(option_price)
 
     # Select star rating range
-    star_rating_list = ['Select star rating', 'Below 1.0', '1.0-2.0', '2.0-3.0', '3.0-4.0','Above 4.0']
-    option_star_rating = st.selectbox("Select star rating:", star_rating_list)
-    min_rating, max_rating = get_min_max_value(option_star_rating)
+    option_star_rating = st.slider("Select a range of values", 0.0, 5.0, (0.0,5.0))
+    min_rating, max_rating = option_star_rating[0],option_star_rating[1]
+    st.write(min_rating)
+    st.write(max_rating)
 
     # Select bus type
     bus_type_list = ['Select Type', 'A/C', 'NON A/C', 'Sleeper', 'Seater']
     option_bus_type = st.selectbox("Select bus type:", bus_type_list)
 
+    #Select Timimg
+    bus_timing = ['Select Timing', '06:00 AM to 12:00 PM', '12:00 PM to 06:00 PM', '06:00 PM to 12.00 AM', '12.00 AM to 06.00 PM']
+    option_bus_timing = st.selectbox("Select bus type:", bus_timing)
+
     st.write(f"Bus Information for {option_state} - Route: {option_route}:")
-    buses = get_bus_data_from_db(option_state, option_route, min_price, max_price, min_rating, max_rating, option_bus_type, cursor)
+    buses = get_bus_data_from_db(option_state, option_route, min_price, max_price, min_rating, max_rating, option_bus_type, option_bus_timing,cursor)
 
     st.markdown(f'<p style="text-align:right">{len(buses)} buses found</p>', unsafe_allow_html=True)
     st.write("Please use scroll to view full content")
