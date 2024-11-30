@@ -79,7 +79,6 @@ def get_bus_data_from_db(state, route, min_price, max_price, min_rating, max_rat
             except ValueError as e:
                 print(f"Error parsing time: {e}")
 
-        st.write(get_bus_list_query)
         c.execute(get_bus_list_query)
         get_bus_list = c.fetchall()
         buses = get_result(get_bus_list)
@@ -144,9 +143,7 @@ try:
     # Select star rating range
     option_star_rating = st.slider("Select a range of values", 0.0, 5.0, (0.0,5.0))
     min_rating, max_rating = option_star_rating[0],option_star_rating[1]
-    st.write(min_rating)
-    st.write(max_rating)
-
+    
     # Select bus type
     bus_type_list = ['Select Type', 'A/C', 'NON A/C', 'Sleeper', 'Seater']
     option_bus_type = st.selectbox("Select bus type:", bus_type_list)
